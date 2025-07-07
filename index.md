@@ -19,11 +19,11 @@
 - [2025-06-25 phone talkback](/2025-06-25-p8-talkback.md)
 - [2025-06-26 phone talkback](/2025-06-26-p8-talkback.md)
 - [2025-06-26 tablet talkback](/2025-06-26-ptablet-talkback.md)
-- [2025-06-30 phone talkback](/2025-06-30-p8.md)
-- [2025-06-30 tablet talkback](/2025-06-30-ptablet.md)
-- [2025-07-02 tablet svg](/2025-07-02-ptablet-svg.md)
+- [2025-06-30 phone](/2025-06-30-p8.md)
+- [2025-06-30 tablet](/2025-06-30-ptablet.md)
+- [2025-07-02 tablet composite](/2025-07-02-ptablet-svg.md)
 - [2025-07-02 tablet markdown](/2025-07-02-ptablet-markdown.md)
-- [2025-07-03 tablet talkback svg](/2025-07-03-ptablet-talkback-svg.md)
+- [2025-07-03 tablet talkback composite](/2025-07-03-ptablet-talkback-svg.md)
 - [2025-07-03 tablet talkback markdown](/2025-07-03-ptablet-talkback-markdown.md)
 
 
