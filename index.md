@@ -25,6 +25,7 @@
 - [2025-07-02 tablet markdown](/2025-07-02-ptablet-markdown.md)
 - [2025-07-03 tablet talkback composite](/2025-07-03-ptablet-talkback-composite.md)
 - [2025-07-03 tablet talkback markdown](/2025-07-03-ptablet-talkback-markdown.md)
+- [2025-07-03 tablet talkback linegraph](resources/2025-07-03-android-15-ptablet-talkback-water_sports_bali_x_metrics.svg)
 
 
 
