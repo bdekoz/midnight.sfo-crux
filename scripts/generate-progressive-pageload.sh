@@ -10,4 +10,5 @@ for FILE in `ls *aggregate.json`; do
     fi
 done
 
-mv 2025*.svg ../../pages/
+
+ls *.svg | grep -v "x_line_graph" | xargs mv -t ../../pages/
