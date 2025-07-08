@@ -28,6 +28,12 @@
 - [2025-07-03 tablet talkback linegraph](resources/2025-07-03-android-15-ptablet-talkback-water_sports_bali_x_line_graph.svg)
 
 
-
 ## Data
 * [json](https://github.com/bdekoz/midnight.sfo-crux/tree/main/results)
+
+
+{::nomarkdown}
+<svg width="400" height=300>
+    <circle cx="150" cy="100" r="10" fill="blue"/>
+</svg>
+{:/}
