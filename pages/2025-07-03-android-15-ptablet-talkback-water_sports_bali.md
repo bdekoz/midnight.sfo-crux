@@ -598,7 +598,7 @@ chrome
 </head>
 <body>
     <div class="table-container">
-        <table>
+        <table style="width:100%;">
   
 	<thead>
 	  <tr>
