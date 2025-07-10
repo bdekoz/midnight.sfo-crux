@@ -10,5 +10,5 @@ for FILE in `ls *aggregate.json`; do
     fi
 done
 
-mv 2025*.svg ../../resources/
+ls *.svg | grep "_x_" | xargs mv -t ../../resources/
 mv 2025*.md ../../pages/
