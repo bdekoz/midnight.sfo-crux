@@ -598,7 +598,7 @@ chrome
 </head>
 <body>
     <div class="table-container">
-        <table border="1" class="dataframe">
+        <table >
   
 	<thead>
 	  <tr>
