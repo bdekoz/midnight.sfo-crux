@@ -22,7 +22,7 @@ def convert_json_to_html_table(inputf, outputf):
         inputf (str): The path to the input JSON file.
         outputf (str): The path to the output HTML file.
     """
-    
+
     # check inputs
     if os.path.exists(inputf):
         print(f"input data file '{inputf}' found")
@@ -36,7 +36,7 @@ def convert_json_to_html_table(inputf, outputf):
     else:
         print(f"output html file '{outputf}' created")
 
-    # parse data info df and export.        
+    # parse data info df and export.
     try:
         # 1. Read the JSON data from the input file
         with open(inputf, 'r', encoding='utf-8') as f:
@@ -57,8 +57,7 @@ def convert_json_to_html_table(inputf, outputf):
         html_table_string = df.to_html(
             index=False,               # Do not include the DataFrame index as a column
             na_rep='nan',              # Represent NaN values as 'N/A'
-            float_format='%.1f',       # Format float numbers to one decimal places
-            classes='min-w-full divide-y divide-gray-200 shadow-md rounded-lg overflow-hidden' # Example classes (would need Tailwind setup to fully apply)
+            float_format='%.1f'        # Format float numbers to one decimal places
         )
 
         # 4. Create a complete HTML document with the table
