@@ -598,9 +598,8 @@ chrome
 </head>
 <body>
     <div class="table-container">
-        <table style="width:100%;">
-  
-	<thead>
+      <table style="width:100%;">
+  	<thead>
 	  <tr>
 	    <th rowspan="2">metric</th>
 	    <th colspan="2">firefox</th>
