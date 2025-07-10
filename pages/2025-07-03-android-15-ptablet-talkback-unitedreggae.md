@@ -926,6 +926,124 @@ chrome
 ---
 
 ## navigation, paint, visual metrics
-![bar graphs of select metrics and variance for firefox,chrome](../resources/2025-07-03-android-15-ptablet-talkback-unitedreggae_x_metrics.svg)
 
----
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Metics Table</title>
+</head>
+<body>
+    <div class="table-container">
+        <table border="1" class="dataframe min-w-full divide-y divide-gray-200 shadow-md rounded-lg overflow-hidden">
+  
+	<thead>
+	  <tr>
+	    <th rowspan="2">metric</th>
+	    <th colspan="2">firefox</th>
+	    <th colspan="2">chrome</th>
+	    <th rowspan="2">difference</th>
+	  </tr>
+	  <tr>
+	    <th>median</th>
+	    <th>rsd</th>
+	    <th>median</th>
+	    <th>rsd</th>
+	   </tr>
+	</thead>
+      
+  <tbody>
+    <tr>
+      <td>redirectEnd</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>0</td>
+      <td>0.0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>domainLookupStart</td>
+      <td>28</td>
+      <td>29.6</td>
+      <td>6</td>
+      <td>35.2</td>
+      <td>78.6%</td>
+    </tr>
+    <tr>
+      <td>connectStart</td>
+      <td>29</td>
+      <td>33.0</td>
+      <td>6</td>
+      <td>34.6</td>
+      <td>79.3%</td>
+    </tr>
+    <tr>
+      <td>requestStart</td>
+      <td>424</td>
+      <td>32.5</td>
+      <td>350</td>
+      <td>6.9</td>
+      <td>17.5%</td>
+    </tr>
+    <tr>
+      <td>responseStart</td>
+      <td>828</td>
+      <td>28.3</td>
+      <td>700</td>
+      <td>6.2</td>
+      <td>15.5%</td>
+    </tr>
+    <tr>
+      <td>domInteractive</td>
+      <td>1183</td>
+      <td>22.7</td>
+      <td>1177</td>
+      <td>8.6</td>
+      <td>0.5%</td>
+    </tr>
+    <tr>
+      <td>loadEventEnd</td>
+      <td>5045</td>
+      <td>14.2</td>
+      <td>4127</td>
+      <td>13.9</td>
+      <td>18.2%</td>
+    </tr>
+    <tr>
+      <td>fcp</td>
+      <td>1144</td>
+      <td>22.2</td>
+      <td>1172</td>
+      <td>7.0</td>
+      <td>-2.4%</td>
+    </tr>
+    <tr>
+      <td>lcp-elements-differ</td>
+      <td>1415</td>
+      <td>20.6</td>
+      <td>3556</td>
+      <td>20.0</td>
+      <td>-151.3%</td>
+    </tr>
+    <tr>
+      <td>SpeedIndex</td>
+      <td>2919</td>
+      <td>13.0</td>
+      <td>2751</td>
+      <td>2.8</td>
+      <td>5.8%</td>
+    </tr>
+    <tr>
+      <td>LastVisualChange</td>
+      <td>13301</td>
+      <td>7.7</td>
+      <td>6911</td>
+      <td>27.1</td>
+      <td>48.0%</td>
+    </tr>
+  </tbody>
+</table>
+    </div>
+</body>
+</html>
+        
