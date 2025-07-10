@@ -1,7 +1,9 @@
 #!/usr/bin/env bash
 
 XURLMIN=$MOZPERFAX/bin/moz-perf-x-transform-url.exe
+XMINIJ=$MOZPERFAX/bin/moz-perf-x-minimize-aggregate.exe
 XAGGREGATE=../../scripts/generate_aggregate_json_by_date.py
+XMINI2HTML=../../scripts/transform_json_to_html_table.py
 
 TDATE=$1
 
@@ -62,10 +64,25 @@ generate_platform_by_sitelist() {
        $XAGGREGATE "$URLM" "$i" "$PLATFORM" "$ISODATE" "${ARTIFACT_BASE}-side-by-side.mp4" "$FFFJ" "$FFMJ" "$CFJ" "$CMJ"
 
        # generate 1-col markdown index
-       echo "- [${URLM}](/pages/${ARTIFACT_BASE}-aggregate.svg)" >> $MDOWNIDX
+       echo "- [${URLM}](/pages/${ARTIFACT_BASE}.svg)" >> $MDOWNIDX
 
        # generate js index
        echo "\"${URLM}\", " >> $JSIDX
+
+       # generate mini metrics for html table in markdown.
+       AGGJNAME="${ISODATE}-${PLATFORM}-${URLM}-aggregate.json"
+       MINIJNAME="${ISODATE}-${PLATFORM}-${URLM}-mini-metrics.json"
+       MINIHNAME="${ISODATE}-${PLATFORM}-${URLM}-mini-metrics.html"
+       if [ -f "${AGGJNAME}" ]; then
+	   $XMINIJ ${AGGJNAME}
+       else
+	   echo "missing aggregate jason file: ${AGGJNAME}"
+       fi
+       if [ -f "${MINIJNAME}" ]; then
+	   $XMINI2HTML $MINIJNAME $MINIHNAME
+       else
+	   echo "missing mini jason file: ${MINIJNAME}"
+       fi
    done
 }
 
