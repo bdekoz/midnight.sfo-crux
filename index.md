@@ -1,9 +1,3 @@
-{::nomarkdown}
-<svg width="400" height=300>
-    <circle cx="150" cy="100" r="10" fill="blue"/>
-</svg>
-{:/}
-
 ## About
 - [progressive metrics](/docs/about_1.md)
 - [key to visualization](/docs/about_2.md)
@@ -31,6 +25,12 @@
 - [2025-07-03 tablet talkback markdown](/2025-07-03-ptablet-talkback-markdown.md)
 
 
-
 ## Data
 * [json](https://github.com/bdekoz/midnight.sfo-crux/tree/main/results)
+
+
+{::nomarkdown}
+<svg width="400" height=300>
+    <circle cx="150" cy="100" r="10" fill="blue"/>
+</svg>
+{:/}
