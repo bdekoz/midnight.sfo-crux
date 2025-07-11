@@ -1,3 +1,9 @@
+{::nomarkdown}
+<svg width="400" height=300>
+    <circle cx="150" cy="100" r="10" fill="blue"/>
+</svg>
+{:/}
+
 ## About
 - [progressive metrics](/docs/about_1.md)
 - [key to visualization](/docs/about_2.md)
@@ -21,19 +27,10 @@
 - [2025-06-26 tablet talkback](/2025-06-26-ptablet-talkback.md)
 - [2025-06-30 phone](/2025-06-30-p8.md)
 - [2025-06-30 tablet](/2025-06-30-ptablet.md)
-- [2025-07-02 tablet composite](/2025-07-02-ptablet-composite.md)
 - [2025-07-02 tablet markdown](/2025-07-02-ptablet-markdown.md)
-- [2025-07-03 tablet talkback composite](/2025-07-03-ptablet-talkback-composite.md)
 - [2025-07-03 tablet talkback markdown](/2025-07-03-ptablet-talkback-markdown.md)
-- [2025-07-03 tablet talkback linegraph](resources/2025-07-03-android-15-ptablet-talkback-water_sports_bali_x_line_graph.svg)
+
 
 
 ## Data
 * [json](https://github.com/bdekoz/midnight.sfo-crux/tree/main/results)
-
-
-{::nomarkdown}
-<svg width="400" height=300>
-    <circle cx="150" cy="100" r="10" fill="blue"/>
-</svg>
-{:/}
