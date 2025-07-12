@@ -128,7 +128,7 @@ def generate_video_filmstrip_control_points(ivideo, cpfilename):
                 else:
                     timecodemin = int(timecoden/60)
                     timecodesec = timecoden - timecodemin;
-                    thumbflag = "-ss 00:" + str(timecodemin) + ":" + str(timecodesec) + cspace + "-frames:v 1"
+                    thumbflag = "-ss 00:" + str(timecodemin) + ":" + str(timecodesec) + cspace + "-frames:v 1 -vf scale=iw/4:ih/4 "
                 #timecodestr = f"{timecoden:.2f}"
                 #timecodestr = f"{timecodems:05}"
                 timecodestr = f"{timecodems:05d}"
