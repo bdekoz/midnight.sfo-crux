@@ -573,8 +573,8 @@ chrome
 	const bx = brect.left;
 	const by = brect.top;
 
-	tooltipimg.setAttribute('x', event.x + bx);
-	tooltipimg.setAttribute('y', event.y + by);
+	tooltipimg.setAttribute('x', event.x + bx + "px");
+	tooltipimg.setAttribute('y', event.y + by + "px");
 
 	tooltipimg.setAttribute('visibility', 'visible');
       } else {
