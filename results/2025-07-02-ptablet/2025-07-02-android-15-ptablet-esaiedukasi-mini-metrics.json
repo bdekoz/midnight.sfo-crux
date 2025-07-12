@@ -1,18 +1,10 @@
 [
     {
-        "metric": "redirectEnd",
-        "firefox_median": "0",
-        "firefox_rsd": "0.0",
-        "chrome_median": "0",
-        "chrome_rsd": "0.0",
-        "difference": "0"
-    },
-    {
         "metric": "domainLookupStart",
         "firefox_median": "27.5",
         "firefox_rsd": "80.9",
         "chrome_median": "87.5",
-        "chrome_rsd": "34.1",
+        "chrome_rsd": "34.114883",
         "difference": "-218.2%"
     },
     {
@@ -20,7 +12,7 @@
         "firefox_median": "29.5",
         "firefox_rsd": "99.9",
         "chrome_median": "87.5",
-        "chrome_rsd": "34.1",
+        "chrome_rsd": "34.114883",
         "difference": "-196.6%"
     },
     {
@@ -28,7 +20,7 @@
         "firefox_median": "200",
         "firefox_rsd": "54.2",
         "chrome_median": "88",
-        "chrome_rsd": "34.2",
+        "chrome_rsd": "34.162860",
         "difference": "56.0%"
     },
     {
@@ -36,7 +28,7 @@
         "firefox_median": "383",
         "firefox_rsd": "39.1",
         "chrome_median": "218",
-        "chrome_rsd": "23.0",
+        "chrome_rsd": "23.036807",
         "difference": "43.1%"
     },
     {
@@ -44,7 +36,7 @@
         "firefox_median": "1446",
         "firefox_rsd": "27.4",
         "chrome_median": "1117",
-        "chrome_rsd": "19.2",
+        "chrome_rsd": "19.232735",
         "difference": "22.8%"
     },
     {
@@ -52,7 +44,7 @@
         "firefox_median": "6214",
         "firefox_rsd": "10.1",
         "chrome_median": "6562",
-        "chrome_rsd": "11.9",
+        "chrome_rsd": "11.865937",
         "difference": "-5.6%"
     },
     {
@@ -60,7 +52,7 @@
         "firefox_median": "512",
         "firefox_rsd": "35.0",
         "chrome_median": "474",
-        "chrome_rsd": "13.8",
+        "chrome_rsd": "13.832203",
         "difference": "7.4%"
     },
     {
@@ -68,7 +60,7 @@
         "firefox_median": "6500",
         "firefox_rsd": "29.8",
         "chrome_median": "7010",
-        "chrome_rsd": "11.1",
+        "chrome_rsd": "11.109020",
         "difference": "-7.8%"
     },
     {
@@ -76,7 +68,7 @@
         "firefox_median": "3045",
         "firefox_rsd": "11.5",
         "chrome_median": "3107",
-        "chrome_rsd": "4.2",
+        "chrome_rsd": "4.195720",
         "difference": "-2.0%"
     },
     {
@@ -84,7 +76,7 @@
         "firefox_median": "13128",
         "firefox_rsd": "17.7",
         "chrome_median": "19412",
-        "chrome_rsd": "17.5",
+        "chrome_rsd": "17.476283",
         "difference": "-47.9%"
     }
 ]
