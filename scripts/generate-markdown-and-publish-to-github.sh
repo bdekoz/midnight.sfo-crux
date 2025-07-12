@@ -11,9 +11,9 @@ TPMETA=$2
 ../../scripts/generate-video-side-by-side-wrapper.sh $TDATE $TPMETA .
 ../../scripts/generate-video-filmstrip-wrapper.sh $TDATE $TPMETA .
 ../../scripts/generate-aggregate-json.sh $TDATE $TPMETA
-../../scripts/generate-progressive-pageload.sh
+../../scripts/generate-progressive-pageload-markdown.sh
 ../../scripts/copy-result-resources-into-places-for-display.sh
-cp index-1-col-android-15-ptablet.md ../../${TDATE}/${TPMETA}.md
+cp index-1-col-android-15-ptablet.md ../../${TDATE}-${TPMETA}.md
 ../../scripts/check-in-results.sh
 
 
