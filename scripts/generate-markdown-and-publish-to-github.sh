@@ -13,7 +13,7 @@ TPMETA=$2
 ../../scripts/generate-aggregate-json.sh $TDATE $TPMETA
 ../../scripts/generate-progressive-pageload-markdown.sh
 ../../scripts/copy-result-resources-into-places-for-display.sh
-cp index-1-col-android-15-ptablet.md ../../${TDATE}-${TPMETA}.md
+cp index-1-col-${TPMETA}.md ../../${TDATE}-${TPMETA}.md
 ../../scripts/check-in-results.sh
 
 

@@ -1,0 +1,2225 @@
+
+## metadata
+{::nomarkdown}
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+     id="svg2" xml:space="preserve"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:html="http://www.w3.org/1999/xhtml"
+x="0px" y="0px"
+width="540.000000px" height="150.000000px"
+viewBox="0 0 540.000000 150.000000" enable-background="new 0 0 540.000000 150.000000" role="img">
+
+<g id="metadata">
+<rect x="0.000000" y="0.000000" width="540.000000" height="150.000000"
+ style="fill:rgb(200,200,200); fill-opacity:1; stroke:rgb(200,200,200); stroke-opacity:0; stroke-width:0.5" />
+ <a href="https://vazhnoznat.com/">
+<text x="270.000000" y="50.000000" font-family="Atkinson Hyperlegible" font-size="24.000000pt" text-anchor="middle" text-align="center" font-weight="600" font-style="normal"  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0.5">vazhnoznat</text>
+ </a>
+<text x="275.000000" y="86.000000" font-family="Atkinson Hyperlegible" font-size="12.000000pt" text-anchor="middle" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0.5">dns-prefetch | google-publisher-tag | preconnect | preload</text>
+<text x="270.000000" y="98.000000" font-family="Atkinson Hyperlegible" font-size="12.000000pt" text-anchor="middle" text-align="center" font-weight="500" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0.5">2025-07-03</text>
+<text x="275.000000" y="110.000000" font-family="Atkinson Hyperlegible" font-size="12.000000pt" text-anchor="middle" text-align="center" font-weight="500" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0.5">android-15-ptablet-talkback</text>
+<text x="337.500000" y="134.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="start" text-align="left" font-weight="600" font-style="normal"  style="fill:rgb(255,255,255); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:0.5">chrome</text>
+<text x="202.500000" y="134.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="end" text-align="right" font-weight="600" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:0.5">firefox</text>
+</g>
+</svg>
+
+{:/}
+
+---
+
+## side by side video
+{::nomarkdown}
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+     id="svg2" xml:space="preserve"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:html="http://www.w3.org/1999/xhtml"
+x="0px" y="0px"
+width="540.000000px" height="585.000000px"
+viewBox="0 0 540.000000 585.000000" enable-background="new 0 0 540.000000 585.000000" role="img">
+
+<g id="video_side_x_side">
+<g>
+
+<g id="video-wrapper" transform="scale(1,1)">
+
+<foreignObject x="0.000000" y="0.000000" width="2160.000000" height="2340.000000">
+ <video xmlns="http://www.w3.org/1999/xhtml"   width="540.000000" height="585.000000"  controls="" loop="false" muted="true"  >
+<source src="../videos/2025-07-03-android-15-ptablet-talkback-vazhnoznat-side-by-side.mp4" type="video/mp4" />
+</video>
+ </foreignObject></g></g>
+</g>
+</svg>
+
+{:/}
+
+---
+
+## % visually complete by millisecond (SpeedIndex)
+{::nomarkdown}
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+     id="svg2" xml:space="preserve"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:html="http://www.w3.org/1999/xhtml"
+x="0px" y="0px"
+width="900.000000px" height="600.000000px"
+viewBox="0 0 900.000000 600.000000" enable-background="new 0 0 900.000000 600.000000" role="img">
+
+<title>
+2025-07-03-android-15-ptablet-talkback-vazhnoznat_x_line_graph
+</title>
+<desc>
+SpeedIndexProgress line graph for annotation
+</desc>
+ <g id="tic-x-annotation">
+<text x="100.000000" y="512.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">0.0s</text>
+<text x="136.269430" y="512.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">1.0s</text>
+<text x="172.538860" y="512.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">2.0s</text>
+<text x="208.808290" y="512.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">3.0s</text>
+<text x="245.077720" y="512.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">4.0s</text>
+<text x="281.347150" y="512.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">5.0s</text>
+<text x="317.616580" y="512.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">6.0s</text>
+<text x="353.886010" y="512.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">7.0s</text>
+<text x="390.155440" y="512.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">8.0s</text>
+<text x="426.424870" y="512.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">9.0s</text>
+<text x="462.694301" y="512.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">10.0s</text>
+<text x="498.963731" y="512.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">11.0s</text>
+<text x="535.233161" y="512.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">12.0s</text>
+<text x="571.502591" y="512.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">13.0s</text>
+<text x="607.772021" y="512.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">14.0s</text>
+<text x="644.041451" y="512.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">15.0s</text>
+<text x="680.310881" y="512.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">16.0s</text>
+<text x="716.580311" y="512.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">17.0s</text>
+<text x="752.849741" y="512.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">18.0s</text>
+<text x="789.119171" y="512.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">19.0s</text>
+ </g> <g id="tic-y-annotation">
+<text x="76.000000" y="460.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">10%</text>
+<text x="824.000000" y="460.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">10%</text>
+<text x="76.000000" y="420.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">20%</text>
+<text x="824.000000" y="420.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">20%</text>
+<text x="76.000000" y="380.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">30%</text>
+<text x="824.000000" y="380.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">30%</text>
+<text x="76.000000" y="340.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">40%</text>
+<text x="824.000000" y="340.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">40%</text>
+<text x="76.000000" y="300.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">50%</text>
+<text x="824.000000" y="300.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">50%</text>
+<text x="76.000000" y="260.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">60%</text>
+<text x="824.000000" y="260.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">60%</text>
+<text x="76.000000" y="220.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">70%</text>
+<text x="824.000000" y="220.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">70%</text>
+<text x="76.000000" y="180.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">80%</text>
+<text x="824.000000" y="180.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">80%</text>
+<text x="76.000000" y="140.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">90%</text>
+<text x="824.000000" y="140.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">90%</text>
+<text x="76.000000" y="100.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">100%</text>
+<text x="824.000000" y="100.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">100%</text>
+ </g> <g id="tic-y-lines-annotation">
+<line x1="112.000000" y1="460.000000" x2="788.000000" y2="460.000000" style="fill:rgb(118,118,118); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:1" />
+<text x="136.269430" y="460.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">10%</text>
+<text x="172.538860" y="460.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">10%</text>
+<text x="208.808290" y="460.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">10%</text>
+<text x="245.077720" y="460.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">10%</text>
+<text x="281.347150" y="460.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">10%</text>
+<text x="317.616580" y="460.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">10%</text>
+<text x="353.886010" y="460.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">10%</text>
+<text x="390.155440" y="460.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">10%</text>
+<text x="426.424870" y="460.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">10%</text>
+<text x="462.694301" y="460.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">10%</text>
+<text x="498.963731" y="460.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">10%</text>
+<text x="535.233161" y="460.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">10%</text>
+<text x="571.502591" y="460.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">10%</text>
+<text x="607.772021" y="460.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">10%</text>
+<text x="644.041451" y="460.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">10%</text>
+<text x="680.310881" y="460.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">10%</text>
+<text x="716.580311" y="460.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">10%</text>
+<text x="752.849741" y="460.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">10%</text>
+<line x1="112.000000" y1="420.000000" x2="788.000000" y2="420.000000" style="fill:rgb(118,118,118); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:1" />
+<text x="136.269430" y="420.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">20%</text>
+<text x="172.538860" y="420.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">20%</text>
+<text x="208.808290" y="420.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">20%</text>
+<text x="245.077720" y="420.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">20%</text>
+<text x="281.347150" y="420.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">20%</text>
+<text x="317.616580" y="420.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">20%</text>
+<text x="353.886010" y="420.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">20%</text>
+<text x="390.155440" y="420.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">20%</text>
+<text x="426.424870" y="420.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">20%</text>
+<text x="462.694301" y="420.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">20%</text>
+<text x="498.963731" y="420.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">20%</text>
+<text x="535.233161" y="420.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">20%</text>
+<text x="571.502591" y="420.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">20%</text>
+<text x="607.772021" y="420.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">20%</text>
+<text x="644.041451" y="420.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">20%</text>
+<text x="680.310881" y="420.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">20%</text>
+<text x="716.580311" y="420.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">20%</text>
+<text x="752.849741" y="420.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">20%</text>
+<line x1="112.000000" y1="380.000000" x2="788.000000" y2="380.000000" style="fill:rgb(118,118,118); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:1" />
+<text x="136.269430" y="380.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">30%</text>
+<text x="172.538860" y="380.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">30%</text>
+<text x="208.808290" y="380.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">30%</text>
+<text x="245.077720" y="380.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">30%</text>
+<text x="281.347150" y="380.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">30%</text>
+<text x="317.616580" y="380.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">30%</text>
+<text x="353.886010" y="380.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">30%</text>
+<text x="390.155440" y="380.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">30%</text>
+<text x="426.424870" y="380.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">30%</text>
+<text x="462.694301" y="380.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">30%</text>
+<text x="498.963731" y="380.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">30%</text>
+<text x="535.233161" y="380.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">30%</text>
+<text x="571.502591" y="380.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">30%</text>
+<text x="607.772021" y="380.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">30%</text>
+<text x="644.041451" y="380.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">30%</text>
+<text x="680.310881" y="380.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">30%</text>
+<text x="716.580311" y="380.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">30%</text>
+<text x="752.849741" y="380.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">30%</text>
+<line x1="112.000000" y1="340.000000" x2="788.000000" y2="340.000000" style="fill:rgb(118,118,118); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:1" />
+<text x="136.269430" y="340.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">40%</text>
+<text x="172.538860" y="340.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">40%</text>
+<text x="208.808290" y="340.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">40%</text>
+<text x="245.077720" y="340.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">40%</text>
+<text x="281.347150" y="340.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">40%</text>
+<text x="317.616580" y="340.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">40%</text>
+<text x="353.886010" y="340.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">40%</text>
+<text x="390.155440" y="340.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">40%</text>
+<text x="426.424870" y="340.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">40%</text>
+<text x="462.694301" y="340.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">40%</text>
+<text x="498.963731" y="340.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">40%</text>
+<text x="535.233161" y="340.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">40%</text>
+<text x="571.502591" y="340.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">40%</text>
+<text x="607.772021" y="340.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">40%</text>
+<text x="644.041451" y="340.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">40%</text>
+<text x="680.310881" y="340.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">40%</text>
+<text x="716.580311" y="340.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">40%</text>
+<text x="752.849741" y="340.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">40%</text>
+<line x1="112.000000" y1="300.000000" x2="788.000000" y2="300.000000" style="fill:rgb(118,118,118); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:1" />
+<text x="136.269430" y="300.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">50%</text>
+<text x="172.538860" y="300.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">50%</text>
+<text x="208.808290" y="300.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">50%</text>
+<text x="245.077720" y="300.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">50%</text>
+<text x="281.347150" y="300.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">50%</text>
+<text x="317.616580" y="300.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">50%</text>
+<text x="353.886010" y="300.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">50%</text>
+<text x="390.155440" y="300.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">50%</text>
+<text x="426.424870" y="300.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">50%</text>
+<text x="462.694301" y="300.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">50%</text>
+<text x="498.963731" y="300.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">50%</text>
+<text x="535.233161" y="300.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">50%</text>
+<text x="571.502591" y="300.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">50%</text>
+<text x="607.772021" y="300.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">50%</text>
+<text x="644.041451" y="300.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">50%</text>
+<text x="680.310881" y="300.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">50%</text>
+<text x="716.580311" y="300.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">50%</text>
+<text x="752.849741" y="300.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">50%</text>
+<line x1="112.000000" y1="260.000000" x2="788.000000" y2="260.000000" style="fill:rgb(118,118,118); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:1" />
+<text x="136.269430" y="260.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">60%</text>
+<text x="172.538860" y="260.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">60%</text>
+<text x="208.808290" y="260.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">60%</text>
+<text x="245.077720" y="260.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">60%</text>
+<text x="281.347150" y="260.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">60%</text>
+<text x="317.616580" y="260.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">60%</text>
+<text x="353.886010" y="260.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">60%</text>
+<text x="390.155440" y="260.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">60%</text>
+<text x="426.424870" y="260.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">60%</text>
+<text x="462.694301" y="260.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">60%</text>
+<text x="498.963731" y="260.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">60%</text>
+<text x="535.233161" y="260.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">60%</text>
+<text x="571.502591" y="260.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">60%</text>
+<text x="607.772021" y="260.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">60%</text>
+<text x="644.041451" y="260.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">60%</text>
+<text x="680.310881" y="260.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">60%</text>
+<text x="716.580311" y="260.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">60%</text>
+<text x="752.849741" y="260.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">60%</text>
+<line x1="112.000000" y1="220.000000" x2="788.000000" y2="220.000000" style="fill:rgb(118,118,118); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:1" />
+<text x="136.269430" y="220.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">70%</text>
+<text x="172.538860" y="220.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">70%</text>
+<text x="208.808290" y="220.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">70%</text>
+<text x="245.077720" y="220.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">70%</text>
+<text x="281.347150" y="220.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">70%</text>
+<text x="317.616580" y="220.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">70%</text>
+<text x="353.886010" y="220.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">70%</text>
+<text x="390.155440" y="220.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">70%</text>
+<text x="426.424870" y="220.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">70%</text>
+<text x="462.694301" y="220.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">70%</text>
+<text x="498.963731" y="220.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">70%</text>
+<text x="535.233161" y="220.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">70%</text>
+<text x="571.502591" y="220.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">70%</text>
+<text x="607.772021" y="220.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">70%</text>
+<text x="644.041451" y="220.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">70%</text>
+<text x="680.310881" y="220.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">70%</text>
+<text x="716.580311" y="220.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">70%</text>
+<text x="752.849741" y="220.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">70%</text>
+<line x1="112.000000" y1="180.000000" x2="788.000000" y2="180.000000" style="fill:rgb(118,118,118); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:1" />
+<text x="136.269430" y="180.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">80%</text>
+<text x="172.538860" y="180.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">80%</text>
+<text x="208.808290" y="180.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">80%</text>
+<text x="245.077720" y="180.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">80%</text>
+<text x="281.347150" y="180.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">80%</text>
+<text x="317.616580" y="180.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">80%</text>
+<text x="353.886010" y="180.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">80%</text>
+<text x="390.155440" y="180.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">80%</text>
+<text x="426.424870" y="180.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">80%</text>
+<text x="462.694301" y="180.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">80%</text>
+<text x="498.963731" y="180.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">80%</text>
+<text x="535.233161" y="180.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">80%</text>
+<text x="571.502591" y="180.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">80%</text>
+<text x="607.772021" y="180.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">80%</text>
+<text x="644.041451" y="180.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">80%</text>
+<text x="680.310881" y="180.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">80%</text>
+<text x="716.580311" y="180.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">80%</text>
+<text x="752.849741" y="180.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">80%</text>
+<line x1="112.000000" y1="140.000000" x2="788.000000" y2="140.000000" style="fill:rgb(118,118,118); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:1" />
+<text x="136.269430" y="140.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">90%</text>
+<text x="172.538860" y="140.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">90%</text>
+<text x="208.808290" y="140.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">90%</text>
+<text x="245.077720" y="140.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">90%</text>
+<text x="281.347150" y="140.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">90%</text>
+<text x="317.616580" y="140.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">90%</text>
+<text x="353.886010" y="140.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">90%</text>
+<text x="390.155440" y="140.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">90%</text>
+<text x="426.424870" y="140.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">90%</text>
+<text x="462.694301" y="140.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">90%</text>
+<text x="498.963731" y="140.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">90%</text>
+<text x="535.233161" y="140.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">90%</text>
+<text x="571.502591" y="140.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">90%</text>
+<text x="607.772021" y="140.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">90%</text>
+<text x="644.041451" y="140.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">90%</text>
+<text x="680.310881" y="140.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">90%</text>
+<text x="716.580311" y="140.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">90%</text>
+<text x="752.849741" y="140.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">90%</text>
+<line x1="112.000000" y1="100.000000" x2="788.000000" y2="100.000000" style="fill:rgb(118,118,118); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:1" />
+<text x="136.269430" y="100.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">100%</text>
+<text x="172.538860" y="100.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">100%</text>
+<text x="208.808290" y="100.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">100%</text>
+<text x="245.077720" y="100.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">100%</text>
+<text x="281.347150" y="100.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">100%</text>
+<text x="317.616580" y="100.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">100%</text>
+<text x="353.886010" y="100.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">100%</text>
+<text x="390.155440" y="100.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">100%</text>
+<text x="426.424870" y="100.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">100%</text>
+<text x="462.694301" y="100.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">100%</text>
+<text x="498.963731" y="100.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">100%</text>
+<text x="535.233161" y="100.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">100%</text>
+<text x="571.502591" y="100.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">100%</text>
+<text x="607.772021" y="100.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">100%</text>
+<text x="644.041451" y="100.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">100%</text>
+<text x="680.310881" y="100.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">100%</text>
+<text x="716.580311" y="100.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">100%</text>
+<text x="752.849741" y="100.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">100%</text>
+ </g> <g id="polyline-firefox">
+<polyline points="100,500 122.161,500 173.99,272 315.731,272 318.124,212 322.984,212 324.907,196 358.601,196 359.218,188 364.041,188 364.585,180 367.668,180 368.212,176 368.865,172 371.187,172 371.839,164 374.959,164 375.466,156 377.316,156 377.969,140 388.161,140 388.777,136 391.135,136 391.86,128 392.44,128 393.093,120 402.705,120 403.321,112 404.446,112 405.135,108 412.316,108 412.896,104 413.477,104 414.057,100 415.907,100 416.56,104 417.72,104 418.301,100 419.461,100 420.15,104 420.803,100 464.181,100 518.005,104 519.819,104 520.472,100 522.865,100 523.409,104 524.098,100 524.715,104 525.295,104 525.912,100 526.528,104 650.715,104 651.368,100 652.021,100 652.637,104 658.585,104 659.166,100 659.782,104 661.052,104 661.632,100 662.212,104 663.409,104 663.99,100 664.606,104 676.067,104 676.648,100 677.301,104 686.984,104 687.565,100 688.218,104 688.762,100 690.611,100 691.155,104 694.202,104 694.782,100 695.399,104 696.052,100 696.632,104 697.249,100 697.793,104 698.373,100 699.026,104 699.715,100 700.259,104 700.876,100 701.42,104 702,100 702.58,104 703.233,100 703.85,104 704.466,100 705.047,104 705.627,100 706.244,104 706.824,100 707.44,104 708.021,100 708.746,104 709.399,100 709.834,104 710.487,100 711.104,104 711.684,100 712.155,104 712.881,100 713.497,104 735.803,104 736.42,100 737.109,104 739.43,104 740.047,100 740.699,104 741.316,100 742.005,104 742.585,100 743.093,104 743.71,100 753.285,100 753.938,104 754.482,100 756.876,100 757.601,104 758.109,100 758.725,104 759.342,100 759.922,104 760.539,100 761.155,104 761.772,100 762.461,104 762.896,100 763.585,104 764.166,100 764.782,104 765.363,100 765.979,104 766.668,100 767.176,104 767.793,100 768.409,104 768.99,100 769.57,104 770.223,100 770.876,104 771.42,100 772,104 772.617,100 773.233,104 773.813,100 774.394,104 775.083,100 775.663,104 776.244,100 776.86,104 777.477,100 778.057,104 778.674,100 779.326,104 779.979,100 780.487,104 781.14,100 781.684,104 782.264,100 782.881,104 783.497,100 784.187,104 784.694,100 785.311,104 785.891,100 786.472,100 787.088,104 787.668,100 788.285,104 788.974,100 789.591,104 790.135,100 790.715,104 791.295,100 791.876,104 792.528,100 793.109,104 793.798,100 794.378,104 794.886,100 795.539,104 796.119,100 796.736,104 797.425,100 798.078,104 798.549,100 799.093,104 799.71,100 " stroke-dasharray="1 2" stroke-linecap="triangle"  style="fill:rgb(46,46,46); fill-opacity:0; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1" />
+ </g> <g id="markers-firefox">
+ <path id="triangle-3.900000-120.000000" d="M 103.377 501.95 L 100 496.1 L 96.6225 501.95 L 103.377 501.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_00000')"  onmouseout="hideTooltip('firefox_scrn_00000')"   >
+<title>
+firefox
+0%, 0ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 125.538 501.95 L 122.161 496.1 L 118.783 501.95 L 125.538 501.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_00611')"  onmouseout="hideTooltip('firefox_scrn_00611')"   >
+<title>
+firefox
+0%, 611ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 177.367 273.95 L 173.99 268.1 L 170.612 273.95 L 177.367 273.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_02040')"  onmouseout="hideTooltip('firefox_scrn_02040')"   >
+<title>
+firefox
+57%, 2040ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 319.108 273.95 L 315.731 268.1 L 312.353 273.95 L 319.108 273.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_05948')"  onmouseout="hideTooltip('firefox_scrn_05948')"   >
+<title>
+firefox
+57%, 5948ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 321.502 213.95 L 318.124 208.1 L 314.747 213.95 L 321.502 213.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_06014')"  onmouseout="hideTooltip('firefox_scrn_06014')"   >
+<title>
+firefox
+72%, 6014ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 326.362 213.95 L 322.984 208.1 L 319.607 213.95 L 326.362 213.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_06148')"  onmouseout="hideTooltip('firefox_scrn_06148')"   >
+<title>
+firefox
+72%, 6148ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 328.284 197.95 L 324.907 192.1 L 321.529 197.95 L 328.284 197.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_06201')"  onmouseout="hideTooltip('firefox_scrn_06201')"   >
+<title>
+firefox
+76%, 6201ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 361.979 197.95 L 358.601 192.1 L 355.224 197.95 L 361.979 197.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_07130')"  onmouseout="hideTooltip('firefox_scrn_07130')"   >
+<title>
+firefox
+76%, 7130ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 362.595 189.95 L 359.218 184.1 L 355.84 189.95 L 362.595 189.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_07147')"  onmouseout="hideTooltip('firefox_scrn_07147')"   >
+<title>
+firefox
+78%, 7147ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 367.419 189.95 L 364.041 184.1 L 360.664 189.95 L 367.419 189.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_07280')"  onmouseout="hideTooltip('firefox_scrn_07280')"   >
+<title>
+firefox
+78%, 7280ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 367.963 181.95 L 364.585 176.1 L 361.208 181.95 L 367.963 181.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_07295')"  onmouseout="hideTooltip('firefox_scrn_07295')"   >
+<title>
+firefox
+80%, 7295ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 371.046 181.95 L 367.668 176.1 L 364.291 181.95 L 371.046 181.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_07380')"  onmouseout="hideTooltip('firefox_scrn_07380')"   >
+<title>
+firefox
+80%, 7380ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 371.59 177.95 L 368.212 172.1 L 364.835 177.95 L 371.59 177.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_07395')"  onmouseout="hideTooltip('firefox_scrn_07395')"   >
+<title>
+firefox
+81%, 7395ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 372.243 173.95 L 368.865 168.1 L 365.488 173.95 L 372.243 173.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_07413')"  onmouseout="hideTooltip('firefox_scrn_07413')"   >
+<title>
+firefox
+82%, 7413ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 374.564 173.95 L 371.187 168.1 L 367.809 173.95 L 374.564 173.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_07477')"  onmouseout="hideTooltip('firefox_scrn_07477')"   >
+<title>
+firefox
+82%, 7477ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 375.217 165.95 L 371.839 160.1 L 368.462 165.95 L 375.217 165.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_07495')"  onmouseout="hideTooltip('firefox_scrn_07495')"   >
+<title>
+firefox
+84%, 7495ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 378.336 165.95 L 374.959 160.1 L 371.581 165.95 L 378.336 165.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_07581')"  onmouseout="hideTooltip('firefox_scrn_07581')"   >
+<title>
+firefox
+84%, 7581ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 378.844 157.95 L 375.466 152.1 L 372.089 157.95 L 378.844 157.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_07595')"  onmouseout="hideTooltip('firefox_scrn_07595')"   >
+<title>
+firefox
+86%, 7595ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 380.694 157.95 L 377.316 152.1 L 373.939 157.95 L 380.694 157.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_07646')"  onmouseout="hideTooltip('firefox_scrn_07646')"   >
+<title>
+firefox
+86%, 7646ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 381.346 141.95 L 377.969 136.1 L 374.591 141.95 L 381.346 141.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_07664')"  onmouseout="hideTooltip('firefox_scrn_07664')"   >
+<title>
+firefox
+90%, 7664ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 391.538 141.95 L 388.161 136.1 L 384.783 141.95 L 391.538 141.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_07945')"  onmouseout="hideTooltip('firefox_scrn_07945')"   >
+<title>
+firefox
+90%, 7945ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 392.155 137.95 L 388.777 132.1 L 385.4 137.95 L 392.155 137.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_07962')"  onmouseout="hideTooltip('firefox_scrn_07962')"   >
+<title>
+firefox
+91%, 7962ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 394.512 137.95 L 391.135 132.1 L 387.757 137.95 L 394.512 137.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_08027')"  onmouseout="hideTooltip('firefox_scrn_08027')"   >
+<title>
+firefox
+91%, 8027ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 395.238 129.95 L 391.86 124.1 L 388.483 129.95 L 395.238 129.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_08047')"  onmouseout="hideTooltip('firefox_scrn_08047')"   >
+<title>
+firefox
+93%, 8047ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 395.818 129.95 L 392.44 124.1 L 389.063 129.95 L 395.818 129.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_08063')"  onmouseout="hideTooltip('firefox_scrn_08063')"   >
+<title>
+firefox
+93%, 8063ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 396.471 121.95 L 393.093 116.1 L 389.716 121.95 L 396.471 121.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_08081')"  onmouseout="hideTooltip('firefox_scrn_08081')"   >
+<title>
+firefox
+95%, 8081ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 406.082 121.95 L 402.705 116.1 L 399.327 121.95 L 406.082 121.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_08346')"  onmouseout="hideTooltip('firefox_scrn_08346')"   >
+<title>
+firefox
+95%, 8346ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 406.699 113.95 L 403.321 108.1 L 399.944 113.95 L 406.699 113.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_08363')"  onmouseout="hideTooltip('firefox_scrn_08363')"   >
+<title>
+firefox
+97%, 8363ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 407.823 113.95 L 404.446 108.1 L 401.068 113.95 L 407.823 113.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_08394')"  onmouseout="hideTooltip('firefox_scrn_08394')"   >
+<title>
+firefox
+97%, 8394ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 408.512 109.95 L 405.135 104.1 L 401.757 109.95 L 408.512 109.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_08413')"  onmouseout="hideTooltip('firefox_scrn_08413')"   >
+<title>
+firefox
+98%, 8413ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 415.694 109.95 L 412.316 104.1 L 408.939 109.95 L 415.694 109.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_08611')"  onmouseout="hideTooltip('firefox_scrn_08611')"   >
+<title>
+firefox
+98%, 8611ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 416.274 105.95 L 412.896 100.1 L 409.519 105.95 L 416.274 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_08627')"  onmouseout="hideTooltip('firefox_scrn_08627')"   >
+<title>
+firefox
+99%, 8627ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 416.854 105.95 L 413.477 100.1 L 410.099 105.95 L 416.854 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_08643')"  onmouseout="hideTooltip('firefox_scrn_08643')"   >
+<title>
+firefox
+99%, 8643ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 417.434 101.95 L 414.057 96.1 L 410.679 101.95 L 417.434 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_08659')"  onmouseout="hideTooltip('firefox_scrn_08659')"   >
+<title>
+firefox
+100%, 8659ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 419.284 101.95 L 415.907 96.1 L 412.529 101.95 L 419.284 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_08710')"  onmouseout="hideTooltip('firefox_scrn_08710')"   >
+<title>
+firefox
+100%, 8710ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 419.937 105.95 L 416.56 100.1 L 413.182 105.95 L 419.937 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_08728')"  onmouseout="hideTooltip('firefox_scrn_08728')"   >
+<title>
+firefox
+99%, 8728ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 421.098 105.95 L 417.72 100.1 L 414.343 105.95 L 421.098 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_08760')"  onmouseout="hideTooltip('firefox_scrn_08760')"   >
+<title>
+firefox
+99%, 8760ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 421.678 101.95 L 418.301 96.1 L 414.923 101.95 L 421.678 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_08776')"  onmouseout="hideTooltip('firefox_scrn_08776')"   >
+<title>
+firefox
+100%, 8776ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 422.839 101.95 L 419.461 96.1 L 416.084 101.95 L 422.839 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_08808')"  onmouseout="hideTooltip('firefox_scrn_08808')"   >
+<title>
+firefox
+100%, 8808ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 423.528 105.95 L 420.15 100.1 L 416.773 105.95 L 423.528 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_08827')"  onmouseout="hideTooltip('firefox_scrn_08827')"   >
+<title>
+firefox
+99%, 8827ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 424.181 101.95 L 420.803 96.1 L 417.426 101.95 L 424.181 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_08845')"  onmouseout="hideTooltip('firefox_scrn_08845')"   >
+<title>
+firefox
+100%, 8845ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 467.559 101.95 L 464.181 96.1 L 460.804 101.95 L 467.559 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_10041')"  onmouseout="hideTooltip('firefox_scrn_10041')"   >
+<title>
+firefox
+100%, 10041ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 521.383 105.95 L 518.005 100.1 L 514.628 105.95 L 521.383 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_11525')"  onmouseout="hideTooltip('firefox_scrn_11525')"   >
+<title>
+firefox
+99%, 11525ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 523.196 105.95 L 519.819 100.1 L 516.441 105.95 L 523.196 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_11575')"  onmouseout="hideTooltip('firefox_scrn_11575')"   >
+<title>
+firefox
+99%, 11575ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 523.849 101.95 L 520.472 96.1 L 517.094 101.95 L 523.849 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_11593')"  onmouseout="hideTooltip('firefox_scrn_11593')"   >
+<title>
+firefox
+100%, 11593ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 526.243 101.95 L 522.865 96.1 L 519.488 101.95 L 526.243 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_11659')"  onmouseout="hideTooltip('firefox_scrn_11659')"   >
+<title>
+firefox
+100%, 11659ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 526.787 105.95 L 523.409 100.1 L 520.032 105.95 L 526.787 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_11674')"  onmouseout="hideTooltip('firefox_scrn_11674')"   >
+<title>
+firefox
+99%, 11674ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 527.476 101.95 L 524.098 96.1 L 520.721 101.95 L 527.476 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_11693')"  onmouseout="hideTooltip('firefox_scrn_11693')"   >
+<title>
+firefox
+100%, 11693ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 528.093 105.95 L 524.715 100.1 L 521.338 105.95 L 528.093 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_11710')"  onmouseout="hideTooltip('firefox_scrn_11710')"   >
+<title>
+firefox
+99%, 11710ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 528.673 105.95 L 525.295 100.1 L 521.918 105.95 L 528.673 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_11726')"  onmouseout="hideTooltip('firefox_scrn_11726')"   >
+<title>
+firefox
+99%, 11726ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 529.289 101.95 L 525.912 96.1 L 522.534 101.95 L 529.289 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_11743')"  onmouseout="hideTooltip('firefox_scrn_11743')"   >
+<title>
+firefox
+100%, 11743ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 529.906 105.95 L 526.528 100.1 L 523.151 105.95 L 529.906 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_11760')"  onmouseout="hideTooltip('firefox_scrn_11760')"   >
+<title>
+firefox
+99%, 11760ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 654.093 105.95 L 650.715 100.1 L 647.338 105.95 L 654.093 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_15184')"  onmouseout="hideTooltip('firefox_scrn_15184')"   >
+<title>
+firefox
+99%, 15184ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 654.745 101.95 L 651.368 96.1 L 647.99 101.95 L 654.745 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_15202')"  onmouseout="hideTooltip('firefox_scrn_15202')"   >
+<title>
+firefox
+100%, 15202ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 655.398 101.95 L 652.021 96.1 L 648.643 101.95 L 655.398 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_15220')"  onmouseout="hideTooltip('firefox_scrn_15220')"   >
+<title>
+firefox
+100%, 15220ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 656.015 105.95 L 652.637 100.1 L 649.26 105.95 L 656.015 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_15237')"  onmouseout="hideTooltip('firefox_scrn_15237')"   >
+<title>
+firefox
+99%, 15237ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 661.963 105.95 L 658.585 100.1 L 655.208 105.95 L 661.963 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_15401')"  onmouseout="hideTooltip('firefox_scrn_15401')"   >
+<title>
+firefox
+99%, 15401ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 662.543 101.95 L 659.166 96.1 L 655.788 101.95 L 662.543 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_15417')"  onmouseout="hideTooltip('firefox_scrn_15417')"   >
+<title>
+firefox
+100%, 15417ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 663.16 105.95 L 659.782 100.1 L 656.405 105.95 L 663.16 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_15434')"  onmouseout="hideTooltip('firefox_scrn_15434')"   >
+<title>
+firefox
+99%, 15434ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 664.429 105.95 L 661.052 100.1 L 657.674 105.95 L 664.429 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_15469')"  onmouseout="hideTooltip('firefox_scrn_15469')"   >
+<title>
+firefox
+99%, 15469ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 665.01 101.95 L 661.632 96.1 L 658.255 101.95 L 665.01 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_15485')"  onmouseout="hideTooltip('firefox_scrn_15485')"   >
+<title>
+firefox
+100%, 15485ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 665.59 105.95 L 662.212 100.1 L 658.835 105.95 L 665.59 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_15501')"  onmouseout="hideTooltip('firefox_scrn_15501')"   >
+<title>
+firefox
+99%, 15501ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 666.787 105.95 L 663.409 100.1 L 660.032 105.95 L 666.787 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_15534')"  onmouseout="hideTooltip('firefox_scrn_15534')"   >
+<title>
+firefox
+99%, 15534ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 667.367 101.95 L 663.99 96.1 L 660.612 101.95 L 667.367 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_15550')"  onmouseout="hideTooltip('firefox_scrn_15550')"   >
+<title>
+firefox
+100%, 15550ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 667.984 105.95 L 664.606 100.1 L 661.229 105.95 L 667.984 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_15567')"  onmouseout="hideTooltip('firefox_scrn_15567')"   >
+<title>
+firefox
+99%, 15567ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 679.445 105.95 L 676.067 100.1 L 672.69 105.95 L 679.445 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_15883')"  onmouseout="hideTooltip('firefox_scrn_15883')"   >
+<title>
+firefox
+99%, 15883ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 680.025 101.95 L 676.648 96.1 L 673.27 101.95 L 680.025 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_15899')"  onmouseout="hideTooltip('firefox_scrn_15899')"   >
+<title>
+firefox
+100%, 15899ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 680.678 105.95 L 677.301 100.1 L 673.923 105.95 L 680.678 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_15917')"  onmouseout="hideTooltip('firefox_scrn_15917')"   >
+<title>
+firefox
+99%, 15917ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 690.362 105.95 L 686.984 100.1 L 683.607 105.95 L 690.362 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_16184')"  onmouseout="hideTooltip('firefox_scrn_16184')"   >
+<title>
+firefox
+99%, 16184ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 690.942 101.95 L 687.565 96.1 L 684.187 101.95 L 690.942 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_16200')"  onmouseout="hideTooltip('firefox_scrn_16200')"   >
+<title>
+firefox
+100%, 16200ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 691.595 105.95 L 688.218 100.1 L 684.84 105.95 L 691.595 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_16218')"  onmouseout="hideTooltip('firefox_scrn_16218')"   >
+<title>
+firefox
+99%, 16218ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 692.139 101.95 L 688.762 96.1 L 685.384 101.95 L 692.139 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_16233')"  onmouseout="hideTooltip('firefox_scrn_16233')"   >
+<title>
+firefox
+100%, 16233ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 693.989 101.95 L 690.611 96.1 L 687.234 101.95 L 693.989 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_16284')"  onmouseout="hideTooltip('firefox_scrn_16284')"   >
+<title>
+firefox
+100%, 16284ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 694.533 105.95 L 691.155 100.1 L 687.778 105.95 L 694.533 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_16299')"  onmouseout="hideTooltip('firefox_scrn_16299')"   >
+<title>
+firefox
+99%, 16299ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 697.58 105.95 L 694.202 100.1 L 690.825 105.95 L 697.58 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_16383')"  onmouseout="hideTooltip('firefox_scrn_16383')"   >
+<title>
+firefox
+99%, 16383ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 698.16 101.95 L 694.782 96.1 L 691.405 101.95 L 698.16 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_16399')"  onmouseout="hideTooltip('firefox_scrn_16399')"   >
+<title>
+firefox
+100%, 16399ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 698.776 105.95 L 695.399 100.1 L 692.021 105.95 L 698.776 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_16416')"  onmouseout="hideTooltip('firefox_scrn_16416')"   >
+<title>
+firefox
+99%, 16416ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 699.429 101.95 L 696.052 96.1 L 692.674 101.95 L 699.429 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_16434')"  onmouseout="hideTooltip('firefox_scrn_16434')"   >
+<title>
+firefox
+100%, 16434ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 700.01 105.95 L 696.632 100.1 L 693.255 105.95 L 700.01 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_16450')"  onmouseout="hideTooltip('firefox_scrn_16450')"   >
+<title>
+firefox
+99%, 16450ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 700.626 101.95 L 697.249 96.1 L 693.871 101.95 L 700.626 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_16467')"  onmouseout="hideTooltip('firefox_scrn_16467')"   >
+<title>
+firefox
+100%, 16467ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 701.17 105.95 L 697.793 100.1 L 694.415 105.95 L 701.17 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_16482')"  onmouseout="hideTooltip('firefox_scrn_16482')"   >
+<title>
+firefox
+99%, 16482ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 701.751 101.95 L 698.373 96.1 L 694.996 101.95 L 701.751 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_16498')"  onmouseout="hideTooltip('firefox_scrn_16498')"   >
+<title>
+firefox
+100%, 16498ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 702.403 105.95 L 699.026 100.1 L 695.648 105.95 L 702.403 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_16516')"  onmouseout="hideTooltip('firefox_scrn_16516')"   >
+<title>
+firefox
+99%, 16516ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 703.093 101.95 L 699.715 96.1 L 696.338 101.95 L 703.093 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_16535')"  onmouseout="hideTooltip('firefox_scrn_16535')"   >
+<title>
+firefox
+100%, 16535ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 703.637 105.95 L 700.259 100.1 L 696.882 105.95 L 703.637 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_16550')"  onmouseout="hideTooltip('firefox_scrn_16550')"   >
+<title>
+firefox
+99%, 16550ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 704.253 101.95 L 700.876 96.1 L 697.498 101.95 L 704.253 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_16567')"  onmouseout="hideTooltip('firefox_scrn_16567')"   >
+<title>
+firefox
+100%, 16567ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 704.797 105.95 L 701.42 100.1 L 698.042 105.95 L 704.797 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_16582')"  onmouseout="hideTooltip('firefox_scrn_16582')"   >
+<title>
+firefox
+99%, 16582ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 705.377 101.95 L 702 96.1 L 698.623 101.95 L 705.377 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_16598')"  onmouseout="hideTooltip('firefox_scrn_16598')"   >
+<title>
+firefox
+100%, 16598ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 705.958 105.95 L 702.58 100.1 L 699.203 105.95 L 705.958 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_16614')"  onmouseout="hideTooltip('firefox_scrn_16614')"   >
+<title>
+firefox
+99%, 16614ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 706.611 101.95 L 703.233 96.1 L 699.856 101.95 L 706.611 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_16632')"  onmouseout="hideTooltip('firefox_scrn_16632')"   >
+<title>
+firefox
+100%, 16632ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 707.227 105.95 L 703.85 100.1 L 700.472 105.95 L 707.227 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_16649')"  onmouseout="hideTooltip('firefox_scrn_16649')"   >
+<title>
+firefox
+99%, 16649ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 707.844 101.95 L 704.466 96.1 L 701.089 101.95 L 707.844 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_16666')"  onmouseout="hideTooltip('firefox_scrn_16666')"   >
+<title>
+firefox
+100%, 16666ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 708.424 105.95 L 705.047 100.1 L 701.669 105.95 L 708.424 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_16682')"  onmouseout="hideTooltip('firefox_scrn_16682')"   >
+<title>
+firefox
+99%, 16682ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 709.004 101.95 L 705.627 96.1 L 702.249 101.95 L 709.004 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_16698')"  onmouseout="hideTooltip('firefox_scrn_16698')"   >
+<title>
+firefox
+100%, 16698ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 709.621 105.95 L 706.244 100.1 L 702.866 105.95 L 709.621 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_16715')"  onmouseout="hideTooltip('firefox_scrn_16715')"   >
+<title>
+firefox
+99%, 16715ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 710.201 101.95 L 706.824 96.1 L 703.446 101.95 L 710.201 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_16731')"  onmouseout="hideTooltip('firefox_scrn_16731')"   >
+<title>
+firefox
+100%, 16731ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 710.818 105.95 L 707.44 100.1 L 704.063 105.95 L 710.818 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_16748')"  onmouseout="hideTooltip('firefox_scrn_16748')"   >
+<title>
+firefox
+99%, 16748ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 711.398 101.95 L 708.021 96.1 L 704.643 101.95 L 711.398 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_16764')"  onmouseout="hideTooltip('firefox_scrn_16764')"   >
+<title>
+firefox
+100%, 16764ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 712.124 105.95 L 708.746 100.1 L 705.369 105.95 L 712.124 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_16784')"  onmouseout="hideTooltip('firefox_scrn_16784')"   >
+<title>
+firefox
+99%, 16784ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 712.776 101.95 L 709.399 96.1 L 706.021 101.95 L 712.776 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_16802')"  onmouseout="hideTooltip('firefox_scrn_16802')"   >
+<title>
+firefox
+100%, 16802ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 713.212 105.95 L 709.834 100.1 L 706.457 105.95 L 713.212 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_16814')"  onmouseout="hideTooltip('firefox_scrn_16814')"   >
+<title>
+firefox
+99%, 16814ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 713.865 101.95 L 710.487 96.1 L 707.11 101.95 L 713.865 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_16832')"  onmouseout="hideTooltip('firefox_scrn_16832')"   >
+<title>
+firefox
+100%, 16832ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 714.481 105.95 L 711.104 100.1 L 707.726 105.95 L 714.481 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_16849')"  onmouseout="hideTooltip('firefox_scrn_16849')"   >
+<title>
+firefox
+99%, 16849ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 715.061 101.95 L 711.684 96.1 L 708.306 101.95 L 715.061 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_16865')"  onmouseout="hideTooltip('firefox_scrn_16865')"   >
+<title>
+firefox
+100%, 16865ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 715.533 105.95 L 712.155 100.1 L 708.778 105.95 L 715.533 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_16878')"  onmouseout="hideTooltip('firefox_scrn_16878')"   >
+<title>
+firefox
+99%, 16878ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 716.258 101.95 L 712.881 96.1 L 709.503 101.95 L 716.258 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_16898')"  onmouseout="hideTooltip('firefox_scrn_16898')"   >
+<title>
+firefox
+100%, 16898ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 716.875 105.95 L 713.497 100.1 L 710.12 105.95 L 716.875 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_16915')"  onmouseout="hideTooltip('firefox_scrn_16915')"   >
+<title>
+firefox
+99%, 16915ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 739.181 105.95 L 735.803 100.1 L 732.426 105.95 L 739.181 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_17530')"  onmouseout="hideTooltip('firefox_scrn_17530')"   >
+<title>
+firefox
+99%, 17530ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 739.797 101.95 L 736.42 96.1 L 733.042 101.95 L 739.797 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_17547')"  onmouseout="hideTooltip('firefox_scrn_17547')"   >
+<title>
+firefox
+100%, 17547ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 740.486 105.95 L 737.109 100.1 L 733.731 105.95 L 740.486 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_17566')"  onmouseout="hideTooltip('firefox_scrn_17566')"   >
+<title>
+firefox
+99%, 17566ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 742.808 105.95 L 739.43 100.1 L 736.053 105.95 L 742.808 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_17630')"  onmouseout="hideTooltip('firefox_scrn_17630')"   >
+<title>
+firefox
+99%, 17630ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 743.424 101.95 L 740.047 96.1 L 736.669 101.95 L 743.424 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_17647')"  onmouseout="hideTooltip('firefox_scrn_17647')"   >
+<title>
+firefox
+100%, 17647ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 744.077 105.95 L 740.699 100.1 L 737.322 105.95 L 744.077 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_17665')"  onmouseout="hideTooltip('firefox_scrn_17665')"   >
+<title>
+firefox
+99%, 17665ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 744.694 101.95 L 741.316 96.1 L 737.939 101.95 L 744.694 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_17682')"  onmouseout="hideTooltip('firefox_scrn_17682')"   >
+<title>
+firefox
+100%, 17682ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 745.383 105.95 L 742.005 100.1 L 738.628 105.95 L 745.383 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_17701')"  onmouseout="hideTooltip('firefox_scrn_17701')"   >
+<title>
+firefox
+99%, 17701ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 745.963 101.95 L 742.585 96.1 L 739.208 101.95 L 745.963 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_17717')"  onmouseout="hideTooltip('firefox_scrn_17717')"   >
+<title>
+firefox
+100%, 17717ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 746.471 105.95 L 743.093 100.1 L 739.716 105.95 L 746.471 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_17731')"  onmouseout="hideTooltip('firefox_scrn_17731')"   >
+<title>
+firefox
+99%, 17731ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 747.087 101.95 L 743.71 96.1 L 740.332 101.95 L 747.087 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_17748')"  onmouseout="hideTooltip('firefox_scrn_17748')"   >
+<title>
+firefox
+100%, 17748ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 756.662 101.95 L 753.285 96.1 L 749.907 101.95 L 756.662 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_18012')"  onmouseout="hideTooltip('firefox_scrn_18012')"   >
+<title>
+firefox
+100%, 18012ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 757.315 105.95 L 753.938 100.1 L 750.56 105.95 L 757.315 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_18030')"  onmouseout="hideTooltip('firefox_scrn_18030')"   >
+<title>
+firefox
+99%, 18030ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 757.859 101.95 L 754.482 96.1 L 751.104 101.95 L 757.859 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_18045')"  onmouseout="hideTooltip('firefox_scrn_18045')"   >
+<title>
+firefox
+100%, 18045ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 760.253 101.95 L 756.876 96.1 L 753.498 101.95 L 760.253 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_18111')"  onmouseout="hideTooltip('firefox_scrn_18111')"   >
+<title>
+firefox
+100%, 18111ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 760.979 105.95 L 757.601 100.1 L 754.224 105.95 L 760.979 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_18131')"  onmouseout="hideTooltip('firefox_scrn_18131')"   >
+<title>
+firefox
+99%, 18131ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 761.486 101.95 L 758.109 96.1 L 754.731 101.95 L 761.486 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_18145')"  onmouseout="hideTooltip('firefox_scrn_18145')"   >
+<title>
+firefox
+100%, 18145ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 762.103 105.95 L 758.725 100.1 L 755.348 105.95 L 762.103 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_18162')"  onmouseout="hideTooltip('firefox_scrn_18162')"   >
+<title>
+firefox
+99%, 18162ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 762.719 101.95 L 759.342 96.1 L 755.964 101.95 L 762.719 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_18179')"  onmouseout="hideTooltip('firefox_scrn_18179')"   >
+<title>
+firefox
+100%, 18179ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 763.3 105.95 L 759.922 100.1 L 756.545 105.95 L 763.3 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_18195')"  onmouseout="hideTooltip('firefox_scrn_18195')"   >
+<title>
+firefox
+99%, 18195ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 763.916 101.95 L 760.539 96.1 L 757.161 101.95 L 763.916 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_18212')"  onmouseout="hideTooltip('firefox_scrn_18212')"   >
+<title>
+firefox
+100%, 18212ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 764.533 105.95 L 761.155 100.1 L 757.778 105.95 L 764.533 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_18229')"  onmouseout="hideTooltip('firefox_scrn_18229')"   >
+<title>
+firefox
+99%, 18229ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 765.15 101.95 L 761.772 96.1 L 758.395 101.95 L 765.15 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_18246')"  onmouseout="hideTooltip('firefox_scrn_18246')"   >
+<title>
+firefox
+100%, 18246ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 765.839 105.95 L 762.461 100.1 L 759.084 105.95 L 765.839 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_18265')"  onmouseout="hideTooltip('firefox_scrn_18265')"   >
+<title>
+firefox
+99%, 18265ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 766.274 101.95 L 762.896 96.1 L 759.519 101.95 L 766.274 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_18277')"  onmouseout="hideTooltip('firefox_scrn_18277')"   >
+<title>
+firefox
+100%, 18277ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 766.963 105.95 L 763.585 100.1 L 760.208 105.95 L 766.963 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_18296')"  onmouseout="hideTooltip('firefox_scrn_18296')"   >
+<title>
+firefox
+99%, 18296ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 767.543 101.95 L 764.166 96.1 L 760.788 101.95 L 767.543 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_18312')"  onmouseout="hideTooltip('firefox_scrn_18312')"   >
+<title>
+firefox
+100%, 18312ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 768.16 105.95 L 764.782 100.1 L 761.405 105.95 L 768.16 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_18329')"  onmouseout="hideTooltip('firefox_scrn_18329')"   >
+<title>
+firefox
+99%, 18329ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 768.74 101.95 L 765.363 96.1 L 761.985 101.95 L 768.74 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_18345')"  onmouseout="hideTooltip('firefox_scrn_18345')"   >
+<title>
+firefox
+100%, 18345ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 769.357 105.95 L 765.979 100.1 L 762.602 105.95 L 769.357 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_18362')"  onmouseout="hideTooltip('firefox_scrn_18362')"   >
+<title>
+firefox
+99%, 18362ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 770.046 101.95 L 766.668 96.1 L 763.291 101.95 L 770.046 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_18381')"  onmouseout="hideTooltip('firefox_scrn_18381')"   >
+<title>
+firefox
+100%, 18381ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 770.554 105.95 L 767.176 100.1 L 763.799 105.95 L 770.554 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_18395')"  onmouseout="hideTooltip('firefox_scrn_18395')"   >
+<title>
+firefox
+99%, 18395ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 771.17 101.95 L 767.793 96.1 L 764.415 101.95 L 771.17 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_18412')"  onmouseout="hideTooltip('firefox_scrn_18412')"   >
+<title>
+firefox
+100%, 18412ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 771.787 105.95 L 768.409 100.1 L 765.032 105.95 L 771.787 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_18429')"  onmouseout="hideTooltip('firefox_scrn_18429')"   >
+<title>
+firefox
+99%, 18429ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 772.367 101.95 L 768.99 96.1 L 765.612 101.95 L 772.367 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_18445')"  onmouseout="hideTooltip('firefox_scrn_18445')"   >
+<title>
+firefox
+100%, 18445ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 772.947 105.95 L 769.57 100.1 L 766.192 105.95 L 772.947 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_18461')"  onmouseout="hideTooltip('firefox_scrn_18461')"   >
+<title>
+firefox
+99%, 18461ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 773.6 101.95 L 770.223 96.1 L 766.845 101.95 L 773.6 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_18479')"  onmouseout="hideTooltip('firefox_scrn_18479')"   >
+<title>
+firefox
+100%, 18479ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 774.253 105.95 L 770.876 100.1 L 767.498 105.95 L 774.253 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_18497')"  onmouseout="hideTooltip('firefox_scrn_18497')"   >
+<title>
+firefox
+99%, 18497ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 774.797 101.95 L 771.42 96.1 L 768.042 101.95 L 774.797 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_18512')"  onmouseout="hideTooltip('firefox_scrn_18512')"   >
+<title>
+firefox
+100%, 18512ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 775.377 105.95 L 772 100.1 L 768.623 105.95 L 775.377 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_18528')"  onmouseout="hideTooltip('firefox_scrn_18528')"   >
+<title>
+firefox
+99%, 18528ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 775.994 101.95 L 772.617 96.1 L 769.239 101.95 L 775.994 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_18545')"  onmouseout="hideTooltip('firefox_scrn_18545')"   >
+<title>
+firefox
+100%, 18545ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 776.611 105.95 L 773.233 100.1 L 769.856 105.95 L 776.611 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_18562')"  onmouseout="hideTooltip('firefox_scrn_18562')"   >
+<title>
+firefox
+99%, 18562ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 777.191 101.95 L 773.813 96.1 L 770.436 101.95 L 777.191 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_18578')"  onmouseout="hideTooltip('firefox_scrn_18578')"   >
+<title>
+firefox
+100%, 18578ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 777.771 105.95 L 774.394 100.1 L 771.016 105.95 L 777.771 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_18594')"  onmouseout="hideTooltip('firefox_scrn_18594')"   >
+<title>
+firefox
+99%, 18594ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 778.46 101.95 L 775.083 96.1 L 771.705 101.95 L 778.46 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_18613')"  onmouseout="hideTooltip('firefox_scrn_18613')"   >
+<title>
+firefox
+100%, 18613ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 779.041 105.95 L 775.663 100.1 L 772.286 105.95 L 779.041 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_18629')"  onmouseout="hideTooltip('firefox_scrn_18629')"   >
+<title>
+firefox
+99%, 18629ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 779.621 101.95 L 776.244 96.1 L 772.866 101.95 L 779.621 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_18645')"  onmouseout="hideTooltip('firefox_scrn_18645')"   >
+<title>
+firefox
+100%, 18645ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 780.238 105.95 L 776.86 100.1 L 773.483 105.95 L 780.238 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_18662')"  onmouseout="hideTooltip('firefox_scrn_18662')"   >
+<title>
+firefox
+99%, 18662ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 780.854 101.95 L 777.477 96.1 L 774.099 101.95 L 780.854 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_18679')"  onmouseout="hideTooltip('firefox_scrn_18679')"   >
+<title>
+firefox
+100%, 18679ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 781.434 105.95 L 778.057 100.1 L 774.679 105.95 L 781.434 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_18695')"  onmouseout="hideTooltip('firefox_scrn_18695')"   >
+<title>
+firefox
+99%, 18695ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 782.051 101.95 L 778.674 96.1 L 775.296 101.95 L 782.051 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_18712')"  onmouseout="hideTooltip('firefox_scrn_18712')"   >
+<title>
+firefox
+100%, 18712ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 782.704 105.95 L 779.326 100.1 L 775.949 105.95 L 782.704 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_18730')"  onmouseout="hideTooltip('firefox_scrn_18730')"   >
+<title>
+firefox
+99%, 18730ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 783.357 101.95 L 779.979 96.1 L 776.602 101.95 L 783.357 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_18748')"  onmouseout="hideTooltip('firefox_scrn_18748')"   >
+<title>
+firefox
+100%, 18748ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 783.865 105.95 L 780.487 100.1 L 777.11 105.95 L 783.865 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_18762')"  onmouseout="hideTooltip('firefox_scrn_18762')"   >
+<title>
+firefox
+99%, 18762ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 784.517 101.95 L 781.14 96.1 L 777.762 101.95 L 784.517 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_18780')"  onmouseout="hideTooltip('firefox_scrn_18780')"   >
+<title>
+firefox
+100%, 18780ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 785.061 105.95 L 781.684 100.1 L 778.306 105.95 L 785.061 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_18795')"  onmouseout="hideTooltip('firefox_scrn_18795')"   >
+<title>
+firefox
+99%, 18795ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 785.642 101.95 L 782.264 96.1 L 778.887 101.95 L 785.642 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_18811')"  onmouseout="hideTooltip('firefox_scrn_18811')"   >
+<title>
+firefox
+100%, 18811ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 786.258 105.95 L 782.881 100.1 L 779.503 105.95 L 786.258 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_18828')"  onmouseout="hideTooltip('firefox_scrn_18828')"   >
+<title>
+firefox
+99%, 18828ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 786.875 101.95 L 783.497 96.1 L 780.12 101.95 L 786.875 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_18845')"  onmouseout="hideTooltip('firefox_scrn_18845')"   >
+<title>
+firefox
+100%, 18845ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 787.564 105.95 L 784.187 100.1 L 780.809 105.95 L 787.564 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_18864')"  onmouseout="hideTooltip('firefox_scrn_18864')"   >
+<title>
+firefox
+99%, 18864ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 788.072 101.95 L 784.694 96.1 L 781.317 101.95 L 788.072 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_18878')"  onmouseout="hideTooltip('firefox_scrn_18878')"   >
+<title>
+firefox
+100%, 18878ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 788.688 105.95 L 785.311 100.1 L 781.933 105.95 L 788.688 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_18895')"  onmouseout="hideTooltip('firefox_scrn_18895')"   >
+<title>
+firefox
+99%, 18895ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 789.269 101.95 L 785.891 96.1 L 782.514 101.95 L 789.269 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_18911')"  onmouseout="hideTooltip('firefox_scrn_18911')"   >
+<title>
+firefox
+100%, 18911ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 789.849 101.95 L 786.472 96.1 L 783.094 101.95 L 789.849 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_18927')"  onmouseout="hideTooltip('firefox_scrn_18927')"   >
+<title>
+firefox
+100%, 18927ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 790.466 105.95 L 787.088 100.1 L 783.711 105.95 L 790.466 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_18944')"  onmouseout="hideTooltip('firefox_scrn_18944')"   >
+<title>
+firefox
+99%, 18944ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 791.046 101.95 L 787.668 96.1 L 784.291 101.95 L 791.046 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_18960')"  onmouseout="hideTooltip('firefox_scrn_18960')"   >
+<title>
+firefox
+100%, 18960ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 791.662 105.95 L 788.285 100.1 L 784.907 105.95 L 791.662 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_18977')"  onmouseout="hideTooltip('firefox_scrn_18977')"   >
+<title>
+firefox
+99%, 18977ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 792.352 101.95 L 788.974 96.1 L 785.597 101.95 L 792.352 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_18996')"  onmouseout="hideTooltip('firefox_scrn_18996')"   >
+<title>
+firefox
+100%, 18996ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 792.968 105.95 L 789.591 100.1 L 786.213 105.95 L 792.968 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_19013')"  onmouseout="hideTooltip('firefox_scrn_19013')"   >
+<title>
+firefox
+99%, 19013ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 793.512 101.95 L 790.135 96.1 L 786.757 101.95 L 793.512 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_19028')"  onmouseout="hideTooltip('firefox_scrn_19028')"   >
+<title>
+firefox
+100%, 19028ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 794.093 105.95 L 790.715 100.1 L 787.338 105.95 L 794.093 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_19044')"  onmouseout="hideTooltip('firefox_scrn_19044')"   >
+<title>
+firefox
+99%, 19044ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 794.673 101.95 L 791.295 96.1 L 787.918 101.95 L 794.673 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_19060')"  onmouseout="hideTooltip('firefox_scrn_19060')"   >
+<title>
+firefox
+100%, 19060ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 795.253 105.95 L 791.876 100.1 L 788.498 105.95 L 795.253 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_19076')"  onmouseout="hideTooltip('firefox_scrn_19076')"   >
+<title>
+firefox
+99%, 19076ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 795.906 101.95 L 792.528 96.1 L 789.151 101.95 L 795.906 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_19094')"  onmouseout="hideTooltip('firefox_scrn_19094')"   >
+<title>
+firefox
+100%, 19094ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 796.486 105.95 L 793.109 100.1 L 789.731 105.95 L 796.486 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_19110')"  onmouseout="hideTooltip('firefox_scrn_19110')"   >
+<title>
+firefox
+99%, 19110ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 797.175 101.95 L 793.798 96.1 L 790.42 101.95 L 797.175 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_19129')"  onmouseout="hideTooltip('firefox_scrn_19129')"   >
+<title>
+firefox
+100%, 19129ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 797.756 105.95 L 794.378 100.1 L 791.001 105.95 L 797.756 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_19145')"  onmouseout="hideTooltip('firefox_scrn_19145')"   >
+<title>
+firefox
+99%, 19145ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 798.264 101.95 L 794.886 96.1 L 791.509 101.95 L 798.264 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_19159')"  onmouseout="hideTooltip('firefox_scrn_19159')"   >
+<title>
+firefox
+100%, 19159ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 798.916 105.95 L 795.539 100.1 L 792.161 105.95 L 798.916 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_19177')"  onmouseout="hideTooltip('firefox_scrn_19177')"   >
+<title>
+firefox
+99%, 19177ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 799.497 101.95 L 796.119 96.1 L 792.742 101.95 L 799.497 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_19193')"  onmouseout="hideTooltip('firefox_scrn_19193')"   >
+<title>
+firefox
+100%, 19193ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 800.113 105.95 L 796.736 100.1 L 793.358 105.95 L 800.113 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_19210')"  onmouseout="hideTooltip('firefox_scrn_19210')"   >
+<title>
+firefox
+99%, 19210ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 800.802 101.95 L 797.425 96.1 L 794.047 101.95 L 800.802 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_19229')"  onmouseout="hideTooltip('firefox_scrn_19229')"   >
+<title>
+firefox
+100%, 19229ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 801.455 105.95 L 798.078 100.1 L 794.7 105.95 L 801.455 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_19247')"  onmouseout="hideTooltip('firefox_scrn_19247')"   >
+<title>
+firefox
+99%, 19247ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 801.927 101.95 L 798.549 96.1 L 795.172 101.95 L 801.927 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_19260')"  onmouseout="hideTooltip('firefox_scrn_19260')"   >
+<title>
+firefox
+100%, 19260ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 802.471 105.95 L 799.093 100.1 L 795.716 105.95 L 802.471 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_19275')"  onmouseout="hideTooltip('firefox_scrn_19275')"   >
+<title>
+firefox
+99%, 19275ms
+</title>
+ </path>
+<path id="triangle-3.900000-120.000000" d="M 803.087 101.95 L 799.71 96.1 L 796.332 101.95 L 803.087 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_19292')"  onmouseout="hideTooltip('firefox_scrn_19292')"   >
+<title>
+firefox
+100%, 19292ms
+</title>
+ </path>
+ </g> <g id="polyline-chrome">
+<polyline points="100,500 169.891,276 288.819,276 290.523,272 291.14,224 291.72,228 292.482,224 293.57,212 315.259,212 315.839,196 316.456,192 321.896,192 322.477,184 325.56,184 327.337,176 328.062,176 329.767,160 332.378,160 332.922,144 337.565,144 338.218,128 338.834,128 339.415,120 346.016,120 346.705,104 355.772,104 359.326,100 " stroke-dasharray="3" stroke-linecap="round"  style="fill:rgb(148,148,148); fill-opacity:0; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1" />
+ </g> <g id="markers-chrome">
+ <circle cx="100.000000" cy="500.000000" r="3.000000" style="fill:rgb(255,255,255); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'chrome_scrn_00000')"  onmouseout="hideTooltip('chrome_scrn_00000')"   >
+<title>
+chrome
+0%, 0ms
+</title>
+ </circle>
+<circle cx="169.891192" cy="276.000000" r="3.000000" style="fill:rgb(255,255,255); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'chrome_scrn_01927')"  onmouseout="hideTooltip('chrome_scrn_01927')"   >
+<title>
+chrome
+56%, 1927ms
+</title>
+ </circle>
+<circle cx="288.818653" cy="276.000000" r="3.000000" style="fill:rgb(255,255,255); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'chrome_scrn_05206')"  onmouseout="hideTooltip('chrome_scrn_05206')"   >
+<title>
+chrome
+56%, 5206ms
+</title>
+ </circle>
+<circle cx="290.523316" cy="272.000000" r="3.000000" style="fill:rgb(255,255,255); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'chrome_scrn_05253')"  onmouseout="hideTooltip('chrome_scrn_05253')"   >
+<title>
+chrome
+57%, 5253ms
+</title>
+ </circle>
+<circle cx="291.139896" cy="224.000000" r="3.000000" style="fill:rgb(255,255,255); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'chrome_scrn_05270')"  onmouseout="hideTooltip('chrome_scrn_05270')"   >
+<title>
+chrome
+69%, 5270ms
+</title>
+ </circle>
+<circle cx="291.720207" cy="228.000000" r="3.000000" style="fill:rgb(255,255,255); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'chrome_scrn_05286')"  onmouseout="hideTooltip('chrome_scrn_05286')"   >
+<title>
+chrome
+68%, 5286ms
+</title>
+ </circle>
+<circle cx="292.481865" cy="224.000000" r="3.000000" style="fill:rgb(255,255,255); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'chrome_scrn_05307')"  onmouseout="hideTooltip('chrome_scrn_05307')"   >
+<title>
+chrome
+69%, 5307ms
+</title>
+ </circle>
+<circle cx="293.569948" cy="212.000000" r="3.000000" style="fill:rgb(255,255,255); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'chrome_scrn_05337')"  onmouseout="hideTooltip('chrome_scrn_05337')"   >
+<title>
+chrome
+72%, 5337ms
+</title>
+ </circle>
+<circle cx="315.259067" cy="212.000000" r="3.000000" style="fill:rgb(255,255,255); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'chrome_scrn_05935')"  onmouseout="hideTooltip('chrome_scrn_05935')"   >
+<title>
+chrome
+72%, 5935ms
+</title>
+ </circle>
+<circle cx="315.839378" cy="196.000000" r="3.000000" style="fill:rgb(255,255,255); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'chrome_scrn_05951')"  onmouseout="hideTooltip('chrome_scrn_05951')"   >
+<title>
+chrome
+76%, 5951ms
+</title>
+ </circle>
+<circle cx="316.455959" cy="192.000000" r="3.000000" style="fill:rgb(255,255,255); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'chrome_scrn_05968')"  onmouseout="hideTooltip('chrome_scrn_05968')"   >
+<title>
+chrome
+77%, 5968ms
+</title>
+ </circle>
+<circle cx="321.896373" cy="192.000000" r="3.000000" style="fill:rgb(255,255,255); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'chrome_scrn_06118')"  onmouseout="hideTooltip('chrome_scrn_06118')"   >
+<title>
+chrome
+77%, 6118ms
+</title>
+ </circle>
+<circle cx="322.476684" cy="184.000000" r="3.000000" style="fill:rgb(255,255,255); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'chrome_scrn_06134')"  onmouseout="hideTooltip('chrome_scrn_06134')"   >
+<title>
+chrome
+79%, 6134ms
+</title>
+ </circle>
+<circle cx="325.559585" cy="184.000000" r="3.000000" style="fill:rgb(255,255,255); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'chrome_scrn_06219')"  onmouseout="hideTooltip('chrome_scrn_06219')"   >
+<title>
+chrome
+79%, 6219ms
+</title>
+ </circle>
+<circle cx="327.336788" cy="176.000000" r="3.000000" style="fill:rgb(255,255,255); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'chrome_scrn_06268')"  onmouseout="hideTooltip('chrome_scrn_06268')"   >
+<title>
+chrome
+81%, 6268ms
+</title>
+ </circle>
+<circle cx="328.062176" cy="176.000000" r="3.000000" style="fill:rgb(255,255,255); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'chrome_scrn_06288')"  onmouseout="hideTooltip('chrome_scrn_06288')"   >
+<title>
+chrome
+81%, 6288ms
+</title>
+ </circle>
+<circle cx="329.766839" cy="160.000000" r="3.000000" style="fill:rgb(255,255,255); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'chrome_scrn_06335')"  onmouseout="hideTooltip('chrome_scrn_06335')"   >
+<title>
+chrome
+85%, 6335ms
+</title>
+ </circle>
+<circle cx="332.378238" cy="160.000000" r="3.000000" style="fill:rgb(255,255,255); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'chrome_scrn_06407')"  onmouseout="hideTooltip('chrome_scrn_06407')"   >
+<title>
+chrome
+85%, 6407ms
+</title>
+ </circle>
+<circle cx="332.922280" cy="144.000000" r="3.000000" style="fill:rgb(255,255,255); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'chrome_scrn_06422')"  onmouseout="hideTooltip('chrome_scrn_06422')"   >
+<title>
+chrome
+89%, 6422ms
+</title>
+ </circle>
+<circle cx="337.564767" cy="144.000000" r="3.000000" style="fill:rgb(255,255,255); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'chrome_scrn_06550')"  onmouseout="hideTooltip('chrome_scrn_06550')"   >
+<title>
+chrome
+89%, 6550ms
+</title>
+ </circle>
+<circle cx="338.217617" cy="128.000000" r="3.000000" style="fill:rgb(255,255,255); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'chrome_scrn_06568')"  onmouseout="hideTooltip('chrome_scrn_06568')"   >
+<title>
+chrome
+93%, 6568ms
+</title>
+ </circle>
+<circle cx="338.834197" cy="128.000000" r="3.000000" style="fill:rgb(255,255,255); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'chrome_scrn_06585')"  onmouseout="hideTooltip('chrome_scrn_06585')"   >
+<title>
+chrome
+93%, 6585ms
+</title>
+ </circle>
+<circle cx="339.414508" cy="120.000000" r="3.000000" style="fill:rgb(255,255,255); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'chrome_scrn_06601')"  onmouseout="hideTooltip('chrome_scrn_06601')"   >
+<title>
+chrome
+95%, 6601ms
+</title>
+ </circle>
+<circle cx="346.015544" cy="120.000000" r="3.000000" style="fill:rgb(255,255,255); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'chrome_scrn_06783')"  onmouseout="hideTooltip('chrome_scrn_06783')"   >
+<title>
+chrome
+95%, 6783ms
+</title>
+ </circle>
+<circle cx="346.704663" cy="104.000000" r="3.000000" style="fill:rgb(255,255,255); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'chrome_scrn_06802')"  onmouseout="hideTooltip('chrome_scrn_06802')"   >
+<title>
+chrome
+99%, 6802ms
+</title>
+ </circle>
+<circle cx="355.772021" cy="104.000000" r="3.000000" style="fill:rgb(255,255,255); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'chrome_scrn_07052')"  onmouseout="hideTooltip('chrome_scrn_07052')"   >
+<title>
+chrome
+99%, 7052ms
+</title>
+ </circle>
+<circle cx="359.326425" cy="100.000000" r="3.000000" style="fill:rgb(255,255,255); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'chrome_scrn_07150')"  onmouseout="hideTooltip('chrome_scrn_07150')"   >
+<title>
+chrome
+100%, 7150ms
+</title>
+ </circle>
+ </g> <image  id="firefox_scrn_00000" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_00611" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_00611.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_02040" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_02040.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_05948" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_05948.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_06014" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_06014.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_06148" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_06148.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_06201" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_06201.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_07130" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_07130.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_07147" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_07147.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_07280" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_07280.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_07295" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_07295.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_07380" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_07380.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_07395" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_07395.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_07413" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_07413.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_07477" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_07477.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_07495" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_07495.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_07581" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_07581.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_07595" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_07595.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_07646" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_07646.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_07664" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_07664.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_07945" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_07945.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_07962" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_07962.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_08027" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_08027.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_08047" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_08047.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_08063" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_08063.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_08081" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_08081.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_08346" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_08346.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_08363" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_08363.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_08394" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_08394.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_08413" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_08413.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_08611" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_08611.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_08627" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_08627.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_08643" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_08643.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_08659" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_08659.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_08710" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_08710.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_08728" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_08728.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_08760" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_08760.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_08776" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_08776.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_08808" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_08808.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_08827" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_08827.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_08845" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_08845.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_10041" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_10041.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_11525" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_11525.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_11575" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_11575.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_11593" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_11593.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_11659" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_11659.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_11674" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_11674.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_11693" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_11693.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_11710" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_11710.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_11726" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_11726.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_11743" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_11743.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_11760" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_11760.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_15184" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_15184.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_15202" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_15202.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_15220" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_15220.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_15237" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_15237.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_15401" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_15401.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_15417" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_15417.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_15434" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_15434.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_15469" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_15469.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_15485" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_15485.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_15501" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_15501.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_15534" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_15534.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_15550" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_15550.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_15567" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_15567.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_15883" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_15883.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_15899" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_15899.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_15917" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_15917.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_16184" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_16184.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_16200" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_16200.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_16218" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_16218.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_16233" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_16233.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_16284" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_16284.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_16299" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_16299.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_16383" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_16383.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_16399" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_16399.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_16416" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_16416.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_16434" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_16434.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_16450" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_16450.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_16467" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_16467.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_16482" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_16482.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_16498" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_16498.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_16516" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_16516.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_16535" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_16535.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_16550" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_16550.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_16567" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_16567.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_16582" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_16582.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_16598" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_16598.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_16614" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_16614.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_16632" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_16632.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_16649" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_16649.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_16666" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_16666.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_16682" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_16682.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_16698" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_16698.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_16715" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_16715.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_16731" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_16731.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_16748" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_16748.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_16764" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_16764.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_16784" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_16784.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_16802" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_16802.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_16814" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_16814.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_16832" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_16832.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_16849" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_16849.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_16865" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_16865.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_16878" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_16878.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_16898" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_16898.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_16915" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_16915.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_17530" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_17530.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_17547" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_17547.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_17566" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_17566.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_17630" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_17630.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_17647" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_17647.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_17665" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_17665.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_17682" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_17682.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_17701" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_17701.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_17717" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_17717.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_17731" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_17731.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_17748" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_17748.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_18012" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_18012.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_18030" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_18030.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_18045" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_18045.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_18111" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_18111.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_18131" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_18131.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_18145" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_18145.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_18162" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_18162.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_18179" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_18179.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_18195" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_18195.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_18212" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_18212.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_18229" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_18229.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_18246" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_18246.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_18265" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_18265.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_18277" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_18277.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_18296" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_18296.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_18312" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_18312.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_18329" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_18329.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_18345" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_18345.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_18362" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_18362.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_18381" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_18381.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_18395" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_18395.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_18412" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_18412.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_18429" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_18429.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_18445" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_18445.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_18461" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_18461.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_18479" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_18479.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_18497" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_18497.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_18512" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_18512.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_18528" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_18528.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_18545" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_18545.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_18562" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_18562.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_18578" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_18578.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_18594" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_18594.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_18613" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_18613.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_18629" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_18629.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_18645" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_18645.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_18662" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_18662.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_18679" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_18679.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_18695" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_18695.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_18712" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_18712.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_18730" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_18730.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_18748" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_18748.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_18762" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_18762.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_18780" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_18780.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_18795" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_18795.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_18811" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_18811.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_18828" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_18828.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_18845" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_18845.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_18864" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_18864.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_18878" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_18878.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_18895" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_18895.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_18911" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_18911.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_18927" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_18927.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_18944" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_18944.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_18960" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_18960.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_18977" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_18977.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_18996" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_18996.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_19013" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_19013.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_19028" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_19028.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_19044" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_19044.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_19060" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_19060.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_19076" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_19076.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_19094" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_19094.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_19110" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_19110.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_19129" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_19129.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_19145" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_19145.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_19159" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_19159.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_19177" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_19177.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_19193" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_19193.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_19210" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_19210.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_19229" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_19229.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_19247" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_19247.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_19260" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_19260.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_19275" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_19275.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_19292" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-firefox_19292.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+ <image  id="chrome_scrn_00000" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-chrome_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="chrome_scrn_01927" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-chrome_01927.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="chrome_scrn_05206" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-chrome_05206.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="chrome_scrn_05253" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-chrome_05253.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="chrome_scrn_05270" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-chrome_05270.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="chrome_scrn_05286" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-chrome_05286.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="chrome_scrn_05307" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-chrome_05307.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="chrome_scrn_05337" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-chrome_05337.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="chrome_scrn_05935" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-chrome_05935.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="chrome_scrn_05951" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-chrome_05951.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="chrome_scrn_05968" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-chrome_05968.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="chrome_scrn_06118" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-chrome_06118.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="chrome_scrn_06134" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-chrome_06134.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="chrome_scrn_06219" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-chrome_06219.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="chrome_scrn_06268" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-chrome_06268.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="chrome_scrn_06288" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-chrome_06288.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="chrome_scrn_06335" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-chrome_06335.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="chrome_scrn_06407" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-chrome_06407.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="chrome_scrn_06422" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-chrome_06422.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="chrome_scrn_06550" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-chrome_06550.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="chrome_scrn_06568" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-chrome_06568.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="chrome_scrn_06585" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-chrome_06585.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="chrome_scrn_06601" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-chrome_06601.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="chrome_scrn_06783" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-chrome_06783.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="chrome_scrn_06802" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-chrome_06802.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="chrome_scrn_07052" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-chrome_07052.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="chrome_scrn_07150" href="../filmstrip/2025-07-03-android-15-ptablet-talkback-vazhnoznat-chrome_07150.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<script type="text/javascript" crossorigin="anonymous" id="tooltip-js"  >
+
+    function showTooltip(event, tooltipId) {
+      const tooltipimg = document.getElementById(tooltipId);
+      if (tooltipimg) {
+	const svge = tooltipimg.parentElement;
+	const brect = svge.getBoundingClientRect();
+	const bx = brect.left;
+	const by = brect.top;
+
+	tooltipimg.setAttribute('x', event.x + bx + "px");
+	tooltipimg.setAttribute('y', event.y + by + "px");
+
+	tooltipimg.setAttribute('visibility', 'visible');
+      } else {
+	console.error(`Element with ID "${tooltipId}" not found.`);
+      }
+    }
+
+    function hideTooltip(tooltipId) {
+      const tooltipimg = document.getElementById(tooltipId);
+      tooltipimg.setAttribute('visibility', 'hidden');
+    }
+    
+</script>
+</svg>
+
+{:/}
+
+---
+
+## navigation, paint, visual metrics
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Metics Table</title>
+</head>
+<body>
+    <div class="table-container">
+        <table border="1" class="dataframe">
+  
+	<thead>
+	  <tr>
+	    <th rowspan="2">metric</th>
+	    <th colspan="2">firefox</th>
+	    <th colspan="2">chrome</th>
+	    <th rowspan="2">difference</th>
+	  </tr>
+	  <tr>
+	    <th>median</th>
+	    <th>rsd</th>
+	    <th>median</th>
+	    <th>rsd</th>
+	   </tr>
+	</thead>
+      
+  <tbody>
+    <tr>
+      <td>domainLookupStart</td>
+      <td>60.5</td>
+      <td>65.9</td>
+      <td>6</td>
+      <td>41.711535</td>
+      <td>90.1%</td>
+    </tr>
+    <tr>
+      <td>connectStart</td>
+      <td>111</td>
+      <td>51.8</td>
+      <td>34.5</td>
+      <td>74.116607</td>
+      <td>68.9%</td>
+    </tr>
+    <tr>
+      <td>requestStart</td>
+      <td>565</td>
+      <td>22.3</td>
+      <td>475</td>
+      <td>9.445437</td>
+      <td>15.9%</td>
+    </tr>
+    <tr>
+      <td>responseStart</td>
+      <td>767</td>
+      <td>17.5</td>
+      <td>2120</td>
+      <td>16.807751</td>
+      <td>-176.4%</td>
+    </tr>
+    <tr>
+      <td>domInteractive</td>
+      <td>4318</td>
+      <td>43.6</td>
+      <td>3681</td>
+      <td>10.166790</td>
+      <td>14.8%</td>
+    </tr>
+    <tr>
+      <td>loadEventEnd</td>
+      <td>6367</td>
+      <td>29.5</td>
+      <td>5006</td>
+      <td>7.137372</td>
+      <td>21.4%</td>
+    </tr>
+    <tr>
+      <td>fcp</td>
+      <td>3897</td>
+      <td>47.9</td>
+      <td>3034</td>
+      <td>12.356136</td>
+      <td>22.1%</td>
+    </tr>
+    <tr>
+      <td>lcp</td>
+      <td>5681</td>
+      <td>32.8</td>
+      <td>4844</td>
+      <td>8.924251</td>
+      <td>14.7%</td>
+    </tr>
+    <tr>
+      <td>SpeedIndex</td>
+      <td>4184</td>
+      <td>22.7</td>
+      <td>3711</td>
+      <td>4.983512</td>
+      <td>11.3%</td>
+    </tr>
+    <tr>
+      <td>LastVisualChange</td>
+      <td>19331</td>
+      <td>11.3</td>
+      <td>7251</td>
+      <td>37.396319</td>
+      <td>62.5%</td>
+    </tr>
+  </tbody>
+</table>
+    </div>
+</body>
+</html>
+        
