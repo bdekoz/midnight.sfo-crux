@@ -64,10 +64,10 @@ generate_platform_by_sitelist() {
        $XAGGREGATE "$URLM" "$i" "$PLATFORM" "$ISODATE" "${ARTIFACT_BASE}-side-by-side.mp4" "$FFFJ" "$FFMJ" "$CFJ" "$CMJ"
 
        # generate 1-col markdown index
-       echo "- [${URLM}](/pages/${ARTIFACT_BASE}.svg)" >> $MDOWNIDX
+       echo "- [${URLM}](/pages/${ARTIFACT_BASE}.md)" >> $MDOWNIDX
 
        # generate js index
-       echo "\"${URLM}\", " >> $JSIDX
+       #echo "\"${URLM}\", " >> $JSIDX
 
        # generate mini metrics for html table in markdown.
        AGGJNAME="${ISODATE}-${PLATFORM}-${URLM}-aggregate.json"
