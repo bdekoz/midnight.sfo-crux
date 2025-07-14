@@ -1294,10 +1294,10 @@ chrome
   
 	<thead>
 	  <tr>
-	    <th rowspan="2">metric</th>
-	    <th colspan="2">firefox</th>
-	    <th colspan="2">chrome</th>
-	    <th rowspan="2">difference</th>
+	    <th rowspan="2" width="25%">metric</th>
+	    <th colspan="2" width="25%">firefox</th>
+	    <th colspan="2" width="25%">chrome</th>
+	    <th rowspan="2" width="25%">difference</th>
 	  </tr>
 	  <tr>
 	    <th>median</th>
@@ -1313,7 +1313,7 @@ chrome
       <td>42</td>
       <td>18.2</td>
       <td>9.5</td>
-      <td>48.519368</td>
+      <td>48.5</td>
       <td>77.4%</td>
     </tr>
     <tr>
@@ -1321,7 +1321,7 @@ chrome
       <td>47</td>
       <td>88.7</td>
       <td>27.5</td>
-      <td>108.241697</td>
+      <td>99.9</td>
       <td>41.5%</td>
     </tr>
     <tr>
@@ -1329,7 +1329,7 @@ chrome
       <td>489</td>
       <td>11.6</td>
       <td>563</td>
-      <td>18.601765</td>
+      <td>18.6</td>
       <td>-15.1%</td>
     </tr>
     <tr>
@@ -1337,7 +1337,7 @@ chrome
       <td>1928</td>
       <td>21.8</td>
       <td>2157</td>
-      <td>10.120280</td>
+      <td>10.1</td>
       <td>-11.9%</td>
     </tr>
     <tr>
@@ -1345,7 +1345,7 @@ chrome
       <td>10071</td>
       <td>7.4</td>
       <td>3915</td>
-      <td>5.732164</td>
+      <td>5.7</td>
       <td>61.1%</td>
     </tr>
     <tr>
@@ -1353,7 +1353,7 @@ chrome
       <td>10459</td>
       <td>8.4</td>
       <td>10928</td>
-      <td>16.166460</td>
+      <td>16.2</td>
       <td>-4.5%</td>
     </tr>
     <tr>
@@ -1361,7 +1361,7 @@ chrome
       <td>2764</td>
       <td>16.7</td>
       <td>3414</td>
-      <td>10.856624</td>
+      <td>10.9</td>
       <td>-23.5%</td>
     </tr>
     <tr>
@@ -1369,7 +1369,7 @@ chrome
       <td>3786</td>
       <td>23.8</td>
       <td>3730</td>
-      <td>6.006519</td>
+      <td>6.0</td>
       <td>1.5%</td>
     </tr>
     <tr>
@@ -1377,7 +1377,7 @@ chrome
       <td>4505</td>
       <td>6.3</td>
       <td>3828</td>
-      <td>2.930024</td>
+      <td>2.9</td>
       <td>15.0%</td>
     </tr>
     <tr>
@@ -1385,7 +1385,7 @@ chrome
       <td>15777</td>
       <td>10.6</td>
       <td>13211</td>
-      <td>30.701461</td>
+      <td>30.7</td>
       <td>16.3%</td>
     </tr>
   </tbody>

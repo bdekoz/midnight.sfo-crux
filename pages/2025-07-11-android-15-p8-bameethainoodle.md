@@ -660,10 +660,10 @@ chrome
   
 	<thead>
 	  <tr>
-	    <th rowspan="2">metric</th>
-	    <th colspan="2">firefox</th>
-	    <th colspan="2">chrome</th>
-	    <th rowspan="2">difference</th>
+	    <th rowspan="2" width="25%">metric</th>
+	    <th colspan="2" width="25%">firefox</th>
+	    <th colspan="2" width="25%">chrome</th>
+	    <th rowspan="2" width="25%">difference</th>
 	  </tr>
 	  <tr>
 	    <th>median</th>
@@ -679,7 +679,7 @@ chrome
       <td>42</td>
       <td>14.1</td>
       <td>10</td>
-      <td>26.155623</td>
+      <td>26.2</td>
       <td>76.2%</td>
     </tr>
     <tr>
@@ -687,7 +687,7 @@ chrome
       <td>47</td>
       <td>49.7</td>
       <td>36.5</td>
-      <td>83.036876</td>
+      <td>83.0</td>
       <td>22.3%</td>
     </tr>
     <tr>
@@ -695,7 +695,7 @@ chrome
       <td>145</td>
       <td>20.3</td>
       <td>127</td>
-      <td>31.549364</td>
+      <td>31.5</td>
       <td>12.4%</td>
     </tr>
     <tr>
@@ -703,7 +703,7 @@ chrome
       <td>220</td>
       <td>47.5</td>
       <td>198</td>
-      <td>21.367902</td>
+      <td>21.4</td>
       <td>10.0%</td>
     </tr>
     <tr>
@@ -711,7 +711,7 @@ chrome
       <td>815</td>
       <td>14.2</td>
       <td>1145</td>
-      <td>4.052369</td>
+      <td>4.1</td>
       <td>-40.5%</td>
     </tr>
     <tr>
@@ -719,7 +719,7 @@ chrome
       <td>1027</td>
       <td>13.6</td>
       <td>1159</td>
-      <td>15.439037</td>
+      <td>15.4</td>
       <td>-12.9%</td>
     </tr>
     <tr>
@@ -727,7 +727,7 @@ chrome
       <td>491</td>
       <td>24.6</td>
       <td>802</td>
-      <td>9.228568</td>
+      <td>9.2</td>
       <td>-63.3%</td>
     </tr>
     <tr>
@@ -735,7 +735,7 @@ chrome
       <td>657</td>
       <td>39.1</td>
       <td>1412</td>
-      <td>4.892532</td>
+      <td>4.9</td>
       <td>-114.9%</td>
     </tr>
     <tr>
@@ -743,7 +743,7 @@ chrome
       <td>1471</td>
       <td>10.2</td>
       <td>2369</td>
-      <td>2.150012</td>
+      <td>2.2</td>
       <td>-61.0%</td>
     </tr>
     <tr>
@@ -751,7 +751,7 @@ chrome
       <td>12620</td>
       <td>1.0</td>
       <td>3524</td>
-      <td>63.783077</td>
+      <td>63.8</td>
       <td>72.1%</td>
     </tr>
   </tbody>

@@ -701,10 +701,10 @@ chrome
   
 	<thead>
 	  <tr>
-	    <th rowspan="2">metric</th>
-	    <th colspan="2">firefox</th>
-	    <th colspan="2">chrome</th>
-	    <th rowspan="2">difference</th>
+	    <th rowspan="2" width="25%">metric</th>
+	    <th colspan="2" width="25%">firefox</th>
+	    <th colspan="2" width="25%">chrome</th>
+	    <th rowspan="2" width="25%">difference</th>
 	  </tr>
 	  <tr>
 	    <th>median</th>
@@ -720,7 +720,7 @@ chrome
       <td>59.5</td>
       <td>13.4</td>
       <td>13</td>
-      <td>24.347439</td>
+      <td>24.3</td>
       <td>78.2%</td>
     </tr>
     <tr>
@@ -728,7 +728,7 @@ chrome
       <td>114</td>
       <td>6.6</td>
       <td>48</td>
-      <td>27.590505</td>
+      <td>27.6</td>
       <td>57.9%</td>
     </tr>
     <tr>
@@ -736,7 +736,7 @@ chrome
       <td>190</td>
       <td>6.5</td>
       <td>123</td>
-      <td>15.566140</td>
+      <td>15.6</td>
       <td>35.3%</td>
     </tr>
     <tr>
@@ -744,7 +744,7 @@ chrome
       <td>270</td>
       <td>62.9</td>
       <td>207</td>
-      <td>23.582398</td>
+      <td>23.6</td>
       <td>23.3%</td>
     </tr>
     <tr>
@@ -752,7 +752,7 @@ chrome
       <td>706</td>
       <td>34.4</td>
       <td>712</td>
-      <td>8.793807</td>
+      <td>8.8</td>
       <td>-0.8%</td>
     </tr>
     <tr>
@@ -760,7 +760,7 @@ chrome
       <td>1410</td>
       <td>18.6</td>
       <td>1659</td>
-      <td>7.300311</td>
+      <td>7.3</td>
       <td>-17.7%</td>
     </tr>
     <tr>
@@ -768,7 +768,7 @@ chrome
       <td>828</td>
       <td>30.3</td>
       <td>826</td>
-      <td>4.404980</td>
+      <td>4.4</td>
       <td>0.2%</td>
     </tr>
     <tr>
@@ -776,7 +776,7 @@ chrome
       <td>1566</td>
       <td>16.7</td>
       <td>1760</td>
-      <td>4.608984</td>
+      <td>4.6</td>
       <td>-12.4%</td>
     </tr>
     <tr>
@@ -784,7 +784,7 @@ chrome
       <td>1889</td>
       <td>14.5</td>
       <td>2547</td>
-      <td>1.614440</td>
+      <td>1.6</td>
       <td>-34.8%</td>
     </tr>
     <tr>
@@ -792,7 +792,7 @@ chrome
       <td>12796</td>
       <td>2.4</td>
       <td>3925</td>
-      <td>59.572396</td>
+      <td>59.6</td>
       <td>69.3%</td>
     </tr>
   </tbody>

@@ -857,10 +857,10 @@ chrome
   
 	<thead>
 	  <tr>
-	    <th rowspan="2">metric</th>
-	    <th colspan="2">firefox</th>
-	    <th colspan="2">chrome</th>
-	    <th rowspan="2">difference</th>
+	    <th rowspan="2" width="25%">metric</th>
+	    <th colspan="2" width="25%">firefox</th>
+	    <th colspan="2" width="25%">chrome</th>
+	    <th rowspan="2" width="25%">difference</th>
 	  </tr>
 	  <tr>
 	    <th>median</th>
@@ -876,7 +876,7 @@ chrome
       <td>32</td>
       <td>23.7</td>
       <td>6.5</td>
-      <td>26.373159</td>
+      <td>26.4</td>
       <td>79.7%</td>
     </tr>
     <tr>
@@ -884,7 +884,7 @@ chrome
       <td>39.5</td>
       <td>26.0</td>
       <td>8</td>
-      <td>109.545718</td>
+      <td>99.9</td>
       <td>79.7%</td>
     </tr>
     <tr>
@@ -892,7 +892,7 @@ chrome
       <td>81.5</td>
       <td>9.7</td>
       <td>59.5</td>
-      <td>39.785364</td>
+      <td>39.8</td>
       <td>27.0%</td>
     </tr>
     <tr>
@@ -900,7 +900,7 @@ chrome
       <td>107</td>
       <td>6.5</td>
       <td>91.5</td>
-      <td>135.901391</td>
+      <td>99.9</td>
       <td>14.5%</td>
     </tr>
     <tr>
@@ -908,7 +908,7 @@ chrome
       <td>325</td>
       <td>16.7</td>
       <td>287</td>
-      <td>69.296258</td>
+      <td>69.3</td>
       <td>11.7%</td>
     </tr>
     <tr>
@@ -916,7 +916,7 @@ chrome
       <td>551</td>
       <td>18.3</td>
       <td>486</td>
-      <td>48.527930</td>
+      <td>48.5</td>
       <td>11.8%</td>
     </tr>
     <tr>
@@ -924,7 +924,7 @@ chrome
       <td>223</td>
       <td>5.8</td>
       <td>370</td>
-      <td>55.010257</td>
+      <td>55.0</td>
       <td>-65.9%</td>
     </tr>
     <tr>
@@ -932,7 +932,7 @@ chrome
       <td>9016</td>
       <td>1.8</td>
       <td>428</td>
-      <td>49.411685</td>
+      <td>49.4</td>
       <td>95.3%</td>
     </tr>
     <tr>
@@ -940,7 +940,7 @@ chrome
       <td>2452</td>
       <td>13.4</td>
       <td>2483</td>
-      <td>6.137375</td>
+      <td>6.1</td>
       <td>-1.3%</td>
     </tr>
     <tr>
@@ -948,7 +948,7 @@ chrome
       <td>13051</td>
       <td>0.8</td>
       <td>12812</td>
-      <td>2.175718</td>
+      <td>2.2</td>
       <td>1.8%</td>
     </tr>
   </tbody>
