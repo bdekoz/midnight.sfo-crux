@@ -3,7 +3,7 @@
 XURLMIN=$MOZPERFAX/bin/moz-perf-x-transform-url.exe
 XMINIJ=$MOZPERFAX/bin/moz-perf-x-minimize-aggregate.exe
 XAGGREGATE=../../scripts/generate_aggregate_json_by_date.py
-XMINI2HTML=../../scripts/transform_json_to_html_table.py
+XMINI2HTML=../../scripts/transform_json_to_metric_html_table.py
 
 TDATE=$1
 
