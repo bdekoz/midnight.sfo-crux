@@ -9,15 +9,12 @@
             <div class="table-container">
             <table border="1" class="dataframe">
   <thead>
-    <tr>
-      <th rowspan="2">site url</th>
-      <th colspan="4">2025-07-11</th>
-    </tr>
-    <tr>
-      <th>phone</th>
-      <th>phone-tb</th>
-      <th>tablet</th>
-      <th>tablet-tb</th>
+    <tr style="text-align: right;">
+      <th>site_url</th>
+      <th>platform1</th>
+      <th>platform2</th>
+      <th>platform3</th>
+      <th>platform4</th>
     </tr>
   </thead>
   <tbody>
