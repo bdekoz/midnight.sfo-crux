@@ -137,7 +137,8 @@ def convert_aggregate_json_to_markdown_index(sitelist, jdir):
             matchplatform.sort()
             print(f"{miniurl} found results for {matchplatform}")
 
-            miniurllink = f"[{miniurl}]({site})"
+            #miniurllink = f"[{miniurl}]({site})"
+            miniurllink = f'<a href="{site}">{miniurl}</a>'
             result_object = {
                 'site_url': miniurllink,
                 'date': date,
@@ -145,6 +146,16 @@ def convert_aggregate_json_to_markdown_index(sitelist, jdir):
                 'platform2': matchplatform[1] if len(matchplatform) > 1 else "",
                 'platform3': matchplatform[2] if len(matchplatform) > 2 else "",
                 'platform4': matchplatform[3] if len(matchplatform) > 3 else ""
+            }
+            aggindex.append(result_object)
+        else:
+            result_object = {
+                'site_url': miniurllink,
+                'date': "",
+                'platform1': "",
+                'platform2': "",
+                'platform3': "",
+                'platform4': ""
             }
             aggindex.append(result_object)
 
