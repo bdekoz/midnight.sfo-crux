@@ -21,175 +21,175 @@
   </thead>
   <tbody>
     <tr>
-      <td>\n[4usted](https://4usted.com/)\n</td>
+      <td>&lt;p&gt;[4usted](https://4usted.com/)&lt;/p&gt;</td>
       <td>\n[Y](/pages/2025-07-11-android-15-p8-4usted.md)\n</td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>\n[aldositaliangreengates_co_uk](https://www.aldositaliangreengates.co.uk/)\n</td>
+      <td>&lt;p&gt;[aldositaliangreengates_co_uk](https://www.aldositaliangreengates.co.uk/)&lt;/p&gt;</td>
       <td>\n[Y](/pages/2025-07-11-android-15-p8-aldositaliangreengates_co_uk.md)\n</td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>\n[artesp](https://artesp.org.br/)\n</td>
+      <td>&lt;p&gt;[artesp](https://artesp.org.br/)&lt;/p&gt;</td>
       <td>\n[Y](/pages/2025-07-11-android-15-p8-artesp.md)\n</td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>\n[bameethainoodle](https://bameethainoodle.com/)\n</td>
+      <td>&lt;p&gt;[bameethainoodle](https://bameethainoodle.com/)&lt;/p&gt;</td>
       <td>\n[Y](/pages/2025-07-11-android-15-p8-bameethainoodle.md)\n</td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>\n[botzsak_arukereso_hu](https://botzsak.arukereso.hu/)\n</td>
+      <td>&lt;p&gt;[botzsak_arukereso_hu](https://botzsak.arukereso.hu/)&lt;/p&gt;</td>
       <td>\n[Y](/pages/2025-07-11-android-15-p8-botzsak_arukereso_hu.md)\n</td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>\n[bulutokul](https://bulutokul.net/)\n</td>
+      <td>&lt;p&gt;[bulutokul](https://bulutokul.net/)&lt;/p&gt;</td>
       <td>\n[Y](/pages/2025-07-11-android-15-p8-bulutokul.md)\n</td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>\n[ceraplastica](https://www.ceraplastica.com/)\n</td>
+      <td>&lt;p&gt;[ceraplastica](https://www.ceraplastica.com/)&lt;/p&gt;</td>
       <td>\n[Y](/pages/2025-07-11-android-15-p8-ceraplastica.md)\n</td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>\n[detfriasverige_se](https://detfriasverige.se/)\n</td>
+      <td>&lt;p&gt;[detfriasverige_se](https://detfriasverige.se/)&lt;/p&gt;</td>
       <td>\n[Y](/pages/2025-07-11-android-15-p8-detfriasverige_se.md)\n</td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>\n[esaiedukasi](https://www.esaiedukasi.com/)\n</td>
+      <td>&lt;p&gt;[esaiedukasi](https://www.esaiedukasi.com/)&lt;/p&gt;</td>
       <td>\n[Y](/pages/2025-07-11-android-15-p8-esaiedukasi.md)\n</td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>\n[freeflix_tv_en_malavida_android](https://freeflix-tv.en.malavida.com/android/)\n</td>
+      <td>&lt;p&gt;[freeflix_tv_en_malavida_android](https://freeflix-tv.en.malavida.com/android/)&lt;/p&gt;</td>
       <td>\n[Y](/pages/2025-07-11-android-15-p8-freeflix_tv_en_malavida_android.md)\n</td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>\n[greenmovil_clapuser](https://greenmovil.clapuser.com/)\n</td>
+      <td>&lt;p&gt;[greenmovil_clapuser](https://greenmovil.clapuser.com/)&lt;/p&gt;</td>
       <td>\n[Y](/pages/2025-07-11-android-15-p8-greenmovil_clapuser.md)\n</td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>\n[haymanpens](https://www.haymanpens.com/)\n</td>
+      <td>&lt;p&gt;[haymanpens](https://www.haymanpens.com/)&lt;/p&gt;</td>
       <td>\n[Y](/pages/2025-07-11-android-15-p8-haymanpens.md)\n</td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>\n[lapencaazul](https://www.lapencaazul.com/)\n</td>
+      <td>&lt;p&gt;[lapencaazul](https://www.lapencaazul.com/)&lt;/p&gt;</td>
       <td>\n[Y](/pages/2025-07-11-android-15-p8-lapencaazul.md)\n</td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>\n[librepensador_uexternado_edu_co](https://librepensador.uexternado.edu.co/)\n</td>
+      <td>&lt;p&gt;[librepensador_uexternado_edu_co](https://librepensador.uexternado.edu.co/)&lt;/p&gt;</td>
       <td>\n[Y](/pages/2025-07-11-android-15-p8-librepensador_uexternado_edu_co.md)\n</td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>\n[panske_tricka_heureka_sk](https://panske-tricka.heureka.sk/)\n</td>
+      <td>&lt;p&gt;[panske_tricka_heureka_sk](https://panske-tricka.heureka.sk/)&lt;/p&gt;</td>
       <td>\n[Y](/pages/2025-07-11-android-15-p8-panske_tricka_heureka_sk.md)\n</td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>\n[phongluyen_hocmai_vn](https://phongluyen.hocmai.vn/)\n</td>
+      <td>&lt;p&gt;[phongluyen_hocmai_vn](https://phongluyen.hocmai.vn/)&lt;/p&gt;</td>
       <td>\n[Y](/pages/2025-07-11-android-15-p8-phongluyen_hocmai_vn.md)\n</td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>\n[rocker_sk](https://www.rocker.sk/)\n</td>
+      <td>&lt;p&gt;[rocker_sk](https://www.rocker.sk/)&lt;/p&gt;</td>
       <td>\n[Y](/pages/2025-07-11-android-15-p8-rocker_sk.md)\n</td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>\n[spertiveicoli_it](https://www.spertiveicoli.it/)\n</td>
+      <td>&lt;p&gt;[spertiveicoli_it](https://www.spertiveicoli.it/)&lt;/p&gt;</td>
       <td>\n[Y](/pages/2025-07-11-android-15-p8-spertiveicoli_it.md)\n</td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>\n[stylemuselady](https://stylemuselady.com/)\n</td>
+      <td>&lt;p&gt;[stylemuselady](https://stylemuselady.com/)&lt;/p&gt;</td>
       <td>\n[Y](/pages/2025-07-11-android-15-p8-stylemuselady.md)\n</td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>\n[unicat_es](https://www.unicat.es)\n</td>
+      <td>&lt;p&gt;[unicat_es](https://www.unicat.es)&lt;/p&gt;</td>
       <td>\n[Y](/pages/2025-07-11-android-15-p8-unicat_es.md)\n</td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>\n[unitedreggae](https://unitedreggae.com/)\n</td>
+      <td>&lt;p&gt;[unitedreggae](https://unitedreggae.com/)&lt;/p&gt;</td>
       <td>\n[Y](/pages/2025-07-11-android-15-p8-unitedreggae.md)\n</td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>\n[vazhnoznat](https://vazhnoznat.com/)\n</td>
+      <td>&lt;p&gt;[vazhnoznat](https://vazhnoznat.com/)&lt;/p&gt;</td>
       <td>\n[Y](/pages/2025-07-11-android-15-p8-vazhnoznat.md)\n</td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>\n[vehiclelifetimesolutions_schaeffler_ro](https://vehiclelifetimesolutions.schaeffler.ro/)\n</td>
+      <td>&lt;p&gt;[vehiclelifetimesolutions_schaeffler_ro](https://vehiclelifetimesolutions.schaeffler.ro/)&lt;/p&gt;</td>
       <td>\n[Y](/pages/2025-07-11-android-15-p8-vehiclelifetimesolutions_schaeffler_ro.md)\n</td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>\n[warehouse13_higherincomejobs](https://warehouse13.higherincomejobs.com/)\n</td>
+      <td>&lt;p&gt;[warehouse13_higherincomejobs](https://warehouse13.higherincomejobs.com/)&lt;/p&gt;</td>
       <td>\n[Y](/pages/2025-07-11-android-15-p8-warehouse13_higherincomejobs.md)\n</td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>\n[water_sports_bali](https://www.water-sports-bali.com/)\n</td>
+      <td>&lt;p&gt;[water_sports_bali](https://www.water-sports-bali.com/)&lt;/p&gt;</td>
       <td>\n[Y](/pages/2025-07-11-android-15-p8-water_sports_bali.md)\n</td>
       <td></td>
       <td></td>
