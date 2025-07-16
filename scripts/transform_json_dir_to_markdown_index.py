@@ -105,33 +105,53 @@ def deserialize_aggregate_json_file(jsonf):
 
 def convert_aggregate_json_to_markdown_index(sitelist, jdir):
     """
-    Reads data files in directory and orders into a sitelist dataframe
+    Reads data files in directory and orders into a sitelist json file for conversion to
+    python dataframe and then html table.
     Args:
         sitelist (str): The path to the input sitelist text file, one site per line
         jdir (str): The path to the directory containing aggregate json files
     """
 
     # Find all files in the directory that end with "-aggregate.json"
-    # The .glob() method returns a generator, so we convert it to a list
+    # aggregate json file has fields: platform, date, test, url.
+    # aggregate json filename schema: date-platform-test-aggregate.json
+    # NB: The .glob() method returns a generator, so we convert it to a list
     pdir = Path(jdir)
     aggregate_files = list(pdir.glob('*-aggregate.json'))
 
     # Order index in same was as the (minimized-url) sorted sitelist.
+    aggindex = []
     sites = deserialize_sitelist_file(sitelist)
     for site in sites:
-        matchfiles = []
+        miniurl = None
+        date = None
+        matchplatform = []
         for file_path in aggregate_files:
             data = deserialize_aggregate_json_file(file_path)
             if data.get('url') == site:
                 platform = data.get('platform')
-                matchfiles.append(platform)
-        print(f"{site} found results for {matchfiles}")
+                miniurl = data.get('test')
+                date = data.get('date')
+                matchplatform.append(platform)
+        if matchplatform:
+            matchplatform.sort()
+            print(f"{miniurl} found results for {matchplatform}")
 
-    # aggregate json file has fields: platform, date, test, url.
-    # aggregate json filename schema: date-platform-test-aggregate.json
+            miniurllink = f"[{miniurl}]({site})"
+            result_object = {
+                'site_url': miniurllink,
+                'date': date,
+                'platform1': matchplatform[0],
+                'platform2': matchplatform[1] if len(matchplatform) > 1 else "",
+                'platform3': matchplatform[2] if len(matchplatform) > 2 else "",
+                'platform4': matchplatform[3] if len(matchplatform) > 3 else ""
+            }
+            aggindex.append(result_object)
+
+    # Now, make aggindex into a data frame.
+    df = pd.DataFrame(aggindex)
+    convert_datframe_to_html_table(df, "multi-test-index-by-date.html")
 
 
-    #df = pd.DataFrame(sites, columns=['Site'])
-
-
+# do the thing
 convert_aggregate_json_to_markdown_index(sitelistf, aggjdir)
