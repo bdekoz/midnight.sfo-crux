@@ -103,6 +103,31 @@ def deserialize_aggregate_json_file(jsonf):
         sys.exit(2)
 
 
+def shorten_platform(platform):
+    short = None
+    if platform == "android-15-ptablet":
+        short = "tablet"
+    if platform == "android-15-ptablet-talkback":
+        short = "tablet-tb"
+    if platform == "android-15-p8":
+        short = "phone"
+    if platform == "android-15-p8-talkback":
+        short = "phone-tb"
+    return short
+
+
+# n == index, starts at 0
+def create_platform_link(date, platforms, miniurl, n):
+    plink = ""
+    if len(platforms) > n:
+        platf = platforms[n];
+        splatf = shorten_platform(platf)
+        page = f"/pages/{date}-{platf}-{miniurl}.md"
+        #plink = f'<a href="{page}">{splatf}</a>'
+        plink = f"[Y]({page})"
+    return plink
+
+
 def convert_aggregate_json_to_markdown_index(sitelist, jdir):
     """
     Reads data files in directory and orders into a sitelist json file for conversion to
@@ -137,21 +162,19 @@ def convert_aggregate_json_to_markdown_index(sitelist, jdir):
             matchplatform.sort()
             print(f"{miniurl} found results for {matchplatform}")
 
-            #miniurllink = f"[{miniurl}]({site})"
-            miniurllink = f'<a href="{site}">{miniurl}</a>'
+            miniurllink = f"[{miniurl}]({site})"
+            #miniurllink = f'<a href="{site}">{miniurl}</a>'
             result_object = {
                 'site_url': miniurllink,
-                'date': date,
-                'platform1': matchplatform[0],
-                'platform2': matchplatform[1] if len(matchplatform) > 1 else "",
-                'platform3': matchplatform[2] if len(matchplatform) > 2 else "",
-                'platform4': matchplatform[3] if len(matchplatform) > 3 else ""
+                'platform1': create_platform_link(date, matchplatform, miniurl, 0),
+                'platform2': create_platform_link(date, matchplatform, miniurl, 1),
+                'platform3': create_platform_link(date, matchplatform, miniurl, 2),
+                'platform4': create_platform_link(date, matchplatform, miniurl, 3)
             }
             aggindex.append(result_object)
         else:
             result_object = {
                 'site_url': miniurllink,
-                'date': "",
                 'platform1': "",
                 'platform2': "",
                 'platform3': "",
@@ -161,8 +184,23 @@ def convert_aggregate_json_to_markdown_index(sitelist, jdir):
 
     # Now, make aggindex into a data frame.
     df = pd.DataFrame(aggindex)
-    convert_datframe_to_html_table(df, "multi-test-index-by-date.html")
+    ofile = f"{date}-multi-test-index.md"
+    convert_datframe_to_html_table(df, ofile)
 
+"""    
+ <thead>
+    <tr>
+      <th rowspan="2">site url</th>
+      <th colspan="4">2025-07-11</th>
+    </tr>
+    <tr>
+      <th>phone</th>
+      <th>phone-tb</th>
+      <th>tablet</th>
+      <th>tablet-tb</th>
+    </tr>
+  </thead>
+"""
 
 # do the thing
 convert_aggregate_json_to_markdown_index(sitelistf, aggjdir)
