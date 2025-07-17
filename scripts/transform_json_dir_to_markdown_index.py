@@ -14,34 +14,32 @@ sitelistf = sys.argv[1];
 aggjdir = sys.argv[2];
 
 
-def convert_datframe_to_html_table(df, outputf):
+def convert_dataframe_to_html_table(df, outputf):
     try:
-        html_table_string = df.to_html(
-            index=False,               # Do not include the DataFrame index as a column
-            na_rep='nan',              # Represent NaN values as 'N/A'
-            float_format='%.1f'        # Format float numbers to one decimal places
-        )
+        # NB escape=False required if html is embedded
+        html_table_string = df.to_html(escape=False, index=False, na_rep='nan', float_format='%.1f')
 
         # Create a complete HTML document with the table
         # We'll use a simple HTML template with basic styling for a clean look
         html_content = f"""
-        <html lang="en">
-          <head>
-            <meta charset="UTF-8">
-            <meta name="viewport" content="width=device-width, initial-scale=1.0">
-            <title>Metics Table</title>
-          </head>
-          <body>
-            <div class="table-container">
-            {html_table_string}
-            </div>
-          </body>
-        </html>
+<html lang="en">
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Results Index</title>
+</head>
+<body>
+  <div class="table-container">
+    {html_table_string}
+  </div>
+</body>
+</html>
         """
 
         # Write the complete HTML content to the specified output file
         with open(outputf, 'w', encoding='utf-8') as f:
-            f.write(html_content)
+            f.write("## test result index \n")
+            f.write("\n")
+            f.write(html_table_string)
 
     except FileNotFoundError:
         print(f"Error: One of the files was not found. Please check paths.", file=sys.stderr)
@@ -57,8 +55,8 @@ def convert_datframe_to_html_table(df, outputf):
         sys.exit(1)
 
 
+# read sitelist file
 def deserialize_sitelist_file(sitelist):
-    # read sitelist file
     if os.path.exists(sitelistf):
         try:
             with open(sitelistf, 'r') as f:
@@ -117,14 +115,24 @@ def shorten_platform(platform):
 
 
 # n == index, starts at 0
+chromefail = []
+firefoxfail = []
 def create_platform_link(date, platforms, miniurl, n):
     plink = ""
     if len(platforms) > n:
         platf = platforms[n];
-        splatf = shorten_platform(platf)
         page = f"/pages/{date}-{platf}-{miniurl}.md"
-        #plink = f'<a href="{page}">{splatf}</a>'
-        plink = f"[Y]({page})"
+        plink = f"""<a href="{page}">Y</a>"""
+
+    chromep = miniurl in chromefail
+    firefoxp = miniurl in firefoxfail
+    if chromep and firefoxp:
+        plink = "❌ chrome, firefox"
+    else:
+        if chromep:
+            plink = "❌ chrome"
+        if firefoxp:
+            plink = "❌ firefox"
     return plink
 
 
@@ -157,13 +165,15 @@ def convert_aggregate_json_to_markdown_index(sitelist, jdir):
                 platform = data.get('platform')
                 miniurl = data.get('test')
                 date = data.get('date')
+                if not 'chrome' in data:
+                    chromefail.append(miniurl)
+                if not 'firefox' in data:
+                    firefoxfail.append(miniurl)
                 matchplatform.append(platform)
         if matchplatform:
             matchplatform.sort()
             print(f"{miniurl} found results for {matchplatform}")
-
-            miniurllink = f"[{miniurl}]({site})"
-            #miniurllink = f'<a href="{site}">{miniurl}</a>'
+            miniurllink = f"""<a href="{site}">{miniurl}</a>"""
             result_object = {
                 'site_url': miniurllink,
                 'platform1': create_platform_link(date, matchplatform, miniurl, 0),
@@ -185,9 +195,9 @@ def convert_aggregate_json_to_markdown_index(sitelist, jdir):
     # Now, make aggindex into a data frame.
     df = pd.DataFrame(aggindex)
     ofile = f"{date}-multi-test-index.md"
-    convert_datframe_to_html_table(df, ofile)
+    convert_dataframe_to_html_table(df, ofile)
 
-"""    
+"""
  <thead>
     <tr>
       <th rowspan="2">site url</th>
