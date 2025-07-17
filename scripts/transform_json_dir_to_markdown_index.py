@@ -14,14 +14,46 @@ sitelistf = sys.argv[1];
 aggjdir = sys.argv[2];
 
 
-def convert_dataframe_to_html_table(df, outputf):
+def replace_between(original_str, start_marker, end_marker, replacement_str):
+    start_index = original_str.find(start_marker)
+    if start_index == -1:
+        return original_str
+
+    end_index = original_str.find(end_marker, start_index)
+    if end_index == -1:
+        return original_str
+
+    part_before = original_str[:start_index]
+    part_after = original_str[end_index + len(end_marker):]
+    return part_before + replacement_str + part_after
+
+
+def make_html_table_head(date):
+    sthead = f"""
+<thead>
+  <tr>
+    <th rowspan="2">test url</th>
+    <th colspan="4">{date}</th>
+  </tr>
+  <tr>
+    <th>phone</th>
+    <th>phone-talkback</th>
+    <th>tablet</th>
+    <th>tablet-talkback</th>
+  </tr>
+</thead>
+"""
+    return sthead
+
+
+def convert_dataframe_to_html_table(df, outputf, date):
     try:
         # NB escape=False required if html is embedded
         html_table_string = df.to_html(escape=False, index=False, na_rep='nan', float_format='%.1f')
 
         # Create a complete HTML document with the table
         # We'll use a simple HTML template with basic styling for a clean look
-        html_content = f"""
+        html_content_base = f"""
 <html lang="en">
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -35,11 +67,17 @@ def convert_dataframe_to_html_table(df, outputf):
 </html>
         """
 
+        # Customize table headers for this data.
+        startw = "<thead>"
+        endw = "</thead>"
+        customthead = make_html_table_head(date)
+        html_content = replace_between(html_content_base, startw, endw, customthead)
+
         # Write the complete HTML content to the specified output file
         with open(outputf, 'w', encoding='utf-8') as f:
             f.write("## test result index \n")
             f.write("\n")
-            f.write(html_table_string)
+            f.write(html_content)
 
     except FileNotFoundError:
         print(f"Error: One of the files was not found. Please check paths.", file=sys.stderr)
@@ -161,18 +199,18 @@ def convert_aggregate_json_to_markdown_index(sitelist, jdir):
     aggregate_files = list(pdir.glob('*-aggregate.json'))
 
     # Order index in same was as the (minimized-url) sorted sitelist.
+    date = None
     aggindex = []
     sites = deserialize_sitelist_file(sitelist)
     for site in sites:
         miniurl = None
-        date = None
         matchplatform = []
         for file_path in aggregate_files:
             data = deserialize_aggregate_json_file(file_path)
             if data.get('url') == site:
+                date = data.get('date')
                 platform = data.get('platform')
                 miniurl = data.get('test')
-                date = data.get('date')
                 if not 'chrome' in data:
                     chromefail.append(make_metadata_string(date, platform, miniurl))
                 if not 'firefox' in data:
@@ -203,22 +241,8 @@ def convert_aggregate_json_to_markdown_index(sitelist, jdir):
     # Now, make aggindex into a data frame.
     df = pd.DataFrame(aggindex)
     ofile = f"{date}-multi-test-index.md"
-    convert_dataframe_to_html_table(df, ofile)
+    convert_dataframe_to_html_table(df, ofile, date)
 
-"""
- <thead>
-    <tr>
-      <th rowspan="2">site url</th>
-      <th colspan="4">2025-07-11</th>
-    </tr>
-    <tr>
-      <th>phone</th>
-      <th>phone-tb</th>
-      <th>tablet</th>
-      <th>tablet-tb</th>
-    </tr>
-  </thead>
-"""
 
-# do the thing
+# do the thing for one date
 convert_aggregate_json_to_markdown_index(sitelistf, aggjdir)
