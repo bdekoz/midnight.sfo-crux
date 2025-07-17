@@ -166,7 +166,10 @@ def create_platform_link(date, platforms, miniurl, n):
     if len(platforms) > n:
         platf = platforms[n];
         metadata = make_metadata_string(date, platf, miniurl)
-        page = f"/pages/{metadata}.md"
+
+        # from html linking to markdown, link to the to-be-parsed html not md
+        #page = f"/pages/{metadata}.md"
+        page = f"pages/{metadata}.html"
         plink = f"""<a href="{page}">Y</a>"""
 
         # overwrite if error
