@@ -114,25 +114,33 @@ def shorten_platform(platform):
     return short
 
 
-# n == index, starts at 0
+# List of fails per date/platform/site/browser
 chromefail = []
 firefoxfail = []
+def make_metadata_string(date, platform, miniurl):
+    meta = f"{date}-{platform}-{miniurl}"
+    return meta
+
+
+# n == index, starts at 0
 def create_platform_link(date, platforms, miniurl, n):
     plink = ""
     if len(platforms) > n:
         platf = platforms[n];
-        page = f"/pages/{date}-{platf}-{miniurl}.md"
+        metadata = make_metadata_string(date, platf, miniurl)
+        page = f"/pages/{metadata}.md"
         plink = f"""<a href="{page}">Y</a>"""
 
-    chromep = miniurl in chromefail
-    firefoxp = miniurl in firefoxfail
-    if chromep and firefoxp:
-        plink = "❌ chrome, firefox"
-    else:
-        if chromep:
-            plink = "❌ chrome"
-        if firefoxp:
-            plink = "❌ firefox"
+        # overwrite if error
+        chromep = metadata in chromefail
+        firefoxp = metadata in firefoxfail
+        if chromep and firefoxp:
+            plink = "❌ chrome, firefox"
+        else:
+            if chromep:
+                plink = "❌ chrome"
+            if firefoxp:
+                plink = "❌ firefox"
     return plink
 
 
@@ -166,9 +174,9 @@ def convert_aggregate_json_to_markdown_index(sitelist, jdir):
                 miniurl = data.get('test')
                 date = data.get('date')
                 if not 'chrome' in data:
-                    chromefail.append(miniurl)
+                    chromefail.append(make_metadata_string(date, platform, miniurl))
                 if not 'firefox' in data:
-                    firefoxfail.append(miniurl)
+                    firefoxfail.append(make_metadata_string(date, platform, miniurl))
                 matchplatform.append(platform)
         if matchplatform:
             matchplatform.sort()
