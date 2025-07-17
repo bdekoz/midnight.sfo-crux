@@ -28,7 +28,8 @@
 - [2025-07-11 phone](/2025-07-11-android-15-p8.md)
 - [2025-07-11 phone talkback](/2025-07-11-android-15-p8-talkback.md)
 - [2025-07-03 tablet talkback graph](/resources/2025-07-03-android-15-ptablet-talkback-unicat_es_x_line_graph.svg)
-- [2025-07-11 multi markdown](/2025-07-11-multi-test-index.md)
+- [2025-07-11 multi](/2025-07-11-multi-test-index.md)
+- [2025-07-11 multi custom](/2025-07-11-multi-test-index-custom.md)
 
 
 ## Data
