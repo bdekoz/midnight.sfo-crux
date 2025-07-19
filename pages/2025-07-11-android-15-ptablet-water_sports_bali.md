@@ -1,4 +1,3 @@
-
 ## metadata
 {::nomarkdown}
 <?xml version="1.0" encoding="utf-8"?>
@@ -567,18 +566,27 @@ chrome
 <script type="text/javascript" crossorigin="anonymous" id="tooltip-js"  >
 
     function showTooltip(event, tooltipId) {
-      const tooltipimg = document.getElementById(tooltipId);
-      if (tooltipimg) {
-	const svge = tooltipimg.parentElement;
-	const brect = svge.getBoundingClientRect();
-	const bx = brect.left;
-	const by = brect.top;
+  const tooltipimg = document.getElementById(tooltipId);
+  if (tooltipimg) {
+    const ge = tooltipimg.parentElement;
+    const svge = ge.parentElement;
+    console.log(ge.id);
+    console.log(svge.id);
+    console.log(`ScreenX: ${event.screenX}, ScreenY: ${event.screenY}`);
+    console.log(`PageX: ${event.pageX}, PageY: ${event.pageY}`);
+    console.log(`X: ${event.x}, Y: ${event.y}`);
 
-	tooltipimg.setAttribute('x', event.x + bx + "px");
-	tooltipimg.setAttribute('y', event.y + by + "px");
+    const brect = svge.getBoundingClientRect();
+    const bx = brect.left;
+    const by = brect.top;
+
+    const margin = 50;
+    tooltipimg.setAttribute('x', event.x + bx + "px");
+    tooltipimg.setAttribute('y', event.y + by + "px");
 
 	tooltipimg.setAttribute('visibility', 'visible');
-      } else {
+      }
+      else {
 	console.error(`Element with ID "${tooltipId}" not found.`);
       }
     }
@@ -587,7 +595,17 @@ chrome
       const tooltipimg = document.getElementById(tooltipId);
       tooltipimg.setAttribute('visibility', 'hidden');
     }
-    
+
+let screenLog = document.querySelector("#screen-log");
+document.addEventListener("mousemove", logKey);
+
+function logKey(e) {
+  screenLog.innerText = `
+    Screen X/Y: ${e.screenX}, ${e.screenY}
+    Client X/Y: ${e.clientX}, ${e.clientY}`;
+}
+
+
 </script>
 </svg>
 
@@ -600,13 +618,12 @@ chrome
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Metics Table</title>
 </head>
 <body>
     <div class="table-container">
-        <table border="1" class="dataframe">
-  
+	<table>
+
 	<thead>
 	  <tr>
 	    <th rowspan="2" width="25%">metric</th>
@@ -621,7 +638,7 @@ chrome
 	    <th>rsd</th>
 	   </tr>
 	</thead>
-      
+
   <tbody>
     <tr>
       <td>domainLookupStart</td>
@@ -708,4 +725,3 @@ chrome
     </div>
 </body>
 </html>
-        
