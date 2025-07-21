@@ -27,7 +27,9 @@ viewBox="0 0 540.000000 150.000000" enable-background="new 0 0 540.000000 150.00
 </svg>
 
 {:/}
+
 <div style="height: 50px;"></div>
+
 ## side by side video
 {::nomarkdown}
 <?xml version="1.0" encoding="utf-8"?>
@@ -55,7 +57,9 @@ viewBox="0 0 540.000000 585.000000" enable-background="new 0 0 540.000000 585.00
 </svg>
 
 {:/}
+
 <div style="height: 50px;"></div>
+
 ## % visually complete by ms (SpeedIndexProgress)
 {::nomarkdown}
 <?xml version="1.0" encoding="utf-8"?>
@@ -278,115 +282,115 @@ annotation line graph for SpeedIndexProgress
  </g> <g id="polyline-firefox">
 <polyline points="100,500 126.599,500 190.169,256 207.352,256 208.09,240 208.827,164 209.565,164 210.997,148 213.904,148 216.768,152 218.2,164 242.065,164 246.361,140 247.793,144 258.598,152 260.811,152 264.412,132 267.97,128 308.455,128 309.15,124 309.887,124 310.581,120 312.057,120 312.751,116 313.489,112 352.542,112 353.236,108 360.395,108 361.133,104 386.431,104 387.168,100 " stroke-dasharray="1 2" stroke-linecap="triangle"  style="fill:rgb(46,46,46); fill-opacity:0; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1" />
  </g> <g id="markers-firefox">
- <path id="triangle-3.900000-120.000000" d="M 103.377 501.95 L 100 496.1 L 96.6225 501.95 L 103.377 501.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_00000')"  onmouseout="hideTooltip('firefox_scrn_00000')"   >
+ <path d="M 103.377 501.95 L 100 496.1 L 96.6225 501.95 L 103.377 501.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_00000')"  onmouseout="hideTooltip('firefox_scrn_00000')"   >
 <title>
 firefox
 0%, 0ms
 </title>
  </path>
-<path id="triangle-3.900000-120.000000" d="M 193.546 257.95 L 190.169 252.1 L 186.791 257.95 L 193.546 257.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_02078')"  onmouseout="hideTooltip('firefox_scrn_02078')"   >
+<path d="M 193.546 257.95 L 190.169 252.1 L 186.791 257.95 L 193.546 257.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_02078')"  onmouseout="hideTooltip('firefox_scrn_02078')"   >
 <title>
 firefox
 61%, 2078ms
 </title>
  </path>
-<path id="triangle-3.900000-120.000000" d="M 211.467 241.95 L 208.09 236.1 L 204.712 241.95 L 211.467 241.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_02491')"  onmouseout="hideTooltip('firefox_scrn_02491')"   >
+<path d="M 211.467 241.95 L 208.09 236.1 L 204.712 241.95 L 211.467 241.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_02491')"  onmouseout="hideTooltip('firefox_scrn_02491')"   >
 <title>
 firefox
 65%, 2491ms
 </title>
  </path>
-<path id="triangle-3.900000-120.000000" d="M 212.205 165.95 L 208.827 160.1 L 205.45 165.95 L 212.205 165.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_02508')"  onmouseout="hideTooltip('firefox_scrn_02508')"   >
+<path d="M 212.205 165.95 L 208.827 160.1 L 205.45 165.95 L 212.205 165.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_02508')"  onmouseout="hideTooltip('firefox_scrn_02508')"   >
 <title>
 firefox
 84%, 2508ms
 </title>
  </path>
-<path id="triangle-3.900000-120.000000" d="M 214.374 149.95 L 210.997 144.1 L 207.619 149.95 L 214.374 149.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_02558')"  onmouseout="hideTooltip('firefox_scrn_02558')"   >
+<path d="M 214.374 149.95 L 210.997 144.1 L 207.619 149.95 L 214.374 149.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_02558')"  onmouseout="hideTooltip('firefox_scrn_02558')"   >
 <title>
 firefox
 88%, 2558ms
 </title>
  </path>
-<path id="triangle-3.900000-120.000000" d="M 220.145 153.95 L 216.768 148.1 L 213.39 153.95 L 220.145 153.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_02691')"  onmouseout="hideTooltip('firefox_scrn_02691')"   >
+<path d="M 220.145 153.95 L 216.768 148.1 L 213.39 153.95 L 220.145 153.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_02691')"  onmouseout="hideTooltip('firefox_scrn_02691')"   >
 <title>
 firefox
 87%, 2691ms
 </title>
  </path>
-<path id="triangle-3.900000-120.000000" d="M 221.577 165.95 L 218.2 160.1 L 214.822 165.95 L 221.577 165.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_02724')"  onmouseout="hideTooltip('firefox_scrn_02724')"   >
+<path d="M 221.577 165.95 L 218.2 160.1 L 214.822 165.95 L 221.577 165.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_02724')"  onmouseout="hideTooltip('firefox_scrn_02724')"   >
 <title>
 firefox
 84%, 2724ms
 </title>
  </path>
-<path id="triangle-3.900000-120.000000" d="M 249.739 141.95 L 246.361 136.1 L 242.984 141.95 L 249.739 141.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_03373')"  onmouseout="hideTooltip('firefox_scrn_03373')"   >
+<path d="M 249.739 141.95 L 246.361 136.1 L 242.984 141.95 L 249.739 141.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_03373')"  onmouseout="hideTooltip('firefox_scrn_03373')"   >
 <title>
 firefox
 90%, 3373ms
 </title>
  </path>
-<path id="triangle-3.900000-120.000000" d="M 251.171 145.95 L 247.793 140.1 L 244.416 145.95 L 251.171 145.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_03406')"  onmouseout="hideTooltip('firefox_scrn_03406')"   >
+<path d="M 251.171 145.95 L 247.793 140.1 L 244.416 145.95 L 251.171 145.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_03406')"  onmouseout="hideTooltip('firefox_scrn_03406')"   >
 <title>
 firefox
 89%, 3406ms
 </title>
  </path>
-<path id="triangle-3.900000-120.000000" d="M 261.975 153.95 L 258.598 148.1 L 255.22 153.95 L 261.975 153.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_03655')"  onmouseout="hideTooltip('firefox_scrn_03655')"   >
+<path d="M 261.975 153.95 L 258.598 148.1 L 255.22 153.95 L 261.975 153.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_03655')"  onmouseout="hideTooltip('firefox_scrn_03655')"   >
 <title>
 firefox
 87%, 3655ms
 </title>
  </path>
-<path id="triangle-3.900000-120.000000" d="M 267.79 133.95 L 264.412 128.1 L 261.035 133.95 L 267.79 133.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_03789')"  onmouseout="hideTooltip('firefox_scrn_03789')"   >
+<path d="M 267.79 133.95 L 264.412 128.1 L 261.035 133.95 L 267.79 133.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_03789')"  onmouseout="hideTooltip('firefox_scrn_03789')"   >
 <title>
 firefox
 92%, 3789ms
 </title>
  </path>
-<path id="triangle-3.900000-120.000000" d="M 271.348 129.95 L 267.97 124.1 L 264.593 129.95 L 271.348 129.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_03871')"  onmouseout="hideTooltip('firefox_scrn_03871')"   >
+<path d="M 271.348 129.95 L 267.97 124.1 L 264.593 129.95 L 271.348 129.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_03871')"  onmouseout="hideTooltip('firefox_scrn_03871')"   >
 <title>
 firefox
 93%, 3871ms
 </title>
  </path>
-<path id="triangle-3.900000-120.000000" d="M 312.527 125.95 L 309.15 120.1 L 305.772 125.95 L 312.527 125.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_04820')"  onmouseout="hideTooltip('firefox_scrn_04820')"   >
+<path d="M 312.527 125.95 L 309.15 120.1 L 305.772 125.95 L 312.527 125.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_04820')"  onmouseout="hideTooltip('firefox_scrn_04820')"   >
 <title>
 firefox
 94%, 4820ms
 </title>
  </path>
-<path id="triangle-3.900000-120.000000" d="M 313.959 121.95 L 310.581 116.1 L 307.204 121.95 L 313.959 121.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_04853')"  onmouseout="hideTooltip('firefox_scrn_04853')"   >
+<path d="M 313.959 121.95 L 310.581 116.1 L 307.204 121.95 L 313.959 121.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_04853')"  onmouseout="hideTooltip('firefox_scrn_04853')"   >
 <title>
 firefox
 95%, 4853ms
 </title>
  </path>
-<path id="triangle-3.900000-120.000000" d="M 316.129 117.95 L 312.751 112.1 L 309.374 117.95 L 316.129 117.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_04903')"  onmouseout="hideTooltip('firefox_scrn_04903')"   >
+<path d="M 316.129 117.95 L 312.751 112.1 L 309.374 117.95 L 316.129 117.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_04903')"  onmouseout="hideTooltip('firefox_scrn_04903')"   >
 <title>
 firefox
 96%, 4903ms
 </title>
  </path>
-<path id="triangle-3.900000-120.000000" d="M 316.866 113.95 L 313.489 108.1 L 310.111 113.95 L 316.866 113.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_04920')"  onmouseout="hideTooltip('firefox_scrn_04920')"   >
+<path d="M 316.866 113.95 L 313.489 108.1 L 310.111 113.95 L 316.866 113.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_04920')"  onmouseout="hideTooltip('firefox_scrn_04920')"   >
 <title>
 firefox
 97%, 4920ms
 </title>
  </path>
-<path id="triangle-3.900000-120.000000" d="M 356.613 109.95 L 353.236 104.1 L 349.858 109.95 L 356.613 109.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_05836')"  onmouseout="hideTooltip('firefox_scrn_05836')"   >
+<path d="M 356.613 109.95 L 353.236 104.1 L 349.858 109.95 L 356.613 109.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_05836')"  onmouseout="hideTooltip('firefox_scrn_05836')"   >
 <title>
 firefox
 98%, 5836ms
 </title>
  </path>
-<path id="triangle-3.900000-120.000000" d="M 364.511 105.95 L 361.133 100.1 L 357.756 105.95 L 364.511 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_06018')"  onmouseout="hideTooltip('firefox_scrn_06018')"   >
+<path d="M 364.511 105.95 L 361.133 100.1 L 357.756 105.95 L 364.511 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_06018')"  onmouseout="hideTooltip('firefox_scrn_06018')"   >
 <title>
 firefox
 99%, 6018ms
 </title>
  </path>
-<path id="triangle-3.900000-120.000000" d="M 390.546 101.95 L 387.168 96.1 L 383.791 101.95 L 390.546 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_06618')"  onmouseout="hideTooltip('firefox_scrn_06618')"   >
+<path d="M 390.546 101.95 L 387.168 96.1 L 383.791 101.95 L 390.546 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_06618')"  onmouseout="hideTooltip('firefox_scrn_06618')"   >
 <title>
 firefox
 100%, 6618ms
@@ -590,6 +594,7 @@ chrome
  </g></svg>
 
 {:/}
+{::nomarkdown}
  <image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-firefox_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
 <image  id="firefox_scrn_02078" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-firefox_02078.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
@@ -629,6 +634,9 @@ chrome
 <image  id="firefox_scrn_06618" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-firefox_06618.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
 
+{:/}
+
+{::nomarkdown}
  <image  id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-chrome_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
 <image  id="chrome_scrn_01942" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-chrome_01942.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
@@ -694,6 +702,8 @@ chrome
 <image  id="chrome_scrn_13656" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-chrome_13656.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
 
+{:/}
+
 <script type="text/javascript" crossorigin="anonymous" id="tooltip-js"  >
 
     function showTooltip(event, tooltipId) {
@@ -721,7 +731,9 @@ chrome
     
 </script>
 
+
 <div style="height: 50px;"></div>
+
 ## navigation, paint, visual metrics
 
 <html lang="en">
