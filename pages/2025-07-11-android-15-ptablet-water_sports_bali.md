@@ -378,7 +378,6 @@ chrome
  </circle>
  </g></svg>
 
-{:/}
  <image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-firefox_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
 <image  id="firefox_scrn_02016" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-firefox_02016.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
@@ -412,6 +411,7 @@ chrome
  visibility="hidden" crossorigin="anonymous"  />
 <image  id="chrome_scrn_02843" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-chrome_02843.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
+{:/}
 
 <script type="text/javascript" crossorigin="anonymous" id="tooltip-js"  >
 
