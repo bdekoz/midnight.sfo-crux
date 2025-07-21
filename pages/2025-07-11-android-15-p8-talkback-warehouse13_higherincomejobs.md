@@ -485,62 +485,62 @@ chrome
  </g></svg>
 
 {:/}
- <image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-p8-talkback-warehouse13_higherincomejobs-firefox_-firefox_00000.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ <image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-p8-talkback-warehouse13_higherincomejobs-firefox_00000.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_00274" href="../filmstrip/2025-07-11-android-15-p8-talkback-warehouse13_higherincomejobs-firefox_-firefox_00274.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_00274" href="../filmstrip/2025-07-11-android-15-p8-talkback-warehouse13_higherincomejobs-firefox_00274.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_00291" href="../filmstrip/2025-07-11-android-15-p8-talkback-warehouse13_higherincomejobs-firefox_-firefox_00291.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_00291" href="../filmstrip/2025-07-11-android-15-p8-talkback-warehouse13_higherincomejobs-firefox_00291.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_01940" href="../filmstrip/2025-07-11-android-15-p8-talkback-warehouse13_higherincomejobs-firefox_-firefox_01940.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_01940" href="../filmstrip/2025-07-11-android-15-p8-talkback-warehouse13_higherincomejobs-firefox_01940.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_03887" href="../filmstrip/2025-07-11-android-15-p8-talkback-warehouse13_higherincomejobs-firefox_-firefox_03887.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_03887" href="../filmstrip/2025-07-11-android-15-p8-talkback-warehouse13_higherincomejobs-firefox_03887.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_03921" href="../filmstrip/2025-07-11-android-15-p8-talkback-warehouse13_higherincomejobs-firefox_-firefox_03921.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_03921" href="../filmstrip/2025-07-11-android-15-p8-talkback-warehouse13_higherincomejobs-firefox_03921.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_03999" href="../filmstrip/2025-07-11-android-15-p8-talkback-warehouse13_higherincomejobs-firefox_-firefox_03999.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_03999" href="../filmstrip/2025-07-11-android-15-p8-talkback-warehouse13_higherincomejobs-firefox_03999.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_04865" href="../filmstrip/2025-07-11-android-15-p8-talkback-warehouse13_higherincomejobs-firefox_-firefox_04865.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_04865" href="../filmstrip/2025-07-11-android-15-p8-talkback-warehouse13_higherincomejobs-firefox_04865.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_06027" href="../filmstrip/2025-07-11-android-15-p8-talkback-warehouse13_higherincomejobs-firefox_-firefox_06027.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_06027" href="../filmstrip/2025-07-11-android-15-p8-talkback-warehouse13_higherincomejobs-firefox_06027.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_08373" href="../filmstrip/2025-07-11-android-15-p8-talkback-warehouse13_higherincomejobs-firefox_-firefox_08373.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_08373" href="../filmstrip/2025-07-11-android-15-p8-talkback-warehouse13_higherincomejobs-firefox_08373.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_08406" href="../filmstrip/2025-07-11-android-15-p8-talkback-warehouse13_higherincomejobs-firefox_-firefox_08406.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_08406" href="../filmstrip/2025-07-11-android-15-p8-talkback-warehouse13_higherincomejobs-firefox_08406.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_08438" href="../filmstrip/2025-07-11-android-15-p8-talkback-warehouse13_higherincomejobs-firefox_-firefox_08438.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_08438" href="../filmstrip/2025-07-11-android-15-p8-talkback-warehouse13_higherincomejobs-firefox_08438.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_08474" href="../filmstrip/2025-07-11-android-15-p8-talkback-warehouse13_higherincomejobs-firefox_-firefox_08474.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_08474" href="../filmstrip/2025-07-11-android-15-p8-talkback-warehouse13_higherincomejobs-firefox_08474.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_08490" href="../filmstrip/2025-07-11-android-15-p8-talkback-warehouse13_higherincomejobs-firefox_-firefox_08490.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_08490" href="../filmstrip/2025-07-11-android-15-p8-talkback-warehouse13_higherincomejobs-firefox_08490.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_08507" href="../filmstrip/2025-07-11-android-15-p8-talkback-warehouse13_higherincomejobs-firefox_-firefox_08507.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_08507" href="../filmstrip/2025-07-11-android-15-p8-talkback-warehouse13_higherincomejobs-firefox_08507.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_08522" href="../filmstrip/2025-07-11-android-15-p8-talkback-warehouse13_higherincomejobs-firefox_-firefox_08522.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_08522" href="../filmstrip/2025-07-11-android-15-p8-talkback-warehouse13_higherincomejobs-firefox_08522.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_08622" href="../filmstrip/2025-07-11-android-15-p8-talkback-warehouse13_higherincomejobs-firefox_-firefox_08622.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_08622" href="../filmstrip/2025-07-11-android-15-p8-talkback-warehouse13_higherincomejobs-firefox_08622.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_08636" href="../filmstrip/2025-07-11-android-15-p8-talkback-warehouse13_higherincomejobs-firefox_-firefox_08636.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_08636" href="../filmstrip/2025-07-11-android-15-p8-talkback-warehouse13_higherincomejobs-firefox_08636.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_08869" href="../filmstrip/2025-07-11-android-15-p8-talkback-warehouse13_higherincomejobs-firefox_-firefox_08869.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_08869" href="../filmstrip/2025-07-11-android-15-p8-talkback-warehouse13_higherincomejobs-firefox_08869.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_08887" href="../filmstrip/2025-07-11-android-15-p8-talkback-warehouse13_higherincomejobs-firefox_-firefox_08887.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_08887" href="../filmstrip/2025-07-11-android-15-p8-talkback-warehouse13_higherincomejobs-firefox_08887.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_09635" href="../filmstrip/2025-07-11-android-15-p8-talkback-warehouse13_higherincomejobs-firefox_-firefox_09635.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_09635" href="../filmstrip/2025-07-11-android-15-p8-talkback-warehouse13_higherincomejobs-firefox_09635.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
 
- <image  id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-p8-talkback-warehouse13_higherincomejobs-chrome_-chrome_00000.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ <image  id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-p8-talkback-warehouse13_higherincomejobs-chrome_00000.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_01807" href="../filmstrip/2025-07-11-android-15-p8-talkback-warehouse13_higherincomejobs-chrome_-chrome_01807.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_01807" href="../filmstrip/2025-07-11-android-15-p8-talkback-warehouse13_higherincomejobs-chrome_01807.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_04430" href="../filmstrip/2025-07-11-android-15-p8-talkback-warehouse13_higherincomejobs-chrome_-chrome_04430.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_04430" href="../filmstrip/2025-07-11-android-15-p8-talkback-warehouse13_higherincomejobs-chrome_04430.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_04528" href="../filmstrip/2025-07-11-android-15-p8-talkback-warehouse13_higherincomejobs-chrome_-chrome_04528.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_04528" href="../filmstrip/2025-07-11-android-15-p8-talkback-warehouse13_higherincomejobs-chrome_04528.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_04958" href="../filmstrip/2025-07-11-android-15-p8-talkback-warehouse13_higherincomejobs-chrome_-chrome_04958.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_04958" href="../filmstrip/2025-07-11-android-15-p8-talkback-warehouse13_higherincomejobs-chrome_04958.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_05559" href="../filmstrip/2025-07-11-android-15-p8-talkback-warehouse13_higherincomejobs-chrome_-chrome_05559.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_05559" href="../filmstrip/2025-07-11-android-15-p8-talkback-warehouse13_higherincomejobs-chrome_05559.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_06274" href="../filmstrip/2025-07-11-android-15-p8-talkback-warehouse13_higherincomejobs-chrome_-chrome_06274.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_06274" href="../filmstrip/2025-07-11-android-15-p8-talkback-warehouse13_higherincomejobs-chrome_06274.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
 
 <script type="text/javascript" crossorigin="anonymous" id="tooltip-js"  >

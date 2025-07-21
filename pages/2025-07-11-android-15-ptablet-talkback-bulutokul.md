@@ -316,28 +316,28 @@ chrome
  </g></svg>
 
 {:/}
- <image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-bulutokul-firefox_-firefox_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ <image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-bulutokul-firefox_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_02048" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-bulutokul-firefox_-firefox_02048.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_02048" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-bulutokul-firefox_02048.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_03892" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-bulutokul-firefox_-firefox_03892.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_03892" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-bulutokul-firefox_03892.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_03909" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-bulutokul-firefox_-firefox_03909.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_03909" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-bulutokul-firefox_03909.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_03925" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-bulutokul-firefox_-firefox_03925.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_03925" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-bulutokul-firefox_03925.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_08319" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-bulutokul-firefox_-firefox_08319.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_08319" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-bulutokul-firefox_08319.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_10896" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-bulutokul-firefox_-firefox_10896.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_10896" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-bulutokul-firefox_10896.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
 
- <image  id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-bulutokul-chrome_-chrome_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ <image  id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-bulutokul-chrome_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_01954" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-bulutokul-chrome_-chrome_01954.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_01954" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-bulutokul-chrome_01954.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_04016" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-bulutokul-chrome_-chrome_04016.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_04016" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-bulutokul-chrome_04016.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_04053" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-bulutokul-chrome_-chrome_04053.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_04053" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-bulutokul-chrome_04053.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
 
 <script type="text/javascript" crossorigin="anonymous" id="tooltip-js"  >

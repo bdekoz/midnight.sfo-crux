@@ -448,28 +448,28 @@ chrome
  </g></svg>
 
 {:/}
- <image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-p8-bameethainoodle-firefox_-firefox_00000.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ <image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-p8-bameethainoodle-firefox_00000.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_00157" href="../filmstrip/2025-07-11-android-15-p8-bameethainoodle-firefox_-firefox_00157.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_00157" href="../filmstrip/2025-07-11-android-15-p8-bameethainoodle-firefox_00157.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_00172" href="../filmstrip/2025-07-11-android-15-p8-bameethainoodle-firefox_-firefox_00172.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_00172" href="../filmstrip/2025-07-11-android-15-p8-bameethainoodle-firefox_00172.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_01953" href="../filmstrip/2025-07-11-android-15-p8-bameethainoodle-firefox_-firefox_01953.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_01953" href="../filmstrip/2025-07-11-android-15-p8-bameethainoodle-firefox_01953.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_02968" href="../filmstrip/2025-07-11-android-15-p8-bameethainoodle-firefox_-firefox_02968.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_02968" href="../filmstrip/2025-07-11-android-15-p8-bameethainoodle-firefox_02968.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_03200" href="../filmstrip/2025-07-11-android-15-p8-bameethainoodle-firefox_-firefox_03200.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_03200" href="../filmstrip/2025-07-11-android-15-p8-bameethainoodle-firefox_03200.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_03448" href="../filmstrip/2025-07-11-android-15-p8-bameethainoodle-firefox_-firefox_03448.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_03448" href="../filmstrip/2025-07-11-android-15-p8-bameethainoodle-firefox_03448.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_03465" href="../filmstrip/2025-07-11-android-15-p8-bameethainoodle-firefox_-firefox_03465.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_03465" href="../filmstrip/2025-07-11-android-15-p8-bameethainoodle-firefox_03465.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_03601" href="../filmstrip/2025-07-11-android-15-p8-bameethainoodle-firefox_-firefox_03601.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_03601" href="../filmstrip/2025-07-11-android-15-p8-bameethainoodle-firefox_03601.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_04096" href="../filmstrip/2025-07-11-android-15-p8-bameethainoodle-firefox_-firefox_04096.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_04096" href="../filmstrip/2025-07-11-android-15-p8-bameethainoodle-firefox_04096.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
 
- <image  id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-p8-bameethainoodle-chrome_-chrome_00000.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ <image  id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-p8-bameethainoodle-chrome_00000.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
 
 <script type="text/javascript" crossorigin="anonymous" id="tooltip-js"  >

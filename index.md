@@ -21,8 +21,6 @@
 - [2025-06-26 tablet talkback](/2025-06-26-ptablet-talkback.md)
 - [2025-06-30 phone](/2025-06-30-p8.md)
 - [2025-06-30 tablet](/2025-06-30-ptablet.md)
-#- [2025-07-02 tablet](/2025-07-02-android-15-ptablet.md)
-#- [2025-07-03 tablet talkback](/2025-07-03-android-15-ptablet-talkback.md)
 - [2025-07-11 multi](/2025-07-11-multi-test-index.md)
 
 

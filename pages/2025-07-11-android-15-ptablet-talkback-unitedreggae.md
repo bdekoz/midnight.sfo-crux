@@ -419,62 +419,62 @@ chrome
  </g></svg>
 
 {:/}
- <image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-unitedreggae-firefox_-firefox_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ <image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-unitedreggae-firefox_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_02013" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-unitedreggae-firefox_-firefox_02013.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_02013" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-unitedreggae-firefox_02013.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_03177" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-unitedreggae-firefox_-firefox_03177.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_03177" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-unitedreggae-firefox_03177.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_03210" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-unitedreggae-firefox_-firefox_03210.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_03210" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-unitedreggae-firefox_03210.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_03460" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-unitedreggae-firefox_-firefox_03460.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_03460" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-unitedreggae-firefox_03460.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_03759" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-unitedreggae-firefox_-firefox_03759.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_03759" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-unitedreggae-firefox_03759.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_03943" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-unitedreggae-firefox_-firefox_03943.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_03943" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-unitedreggae-firefox_03943.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_04093" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-unitedreggae-firefox_-firefox_04093.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_04093" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-unitedreggae-firefox_04093.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_04144" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-unitedreggae-firefox_-firefox_04144.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_04144" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-unitedreggae-firefox_04144.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_04160" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-unitedreggae-firefox_-firefox_04160.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_04160" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-unitedreggae-firefox_04160.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_04192" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-unitedreggae-firefox_-firefox_04192.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_04192" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-unitedreggae-firefox_04192.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_04210" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-unitedreggae-firefox_-firefox_04210.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_04210" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-unitedreggae-firefox_04210.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_04541" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-unitedreggae-firefox_-firefox_04541.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_04541" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-unitedreggae-firefox_04541.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_04559" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-unitedreggae-firefox_-firefox_04559.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_04559" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-unitedreggae-firefox_04559.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_13194" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-unitedreggae-firefox_-firefox_13194.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_13194" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-unitedreggae-firefox_13194.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
 
- <image  id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-unitedreggae-chrome_-chrome_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ <image  id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-unitedreggae-chrome_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_01975" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-unitedreggae-chrome_-chrome_01975.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_01975" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-unitedreggae-chrome_01975.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_02990" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-unitedreggae-chrome_-chrome_02990.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_02990" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-unitedreggae-chrome_02990.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_03122" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-unitedreggae-chrome_-chrome_03122.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_03122" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-unitedreggae-chrome_03122.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_03190" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-unitedreggae-chrome_-chrome_03190.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_03190" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-unitedreggae-chrome_03190.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_03355" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-unitedreggae-chrome_-chrome_03355.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_03355" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-unitedreggae-chrome_03355.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_03473" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-unitedreggae-chrome_-chrome_03473.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_03473" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-unitedreggae-chrome_03473.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_03539" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-unitedreggae-chrome_-chrome_03539.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_03539" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-unitedreggae-chrome_03539.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_03721" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-unitedreggae-chrome_-chrome_03721.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_03721" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-unitedreggae-chrome_03721.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_03788" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-unitedreggae-chrome_-chrome_03788.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_03788" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-unitedreggae-chrome_03788.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_03888" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-unitedreggae-chrome_-chrome_03888.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_03888" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-unitedreggae-chrome_03888.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_03939" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-unitedreggae-chrome_-chrome_03939.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_03939" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-unitedreggae-chrome_03939.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_04054" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-unitedreggae-chrome_-chrome_04054.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_04054" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-unitedreggae-chrome_04054.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
 
 <script type="text/javascript" crossorigin="anonymous" id="tooltip-js"  >

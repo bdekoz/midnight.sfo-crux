@@ -299,26 +299,26 @@ chrome
  </g></svg>
 
 {:/}
- <image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-p8-bulutokul-firefox_-firefox_00000.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ <image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-p8-bulutokul-firefox_00000.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_00627" href="../filmstrip/2025-07-11-android-15-p8-bulutokul-firefox_-firefox_00627.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_00627" href="../filmstrip/2025-07-11-android-15-p8-bulutokul-firefox_00627.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_00641" href="../filmstrip/2025-07-11-android-15-p8-bulutokul-firefox_-firefox_00641.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_00641" href="../filmstrip/2025-07-11-android-15-p8-bulutokul-firefox_00641.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_05714" href="../filmstrip/2025-07-11-android-15-p8-bulutokul-firefox_-firefox_05714.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_05714" href="../filmstrip/2025-07-11-android-15-p8-bulutokul-firefox_05714.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_06230" href="../filmstrip/2025-07-11-android-15-p8-bulutokul-firefox_-firefox_06230.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_06230" href="../filmstrip/2025-07-11-android-15-p8-bulutokul-firefox_06230.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_06248" href="../filmstrip/2025-07-11-android-15-p8-bulutokul-firefox_-firefox_06248.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_06248" href="../filmstrip/2025-07-11-android-15-p8-bulutokul-firefox_06248.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
 
- <image  id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-p8-bulutokul-chrome_-chrome_00000.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ <image  id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-p8-bulutokul-chrome_00000.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_01817" href="../filmstrip/2025-07-11-android-15-p8-bulutokul-chrome_-chrome_01817.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_01817" href="../filmstrip/2025-07-11-android-15-p8-bulutokul-chrome_01817.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_02115" href="../filmstrip/2025-07-11-android-15-p8-bulutokul-chrome_-chrome_02115.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_02115" href="../filmstrip/2025-07-11-android-15-p8-bulutokul-chrome_02115.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_02365" href="../filmstrip/2025-07-11-android-15-p8-bulutokul-chrome_-chrome_02365.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_02365" href="../filmstrip/2025-07-11-android-15-p8-bulutokul-chrome_02365.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
 
 <script type="text/javascript" crossorigin="anonymous" id="tooltip-js"  >

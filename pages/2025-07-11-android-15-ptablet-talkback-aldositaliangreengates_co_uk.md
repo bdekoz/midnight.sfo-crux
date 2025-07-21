@@ -485,40 +485,40 @@ chrome
  </g></svg>
 
 {:/}
- <image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-aldositaliangreengates_co_uk-firefox_-firefox_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ <image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-aldositaliangreengates_co_uk-firefox_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_02058" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-aldositaliangreengates_co_uk-firefox_-firefox_02058.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_02058" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-aldositaliangreengates_co_uk-firefox_02058.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_02344" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-aldositaliangreengates_co_uk-firefox_-firefox_02344.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_02344" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-aldositaliangreengates_co_uk-firefox_02344.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_02427" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-aldositaliangreengates_co_uk-firefox_-firefox_02427.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_02427" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-aldositaliangreengates_co_uk-firefox_02427.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_02493" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-aldositaliangreengates_co_uk-firefox_-firefox_02493.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_02493" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-aldositaliangreengates_co_uk-firefox_02493.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_02543" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-aldositaliangreengates_co_uk-firefox_-firefox_02543.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_02543" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-aldositaliangreengates_co_uk-firefox_02543.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_02560" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-aldositaliangreengates_co_uk-firefox_-firefox_02560.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_02560" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-aldositaliangreengates_co_uk-firefox_02560.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_03745" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-aldositaliangreengates_co_uk-firefox_-firefox_03745.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_03745" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-aldositaliangreengates_co_uk-firefox_03745.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_03777" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-aldositaliangreengates_co_uk-firefox_-firefox_03777.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_03777" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-aldositaliangreengates_co_uk-firefox_03777.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_03994" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-aldositaliangreengates_co_uk-firefox_-firefox_03994.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_03994" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-aldositaliangreengates_co_uk-firefox_03994.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
 
- <image  id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-aldositaliangreengates_co_uk-chrome_-chrome_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ <image  id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-aldositaliangreengates_co_uk-chrome_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_01961" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-aldositaliangreengates_co_uk-chrome_-chrome_01961.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_01961" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-aldositaliangreengates_co_uk-chrome_01961.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_02258" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-aldositaliangreengates_co_uk-chrome_-chrome_02258.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_02258" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-aldositaliangreengates_co_uk-chrome_02258.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_02374" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-aldositaliangreengates_co_uk-chrome_-chrome_02374.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_02374" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-aldositaliangreengates_co_uk-chrome_02374.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_03606" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-aldositaliangreengates_co_uk-chrome_-chrome_03606.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_03606" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-aldositaliangreengates_co_uk-chrome_03606.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_03640" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-aldositaliangreengates_co_uk-chrome_-chrome_03640.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_03640" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-aldositaliangreengates_co_uk-chrome_03640.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_03856" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-aldositaliangreengates_co_uk-chrome_-chrome_03856.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_03856" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-aldositaliangreengates_co_uk-chrome_03856.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
 
 <script type="text/javascript" crossorigin="anonymous" id="tooltip-js"  >

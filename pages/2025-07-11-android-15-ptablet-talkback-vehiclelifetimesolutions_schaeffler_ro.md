@@ -459,68 +459,68 @@ chrome
  </g></svg>
 
 {:/}
- <image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vehiclelifetimesolutions_schaeffler_ro-firefox_-firefox_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ <image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vehiclelifetimesolutions_schaeffler_ro-firefox_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_02044" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vehiclelifetimesolutions_schaeffler_ro-firefox_-firefox_02044.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_02044" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vehiclelifetimesolutions_schaeffler_ro-firefox_02044.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_11407" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vehiclelifetimesolutions_schaeffler_ro-firefox_-firefox_11407.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_11407" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vehiclelifetimesolutions_schaeffler_ro-firefox_11407.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_12240" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vehiclelifetimesolutions_schaeffler_ro-firefox_-firefox_12240.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_12240" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vehiclelifetimesolutions_schaeffler_ro-firefox_12240.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_12343" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vehiclelifetimesolutions_schaeffler_ro-firefox_-firefox_12343.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_12343" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vehiclelifetimesolutions_schaeffler_ro-firefox_12343.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_12374" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vehiclelifetimesolutions_schaeffler_ro-firefox_-firefox_12374.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_12374" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vehiclelifetimesolutions_schaeffler_ro-firefox_12374.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_12390" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vehiclelifetimesolutions_schaeffler_ro-firefox_-firefox_12390.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_12390" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vehiclelifetimesolutions_schaeffler_ro-firefox_12390.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_12423" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vehiclelifetimesolutions_schaeffler_ro-firefox_-firefox_12423.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_12423" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vehiclelifetimesolutions_schaeffler_ro-firefox_12423.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_12440" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vehiclelifetimesolutions_schaeffler_ro-firefox_-firefox_12440.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_12440" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vehiclelifetimesolutions_schaeffler_ro-firefox_12440.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_12456" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vehiclelifetimesolutions_schaeffler_ro-firefox_-firefox_12456.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_12456" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vehiclelifetimesolutions_schaeffler_ro-firefox_12456.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_12472" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vehiclelifetimesolutions_schaeffler_ro-firefox_-firefox_12472.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_12472" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vehiclelifetimesolutions_schaeffler_ro-firefox_12472.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_12490" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vehiclelifetimesolutions_schaeffler_ro-firefox_-firefox_12490.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_12490" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vehiclelifetimesolutions_schaeffler_ro-firefox_12490.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_12507" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vehiclelifetimesolutions_schaeffler_ro-firefox_-firefox_12507.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_12507" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vehiclelifetimesolutions_schaeffler_ro-firefox_12507.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_14155" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vehiclelifetimesolutions_schaeffler_ro-firefox_-firefox_14155.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_14155" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vehiclelifetimesolutions_schaeffler_ro-firefox_14155.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_14970" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vehiclelifetimesolutions_schaeffler_ro-firefox_-firefox_14970.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_14970" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vehiclelifetimesolutions_schaeffler_ro-firefox_14970.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_15185" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vehiclelifetimesolutions_schaeffler_ro-firefox_-firefox_15185.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_15185" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vehiclelifetimesolutions_schaeffler_ro-firefox_15185.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
 
- <image  id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vehiclelifetimesolutions_schaeffler_ro-chrome_-chrome_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ <image  id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vehiclelifetimesolutions_schaeffler_ro-chrome_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_01972" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vehiclelifetimesolutions_schaeffler_ro-chrome_-chrome_01972.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_01972" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vehiclelifetimesolutions_schaeffler_ro-chrome_01972.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_12386" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vehiclelifetimesolutions_schaeffler_ro-chrome_-chrome_12386.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_12386" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vehiclelifetimesolutions_schaeffler_ro-chrome_12386.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_13099" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vehiclelifetimesolutions_schaeffler_ro-chrome_-chrome_13099.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_13099" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vehiclelifetimesolutions_schaeffler_ro-chrome_13099.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_13234" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vehiclelifetimesolutions_schaeffler_ro-chrome_-chrome_13234.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_13234" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vehiclelifetimesolutions_schaeffler_ro-chrome_13234.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_13318" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vehiclelifetimesolutions_schaeffler_ro-chrome_-chrome_13318.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_13318" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vehiclelifetimesolutions_schaeffler_ro-chrome_13318.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_13350" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vehiclelifetimesolutions_schaeffler_ro-chrome_-chrome_13350.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_13350" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vehiclelifetimesolutions_schaeffler_ro-chrome_13350.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_13368" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vehiclelifetimesolutions_schaeffler_ro-chrome_-chrome_13368.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_13368" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vehiclelifetimesolutions_schaeffler_ro-chrome_13368.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_13384" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vehiclelifetimesolutions_schaeffler_ro-chrome_-chrome_13384.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_13384" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vehiclelifetimesolutions_schaeffler_ro-chrome_13384.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_13400" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vehiclelifetimesolutions_schaeffler_ro-chrome_-chrome_13400.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_13400" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vehiclelifetimesolutions_schaeffler_ro-chrome_13400.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_13417" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vehiclelifetimesolutions_schaeffler_ro-chrome_-chrome_13417.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_13417" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vehiclelifetimesolutions_schaeffler_ro-chrome_13417.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_13433" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vehiclelifetimesolutions_schaeffler_ro-chrome_-chrome_13433.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_13433" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vehiclelifetimesolutions_schaeffler_ro-chrome_13433.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_13451" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vehiclelifetimesolutions_schaeffler_ro-chrome_-chrome_13451.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_13451" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vehiclelifetimesolutions_schaeffler_ro-chrome_13451.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_13468" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vehiclelifetimesolutions_schaeffler_ro-chrome_-chrome_13468.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_13468" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vehiclelifetimesolutions_schaeffler_ro-chrome_13468.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_13484" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vehiclelifetimesolutions_schaeffler_ro-chrome_-chrome_13484.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_13484" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vehiclelifetimesolutions_schaeffler_ro-chrome_13484.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
 
 <script type="text/javascript" crossorigin="anonymous" id="tooltip-js"  >

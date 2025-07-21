@@ -479,38 +479,38 @@ chrome
  </g></svg>
 
 {:/}
- <image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-p8-detfriasverige_se-firefox_-firefox_00000.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ <image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-p8-detfriasverige_se-firefox_00000.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_00234" href="../filmstrip/2025-07-11-android-15-p8-detfriasverige_se-firefox_-firefox_00234.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_00234" href="../filmstrip/2025-07-11-android-15-p8-detfriasverige_se-firefox_00234.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_00250" href="../filmstrip/2025-07-11-android-15-p8-detfriasverige_se-firefox_-firefox_00250.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_00250" href="../filmstrip/2025-07-11-android-15-p8-detfriasverige_se-firefox_00250.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_01955" href="../filmstrip/2025-07-11-android-15-p8-detfriasverige_se-firefox_-firefox_01955.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_01955" href="../filmstrip/2025-07-11-android-15-p8-detfriasverige_se-firefox_01955.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_02914" href="../filmstrip/2025-07-11-android-15-p8-detfriasverige_se-firefox_-firefox_02914.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_02914" href="../filmstrip/2025-07-11-android-15-p8-detfriasverige_se-firefox_02914.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_03213" href="../filmstrip/2025-07-11-android-15-p8-detfriasverige_se-firefox_-firefox_03213.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_03213" href="../filmstrip/2025-07-11-android-15-p8-detfriasverige_se-firefox_03213.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_03547" href="../filmstrip/2025-07-11-android-15-p8-detfriasverige_se-firefox_-firefox_03547.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_03547" href="../filmstrip/2025-07-11-android-15-p8-detfriasverige_se-firefox_03547.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_04363" href="../filmstrip/2025-07-11-android-15-p8-detfriasverige_se-firefox_-firefox_04363.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_04363" href="../filmstrip/2025-07-11-android-15-p8-detfriasverige_se-firefox_04363.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_12741" href="../filmstrip/2025-07-11-android-15-p8-detfriasverige_se-firefox_-firefox_12741.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_12741" href="../filmstrip/2025-07-11-android-15-p8-detfriasverige_se-firefox_12741.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
 
- <image  id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-p8-detfriasverige_se-chrome_-chrome_00000.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ <image  id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-p8-detfriasverige_se-chrome_00000.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_01894" href="../filmstrip/2025-07-11-android-15-p8-detfriasverige_se-chrome_-chrome_01894.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_01894" href="../filmstrip/2025-07-11-android-15-p8-detfriasverige_se-chrome_01894.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_02541" href="../filmstrip/2025-07-11-android-15-p8-detfriasverige_se-chrome_-chrome_02541.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_02541" href="../filmstrip/2025-07-11-android-15-p8-detfriasverige_se-chrome_02541.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_02792" href="../filmstrip/2025-07-11-android-15-p8-detfriasverige_se-chrome_-chrome_02792.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_02792" href="../filmstrip/2025-07-11-android-15-p8-detfriasverige_se-chrome_02792.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_02861" href="../filmstrip/2025-07-11-android-15-p8-detfriasverige_se-chrome_-chrome_02861.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_02861" href="../filmstrip/2025-07-11-android-15-p8-detfriasverige_se-chrome_02861.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_03842" href="../filmstrip/2025-07-11-android-15-p8-detfriasverige_se-chrome_-chrome_03842.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_03842" href="../filmstrip/2025-07-11-android-15-p8-detfriasverige_se-chrome_03842.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_08953" href="../filmstrip/2025-07-11-android-15-p8-detfriasverige_se-chrome_-chrome_08953.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_08953" href="../filmstrip/2025-07-11-android-15-p8-detfriasverige_se-chrome_08953.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
 
 <script type="text/javascript" crossorigin="anonymous" id="tooltip-js"  >

@@ -424,42 +424,42 @@ chrome
  </g></svg>
 
 {:/}
- <image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-firefox_-firefox_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ <image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-firefox_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_01991" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-firefox_-firefox_01991.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_01991" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-firefox_01991.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_03138" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-firefox_-firefox_03138.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_03138" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-firefox_03138.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_03255" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-firefox_-firefox_03255.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_03255" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-firefox_03255.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_03307" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-firefox_-firefox_03307.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_03307" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-firefox_03307.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_03388" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-firefox_-firefox_03388.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_03388" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-firefox_03388.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_03788" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-firefox_-firefox_03788.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_03788" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-firefox_03788.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_04070" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-firefox_-firefox_04070.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_04070" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-firefox_04070.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_05318" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-firefox_-firefox_05318.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_05318" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-firefox_05318.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
 
- <image  id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-chrome_-chrome_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ <image  id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-chrome_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_01958" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-chrome_-chrome_01958.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_01958" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-chrome_01958.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_02673" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-chrome_-chrome_02673.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_02673" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-chrome_02673.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_03155" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-chrome_-chrome_03155.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_03155" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-chrome_03155.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_03239" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-chrome_-chrome_03239.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_03239" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-chrome_03239.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_03588" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-chrome_-chrome_03588.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_03588" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-chrome_03588.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_03756" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-chrome_-chrome_03756.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_03756" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-chrome_03756.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_06436" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-chrome_-chrome_06436.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_06436" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-chrome_06436.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_06487" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-chrome_-chrome_06487.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_06487" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-chrome_06487.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
 
 <script type="text/javascript" crossorigin="anonymous" id="tooltip-js"  >

@@ -397,44 +397,44 @@ chrome
  </g></svg>
 
 {:/}
- <image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-p8-panske_tricka_heureka_sk-firefox_-firefox_00000.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ <image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-p8-panske_tricka_heureka_sk-firefox_00000.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_00224" href="../filmstrip/2025-07-11-android-15-p8-panske_tricka_heureka_sk-firefox_-firefox_00224.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_00224" href="../filmstrip/2025-07-11-android-15-p8-panske_tricka_heureka_sk-firefox_00224.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_00241" href="../filmstrip/2025-07-11-android-15-p8-panske_tricka_heureka_sk-firefox_-firefox_00241.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_00241" href="../filmstrip/2025-07-11-android-15-p8-panske_tricka_heureka_sk-firefox_00241.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_01946" href="../filmstrip/2025-07-11-android-15-p8-panske_tricka_heureka_sk-firefox_-firefox_01946.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_01946" href="../filmstrip/2025-07-11-android-15-p8-panske_tricka_heureka_sk-firefox_01946.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_03718" href="../filmstrip/2025-07-11-android-15-p8-panske_tricka_heureka_sk-firefox_-firefox_03718.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_03718" href="../filmstrip/2025-07-11-android-15-p8-panske_tricka_heureka_sk-firefox_03718.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_03868" href="../filmstrip/2025-07-11-android-15-p8-panske_tricka_heureka_sk-firefox_-firefox_03868.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_03868" href="../filmstrip/2025-07-11-android-15-p8-panske_tricka_heureka_sk-firefox_03868.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_06079" href="../filmstrip/2025-07-11-android-15-p8-panske_tricka_heureka_sk-firefox_-firefox_06079.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_06079" href="../filmstrip/2025-07-11-android-15-p8-panske_tricka_heureka_sk-firefox_06079.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_08009" href="../filmstrip/2025-07-11-android-15-p8-panske_tricka_heureka_sk-firefox_-firefox_08009.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_08009" href="../filmstrip/2025-07-11-android-15-p8-panske_tricka_heureka_sk-firefox_08009.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
 
- <image  id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-p8-panske_tricka_heureka_sk-chrome_-chrome_00000.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ <image  id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-p8-panske_tricka_heureka_sk-chrome_00000.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_01841" href="../filmstrip/2025-07-11-android-15-p8-panske_tricka_heureka_sk-chrome_-chrome_01841.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_01841" href="../filmstrip/2025-07-11-android-15-p8-panske_tricka_heureka_sk-chrome_01841.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_03587" href="../filmstrip/2025-07-11-android-15-p8-panske_tricka_heureka_sk-chrome_-chrome_03587.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_03587" href="../filmstrip/2025-07-11-android-15-p8-panske_tricka_heureka_sk-chrome_03587.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_03621" href="../filmstrip/2025-07-11-android-15-p8-panske_tricka_heureka_sk-chrome_-chrome_03621.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_03621" href="../filmstrip/2025-07-11-android-15-p8-panske_tricka_heureka_sk-chrome_03621.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_03641" href="../filmstrip/2025-07-11-android-15-p8-panske_tricka_heureka_sk-chrome_-chrome_03641.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_03641" href="../filmstrip/2025-07-11-android-15-p8-panske_tricka_heureka_sk-chrome_03641.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_03952" href="../filmstrip/2025-07-11-android-15-p8-panske_tricka_heureka_sk-chrome_-chrome_03952.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_03952" href="../filmstrip/2025-07-11-android-15-p8-panske_tricka_heureka_sk-chrome_03952.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_04119" href="../filmstrip/2025-07-11-android-15-p8-panske_tricka_heureka_sk-chrome_-chrome_04119.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_04119" href="../filmstrip/2025-07-11-android-15-p8-panske_tricka_heureka_sk-chrome_04119.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_05137" href="../filmstrip/2025-07-11-android-15-p8-panske_tricka_heureka_sk-chrome_-chrome_05137.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_05137" href="../filmstrip/2025-07-11-android-15-p8-panske_tricka_heureka_sk-chrome_05137.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_06996" href="../filmstrip/2025-07-11-android-15-p8-panske_tricka_heureka_sk-chrome_-chrome_06996.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_06996" href="../filmstrip/2025-07-11-android-15-p8-panske_tricka_heureka_sk-chrome_06996.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_07092" href="../filmstrip/2025-07-11-android-15-p8-panske_tricka_heureka_sk-chrome_-chrome_07092.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_07092" href="../filmstrip/2025-07-11-android-15-p8-panske_tricka_heureka_sk-chrome_07092.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_07108" href="../filmstrip/2025-07-11-android-15-p8-panske_tricka_heureka_sk-chrome_-chrome_07108.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_07108" href="../filmstrip/2025-07-11-android-15-p8-panske_tricka_heureka_sk-chrome_07108.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
 
 <script type="text/javascript" crossorigin="anonymous" id="tooltip-js"  >

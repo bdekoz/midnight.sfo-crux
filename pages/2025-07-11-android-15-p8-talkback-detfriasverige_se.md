@@ -467,34 +467,34 @@ chrome
  </g></svg>
 
 {:/}
- <image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-p8-talkback-detfriasverige_se-firefox_-firefox_00000.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ <image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-p8-talkback-detfriasverige_se-firefox_00000.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_00228" href="../filmstrip/2025-07-11-android-15-p8-talkback-detfriasverige_se-firefox_-firefox_00228.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_00228" href="../filmstrip/2025-07-11-android-15-p8-talkback-detfriasverige_se-firefox_00228.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_00243" href="../filmstrip/2025-07-11-android-15-p8-talkback-detfriasverige_se-firefox_-firefox_00243.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_00243" href="../filmstrip/2025-07-11-android-15-p8-talkback-detfriasverige_se-firefox_00243.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_01981" href="../filmstrip/2025-07-11-android-15-p8-talkback-detfriasverige_se-firefox_-firefox_01981.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_01981" href="../filmstrip/2025-07-11-android-15-p8-talkback-detfriasverige_se-firefox_01981.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_02907" href="../filmstrip/2025-07-11-android-15-p8-talkback-detfriasverige_se-firefox_-firefox_02907.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_02907" href="../filmstrip/2025-07-11-android-15-p8-talkback-detfriasverige_se-firefox_02907.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_03241" href="../filmstrip/2025-07-11-android-15-p8-talkback-detfriasverige_se-firefox_-firefox_03241.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_03241" href="../filmstrip/2025-07-11-android-15-p8-talkback-detfriasverige_se-firefox_03241.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_03660" href="../filmstrip/2025-07-11-android-15-p8-talkback-detfriasverige_se-firefox_-firefox_03660.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_03660" href="../filmstrip/2025-07-11-android-15-p8-talkback-detfriasverige_se-firefox_03660.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_04203" href="../filmstrip/2025-07-11-android-15-p8-talkback-detfriasverige_se-firefox_-firefox_04203.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_04203" href="../filmstrip/2025-07-11-android-15-p8-talkback-detfriasverige_se-firefox_04203.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_04322" href="../filmstrip/2025-07-11-android-15-p8-talkback-detfriasverige_se-firefox_-firefox_04322.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_04322" href="../filmstrip/2025-07-11-android-15-p8-talkback-detfriasverige_se-firefox_04322.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
 
- <image  id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-p8-talkback-detfriasverige_se-chrome_-chrome_00000.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ <image  id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-p8-talkback-detfriasverige_se-chrome_00000.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_01818" href="../filmstrip/2025-07-11-android-15-p8-talkback-detfriasverige_se-chrome_-chrome_01818.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_01818" href="../filmstrip/2025-07-11-android-15-p8-talkback-detfriasverige_se-chrome_01818.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_02117" href="../filmstrip/2025-07-11-android-15-p8-talkback-detfriasverige_se-chrome_-chrome_02117.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_02117" href="../filmstrip/2025-07-11-android-15-p8-talkback-detfriasverige_se-chrome_02117.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_02368" href="../filmstrip/2025-07-11-android-15-p8-talkback-detfriasverige_se-chrome_-chrome_02368.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_02368" href="../filmstrip/2025-07-11-android-15-p8-talkback-detfriasverige_se-chrome_02368.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_02665" href="../filmstrip/2025-07-11-android-15-p8-talkback-detfriasverige_se-chrome_-chrome_02665.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_02665" href="../filmstrip/2025-07-11-android-15-p8-talkback-detfriasverige_se-chrome_02665.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
 
 <script type="text/javascript" crossorigin="anonymous" id="tooltip-js"  >

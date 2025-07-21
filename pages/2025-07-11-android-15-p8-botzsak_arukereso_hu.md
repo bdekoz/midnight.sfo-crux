@@ -394,50 +394,50 @@ chrome
  </g></svg>
 
 {:/}
- <image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-p8-botzsak_arukereso_hu-firefox_-firefox_00000.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ <image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-p8-botzsak_arukereso_hu-firefox_00000.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_00287" href="../filmstrip/2025-07-11-android-15-p8-botzsak_arukereso_hu-firefox_-firefox_00287.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_00287" href="../filmstrip/2025-07-11-android-15-p8-botzsak_arukereso_hu-firefox_00287.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_00303" href="../filmstrip/2025-07-11-android-15-p8-botzsak_arukereso_hu-firefox_-firefox_00303.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_00303" href="../filmstrip/2025-07-11-android-15-p8-botzsak_arukereso_hu-firefox_00303.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_03265" href="../filmstrip/2025-07-11-android-15-p8-botzsak_arukereso_hu-firefox_-firefox_03265.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_03265" href="../filmstrip/2025-07-11-android-15-p8-botzsak_arukereso_hu-firefox_03265.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_03331" href="../filmstrip/2025-07-11-android-15-p8-botzsak_arukereso_hu-firefox_-firefox_03331.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_03331" href="../filmstrip/2025-07-11-android-15-p8-botzsak_arukereso_hu-firefox_03331.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_03536" href="../filmstrip/2025-07-11-android-15-p8-botzsak_arukereso_hu-firefox_-firefox_03536.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_03536" href="../filmstrip/2025-07-11-android-15-p8-botzsak_arukereso_hu-firefox_03536.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_03551" href="../filmstrip/2025-07-11-android-15-p8-botzsak_arukereso_hu-firefox_-firefox_03551.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_03551" href="../filmstrip/2025-07-11-android-15-p8-botzsak_arukereso_hu-firefox_03551.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_05443" href="../filmstrip/2025-07-11-android-15-p8-botzsak_arukereso_hu-firefox_-firefox_05443.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_05443" href="../filmstrip/2025-07-11-android-15-p8-botzsak_arukereso_hu-firefox_05443.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_05460" href="../filmstrip/2025-07-11-android-15-p8-botzsak_arukereso_hu-firefox_-firefox_05460.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_05460" href="../filmstrip/2025-07-11-android-15-p8-botzsak_arukereso_hu-firefox_05460.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_05777" href="../filmstrip/2025-07-11-android-15-p8-botzsak_arukereso_hu-firefox_-firefox_05777.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_05777" href="../filmstrip/2025-07-11-android-15-p8-botzsak_arukereso_hu-firefox_05777.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_06374" href="../filmstrip/2025-07-11-android-15-p8-botzsak_arukereso_hu-firefox_-firefox_06374.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_06374" href="../filmstrip/2025-07-11-android-15-p8-botzsak_arukereso_hu-firefox_06374.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_06839" href="../filmstrip/2025-07-11-android-15-p8-botzsak_arukereso_hu-firefox_-firefox_06839.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_06839" href="../filmstrip/2025-07-11-android-15-p8-botzsak_arukereso_hu-firefox_06839.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_06924" href="../filmstrip/2025-07-11-android-15-p8-botzsak_arukereso_hu-firefox_-firefox_06924.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_06924" href="../filmstrip/2025-07-11-android-15-p8-botzsak_arukereso_hu-firefox_06924.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_08024" href="../filmstrip/2025-07-11-android-15-p8-botzsak_arukereso_hu-firefox_-firefox_08024.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_08024" href="../filmstrip/2025-07-11-android-15-p8-botzsak_arukereso_hu-firefox_08024.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_08036" href="../filmstrip/2025-07-11-android-15-p8-botzsak_arukereso_hu-firefox_-firefox_08036.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_08036" href="../filmstrip/2025-07-11-android-15-p8-botzsak_arukereso_hu-firefox_08036.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
 
- <image  id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-p8-botzsak_arukereso_hu-chrome_-chrome_00000.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ <image  id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-p8-botzsak_arukereso_hu-chrome_00000.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_01889" href="../filmstrip/2025-07-11-android-15-p8-botzsak_arukereso_hu-chrome_-chrome_01889.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_01889" href="../filmstrip/2025-07-11-android-15-p8-botzsak_arukereso_hu-chrome_01889.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_03333" href="../filmstrip/2025-07-11-android-15-p8-botzsak_arukereso_hu-chrome_-chrome_03333.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_03333" href="../filmstrip/2025-07-11-android-15-p8-botzsak_arukereso_hu-chrome_03333.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_03534" href="../filmstrip/2025-07-11-android-15-p8-botzsak_arukereso_hu-chrome_-chrome_03534.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_03534" href="../filmstrip/2025-07-11-android-15-p8-botzsak_arukereso_hu-chrome_03534.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_03584" href="../filmstrip/2025-07-11-android-15-p8-botzsak_arukereso_hu-chrome_-chrome_03584.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_03584" href="../filmstrip/2025-07-11-android-15-p8-botzsak_arukereso_hu-chrome_03584.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_03865" href="../filmstrip/2025-07-11-android-15-p8-botzsak_arukereso_hu-chrome_-chrome_03865.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_03865" href="../filmstrip/2025-07-11-android-15-p8-botzsak_arukereso_hu-chrome_03865.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_08563" href="../filmstrip/2025-07-11-android-15-p8-botzsak_arukereso_hu-chrome_-chrome_08563.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_08563" href="../filmstrip/2025-07-11-android-15-p8-botzsak_arukereso_hu-chrome_08563.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
 
 <script type="text/javascript" crossorigin="anonymous" id="tooltip-js"  >

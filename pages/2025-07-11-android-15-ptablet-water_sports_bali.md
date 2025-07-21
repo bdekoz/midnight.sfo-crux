@@ -379,38 +379,38 @@ chrome
  </g></svg>
 
 {:/}
- <image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-firefox_-firefox_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ <image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-firefox_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_02016" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-firefox_-firefox_02016.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_02016" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-firefox_02016.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_02791" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-firefox_-firefox_02791.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_02791" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-firefox_02791.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_02805" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-firefox_-firefox_02805.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_02805" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-firefox_02805.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_02904" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-firefox_-firefox_02904.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_02904" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-firefox_02904.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_03722" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-firefox_-firefox_03722.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_03722" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-firefox_03722.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_03738" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-firefox_-firefox_03738.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_03738" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-firefox_03738.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_03772" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-firefox_-firefox_03772.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_03772" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-firefox_03772.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_03788" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-firefox_-firefox_03788.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_03788" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-firefox_03788.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_03823" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-firefox_-firefox_03823.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_03823" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-firefox_03823.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_08349" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-firefox_-firefox_08349.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_08349" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-firefox_08349.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
 
- <image  id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-chrome_-chrome_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ <image  id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-chrome_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_01961" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-chrome_-chrome_01961.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_01961" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-chrome_01961.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_02626" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-chrome_-chrome_02626.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_02626" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-chrome_02626.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_02661" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-chrome_-chrome_02661.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_02661" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-chrome_02661.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_02843" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-chrome_-chrome_02843.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_02843" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-chrome_02843.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
 
 <script type="text/javascript" crossorigin="anonymous" id="tooltip-js"  >

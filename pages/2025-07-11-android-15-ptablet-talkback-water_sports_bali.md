@@ -410,30 +410,30 @@ chrome
  </g></svg>
 
 {:/}
- <image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-water_sports_bali-firefox_-firefox_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ <image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-water_sports_bali-firefox_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_02008" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-water_sports_bali-firefox_-firefox_02008.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_02008" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-water_sports_bali-firefox_02008.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_02639" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-water_sports_bali-firefox_-firefox_02639.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_02639" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-water_sports_bali-firefox_02639.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_02755" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-water_sports_bali-firefox_-firefox_02755.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_02755" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-water_sports_bali-firefox_02755.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_02906" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-water_sports_bali-firefox_-firefox_02906.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_02906" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-water_sports_bali-firefox_02906.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_10909" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-water_sports_bali-firefox_-firefox_10909.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_10909" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-water_sports_bali-firefox_10909.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
 
- <image  id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-water_sports_bali-chrome_-chrome_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ <image  id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-water_sports_bali-chrome_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_01961" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-water_sports_bali-chrome_-chrome_01961.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_01961" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-water_sports_bali-chrome_01961.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_02708" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-water_sports_bali-chrome_-chrome_02708.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_02708" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-water_sports_bali-chrome_02708.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_02742" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-water_sports_bali-chrome_-chrome_02742.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_02742" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-water_sports_bali-chrome_02742.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_02892" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-water_sports_bali-chrome_-chrome_02892.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_02892" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-water_sports_bali-chrome_02892.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_04924" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-water_sports_bali-chrome_-chrome_04924.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_04924" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-water_sports_bali-chrome_04924.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
 
 <script type="text/javascript" crossorigin="anonymous" id="tooltip-js"  >

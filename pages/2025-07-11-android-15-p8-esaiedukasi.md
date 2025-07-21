@@ -628,106 +628,106 @@ chrome
  </g></svg>
 
 {:/}
- <image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_-firefox_00000.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ <image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_00000.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_00406" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_-firefox_00406.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_00406" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_00406.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_00422" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_-firefox_00422.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_00422" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_00422.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_01991" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_-firefox_01991.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_01991" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_01991.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_02703" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_-firefox_02703.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_02703" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_02703.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_02786" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_-firefox_02786.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_02786" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_02786.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_02821" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_-firefox_02821.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_02821" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_02821.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_03136" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_-firefox_03136.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_03136" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_03136.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_03186" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_-firefox_03186.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_03186" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_03186.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_03817" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_-firefox_03817.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_03817" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_03817.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_03933" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_-firefox_03933.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_03933" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_03933.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_04334" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_-firefox_04334.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_04334" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_04334.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_04667" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_-firefox_04667.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_04667" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_04667.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_04684" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_-firefox_04684.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_04684" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_04684.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_04701" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_-firefox_04701.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_04701" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_04701.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_04716" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_-firefox_04716.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_04716" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_04716.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_04749" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_-firefox_04749.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_04749" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_04749.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_04798" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_-firefox_04798.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_04798" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_04798.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_04870" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_-firefox_04870.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_04870" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_04870.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_04950" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_-firefox_04950.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_04950" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_04950.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_05015" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_-firefox_05015.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_05015" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_05015.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_05082" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_-firefox_05082.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_05082" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_05082.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_05131" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_-firefox_05131.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_05131" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_05131.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_05148" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_-firefox_05148.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_05148" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_05148.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_05231" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_-firefox_05231.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_05231" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_05231.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_05481" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_-firefox_05481.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_05481" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_05481.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_05697" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_-firefox_05697.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_05697" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_05697.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_06917" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_-firefox_06917.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_06917" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_06917.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_07777" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_-firefox_07777.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_07777" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_07777.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_08425" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_-firefox_08425.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_08425" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_08425.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_08607" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_-firefox_08607.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_08607" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_08607.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_08640" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_-firefox_08640.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_08640" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_08640.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_08707" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_-firefox_08707.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_08707" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_08707.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_08774" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_-firefox_08774.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_08774" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_08774.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_08840" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_-firefox_08840.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_08840" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_08840.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_08923" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_-firefox_08923.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_08923" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-firefox_08923.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
 
- <image  id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-chrome_-chrome_00000.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ <image  id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-chrome_00000.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_01849" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-chrome_-chrome_01849.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_01849" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-chrome_01849.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_02595" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-chrome_-chrome_02595.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_02595" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-chrome_02595.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_02696" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-chrome_-chrome_02696.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_02696" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-chrome_02696.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_03045" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-chrome_-chrome_03045.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_03045" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-chrome_03045.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_04229" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-chrome_-chrome_04229.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_04229" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-chrome_04229.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_04541" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-chrome_-chrome_04541.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_04541" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-chrome_04541.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_08081" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-chrome_-chrome_08081.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_08081" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-chrome_08081.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_08148" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-chrome_-chrome_08148.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_08148" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-chrome_08148.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_08264" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-chrome_-chrome_08264.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_08264" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-chrome_08264.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_10278" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-chrome_-chrome_10278.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_10278" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-chrome_10278.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_12278" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-chrome_-chrome_12278.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_12278" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-chrome_12278.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_14289" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-chrome_-chrome_14289.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_14289" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-chrome_14289.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_16281" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-chrome_-chrome_16281.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_16281" href="../filmstrip/2025-07-11-android-15-p8-esaiedukasi-chrome_16281.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
 
 <script type="text/javascript" crossorigin="anonymous" id="tooltip-js"  >

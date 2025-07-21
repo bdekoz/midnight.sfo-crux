@@ -493,76 +493,76 @@ chrome
  </g></svg>
 
 {:/}
- <image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-p8-talkback-spertiveicoli_it-firefox_-firefox_00000.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ <image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-p8-talkback-spertiveicoli_it-firefox_00000.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_00308" href="../filmstrip/2025-07-11-android-15-p8-talkback-spertiveicoli_it-firefox_-firefox_00308.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_00308" href="../filmstrip/2025-07-11-android-15-p8-talkback-spertiveicoli_it-firefox_00308.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_00324" href="../filmstrip/2025-07-11-android-15-p8-talkback-spertiveicoli_it-firefox_-firefox_00324.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_00324" href="../filmstrip/2025-07-11-android-15-p8-talkback-spertiveicoli_it-firefox_00324.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_04666" href="../filmstrip/2025-07-11-android-15-p8-talkback-spertiveicoli_it-firefox_-firefox_04666.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_04666" href="../filmstrip/2025-07-11-android-15-p8-talkback-spertiveicoli_it-firefox_04666.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_14363" href="../filmstrip/2025-07-11-android-15-p8-talkback-spertiveicoli_it-firefox_-firefox_14363.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_14363" href="../filmstrip/2025-07-11-android-15-p8-talkback-spertiveicoli_it-firefox_14363.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_14379" href="../filmstrip/2025-07-11-android-15-p8-talkback-spertiveicoli_it-firefox_-firefox_14379.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_14379" href="../filmstrip/2025-07-11-android-15-p8-talkback-spertiveicoli_it-firefox_14379.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
 
- <image  id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-p8-talkback-spertiveicoli_it-chrome_-chrome_00000.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ <image  id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-p8-talkback-spertiveicoli_it-chrome_00000.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_01840" href="../filmstrip/2025-07-11-android-15-p8-talkback-spertiveicoli_it-chrome_-chrome_01840.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_01840" href="../filmstrip/2025-07-11-android-15-p8-talkback-spertiveicoli_it-chrome_01840.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_05014" href="../filmstrip/2025-07-11-android-15-p8-talkback-spertiveicoli_it-chrome_-chrome_05014.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_05014" href="../filmstrip/2025-07-11-android-15-p8-talkback-spertiveicoli_it-chrome_05014.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_06710" href="../filmstrip/2025-07-11-android-15-p8-talkback-spertiveicoli_it-chrome_-chrome_06710.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_06710" href="../filmstrip/2025-07-11-android-15-p8-talkback-spertiveicoli_it-chrome_06710.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_06759" href="../filmstrip/2025-07-11-android-15-p8-talkback-spertiveicoli_it-chrome_-chrome_06759.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_06759" href="../filmstrip/2025-07-11-android-15-p8-talkback-spertiveicoli_it-chrome_06759.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_06810" href="../filmstrip/2025-07-11-android-15-p8-talkback-spertiveicoli_it-chrome_-chrome_06810.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_06810" href="../filmstrip/2025-07-11-android-15-p8-talkback-spertiveicoli_it-chrome_06810.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_06892" href="../filmstrip/2025-07-11-android-15-p8-talkback-spertiveicoli_it-chrome_-chrome_06892.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_06892" href="../filmstrip/2025-07-11-android-15-p8-talkback-spertiveicoli_it-chrome_06892.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_07010" href="../filmstrip/2025-07-11-android-15-p8-talkback-spertiveicoli_it-chrome_-chrome_07010.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_07010" href="../filmstrip/2025-07-11-android-15-p8-talkback-spertiveicoli_it-chrome_07010.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_07125" href="../filmstrip/2025-07-11-android-15-p8-talkback-spertiveicoli_it-chrome_-chrome_07125.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_07125" href="../filmstrip/2025-07-11-android-15-p8-talkback-spertiveicoli_it-chrome_07125.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_07225" href="../filmstrip/2025-07-11-android-15-p8-talkback-spertiveicoli_it-chrome_-chrome_07225.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_07225" href="../filmstrip/2025-07-11-android-15-p8-talkback-spertiveicoli_it-chrome_07225.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_07291" href="../filmstrip/2025-07-11-android-15-p8-talkback-spertiveicoli_it-chrome_-chrome_07291.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_07291" href="../filmstrip/2025-07-11-android-15-p8-talkback-spertiveicoli_it-chrome_07291.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_07375" href="../filmstrip/2025-07-11-android-15-p8-talkback-spertiveicoli_it-chrome_-chrome_07375.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_07375" href="../filmstrip/2025-07-11-android-15-p8-talkback-spertiveicoli_it-chrome_07375.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_07440" href="../filmstrip/2025-07-11-android-15-p8-talkback-spertiveicoli_it-chrome_-chrome_07440.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_07440" href="../filmstrip/2025-07-11-android-15-p8-talkback-spertiveicoli_it-chrome_07440.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_07507" href="../filmstrip/2025-07-11-android-15-p8-talkback-spertiveicoli_it-chrome_-chrome_07507.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_07507" href="../filmstrip/2025-07-11-android-15-p8-talkback-spertiveicoli_it-chrome_07507.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_07608" href="../filmstrip/2025-07-11-android-15-p8-talkback-spertiveicoli_it-chrome_-chrome_07608.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_07608" href="../filmstrip/2025-07-11-android-15-p8-talkback-spertiveicoli_it-chrome_07608.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_07707" href="../filmstrip/2025-07-11-android-15-p8-talkback-spertiveicoli_it-chrome_-chrome_07707.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_07707" href="../filmstrip/2025-07-11-android-15-p8-talkback-spertiveicoli_it-chrome_07707.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_07856" href="../filmstrip/2025-07-11-android-15-p8-talkback-spertiveicoli_it-chrome_-chrome_07856.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_07856" href="../filmstrip/2025-07-11-android-15-p8-talkback-spertiveicoli_it-chrome_07856.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_08006" href="../filmstrip/2025-07-11-android-15-p8-talkback-spertiveicoli_it-chrome_-chrome_08006.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_08006" href="../filmstrip/2025-07-11-android-15-p8-talkback-spertiveicoli_it-chrome_08006.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_08123" href="../filmstrip/2025-07-11-android-15-p8-talkback-spertiveicoli_it-chrome_-chrome_08123.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_08123" href="../filmstrip/2025-07-11-android-15-p8-talkback-spertiveicoli_it-chrome_08123.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_08222" href="../filmstrip/2025-07-11-android-15-p8-talkback-spertiveicoli_it-chrome_-chrome_08222.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_08222" href="../filmstrip/2025-07-11-android-15-p8-talkback-spertiveicoli_it-chrome_08222.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_08323" href="../filmstrip/2025-07-11-android-15-p8-talkback-spertiveicoli_it-chrome_-chrome_08323.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_08323" href="../filmstrip/2025-07-11-android-15-p8-talkback-spertiveicoli_it-chrome_08323.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_08422" href="../filmstrip/2025-07-11-android-15-p8-talkback-spertiveicoli_it-chrome_-chrome_08422.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_08422" href="../filmstrip/2025-07-11-android-15-p8-talkback-spertiveicoli_it-chrome_08422.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_08522" href="../filmstrip/2025-07-11-android-15-p8-talkback-spertiveicoli_it-chrome_-chrome_08522.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_08522" href="../filmstrip/2025-07-11-android-15-p8-talkback-spertiveicoli_it-chrome_08522.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_08589" href="../filmstrip/2025-07-11-android-15-p8-talkback-spertiveicoli_it-chrome_-chrome_08589.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_08589" href="../filmstrip/2025-07-11-android-15-p8-talkback-spertiveicoli_it-chrome_08589.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_08622" href="../filmstrip/2025-07-11-android-15-p8-talkback-spertiveicoli_it-chrome_-chrome_08622.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_08622" href="../filmstrip/2025-07-11-android-15-p8-talkback-spertiveicoli_it-chrome_08622.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_08639" href="../filmstrip/2025-07-11-android-15-p8-talkback-spertiveicoli_it-chrome_-chrome_08639.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_08639" href="../filmstrip/2025-07-11-android-15-p8-talkback-spertiveicoli_it-chrome_08639.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_08674" href="../filmstrip/2025-07-11-android-15-p8-talkback-spertiveicoli_it-chrome_-chrome_08674.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_08674" href="../filmstrip/2025-07-11-android-15-p8-talkback-spertiveicoli_it-chrome_08674.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_08691" href="../filmstrip/2025-07-11-android-15-p8-talkback-spertiveicoli_it-chrome_-chrome_08691.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_08691" href="../filmstrip/2025-07-11-android-15-p8-talkback-spertiveicoli_it-chrome_08691.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_16822" href="../filmstrip/2025-07-11-android-15-p8-talkback-spertiveicoli_it-chrome_-chrome_16822.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_16822" href="../filmstrip/2025-07-11-android-15-p8-talkback-spertiveicoli_it-chrome_16822.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
 
 <script type="text/javascript" crossorigin="anonymous" id="tooltip-js"  >

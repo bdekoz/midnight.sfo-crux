@@ -503,46 +503,46 @@ chrome
  </g></svg>
 
 {:/}
- <image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-p8-talkback-lapencaazul-firefox_-firefox_00000.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ <image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-p8-talkback-lapencaazul-firefox_00000.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_00376" href="../filmstrip/2025-07-11-android-15-p8-talkback-lapencaazul-firefox_-firefox_00376.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_00376" href="../filmstrip/2025-07-11-android-15-p8-talkback-lapencaazul-firefox_00376.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_00392" href="../filmstrip/2025-07-11-android-15-p8-talkback-lapencaazul-firefox_-firefox_00392.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_00392" href="../filmstrip/2025-07-11-android-15-p8-talkback-lapencaazul-firefox_00392.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_02007" href="../filmstrip/2025-07-11-android-15-p8-talkback-lapencaazul-firefox_-firefox_02007.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_02007" href="../filmstrip/2025-07-11-android-15-p8-talkback-lapencaazul-firefox_02007.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_02904" href="../filmstrip/2025-07-11-android-15-p8-talkback-lapencaazul-firefox_-firefox_02904.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_02904" href="../filmstrip/2025-07-11-android-15-p8-talkback-lapencaazul-firefox_02904.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_03321" href="../filmstrip/2025-07-11-android-15-p8-talkback-lapencaazul-firefox_-firefox_03321.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_03321" href="../filmstrip/2025-07-11-android-15-p8-talkback-lapencaazul-firefox_03321.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_03586" href="../filmstrip/2025-07-11-android-15-p8-talkback-lapencaazul-firefox_-firefox_03586.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_03586" href="../filmstrip/2025-07-11-android-15-p8-talkback-lapencaazul-firefox_03586.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_03620" href="../filmstrip/2025-07-11-android-15-p8-talkback-lapencaazul-firefox_-firefox_03620.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_03620" href="../filmstrip/2025-07-11-android-15-p8-talkback-lapencaazul-firefox_03620.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_03686" href="../filmstrip/2025-07-11-android-15-p8-talkback-lapencaazul-firefox_-firefox_03686.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_03686" href="../filmstrip/2025-07-11-android-15-p8-talkback-lapencaazul-firefox_03686.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_03718" href="../filmstrip/2025-07-11-android-15-p8-talkback-lapencaazul-firefox_-firefox_03718.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_03718" href="../filmstrip/2025-07-11-android-15-p8-talkback-lapencaazul-firefox_03718.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_03734" href="../filmstrip/2025-07-11-android-15-p8-talkback-lapencaazul-firefox_-firefox_03734.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_03734" href="../filmstrip/2025-07-11-android-15-p8-talkback-lapencaazul-firefox_03734.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_04217" href="../filmstrip/2025-07-11-android-15-p8-talkback-lapencaazul-firefox_-firefox_04217.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_04217" href="../filmstrip/2025-07-11-android-15-p8-talkback-lapencaazul-firefox_04217.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_04234" href="../filmstrip/2025-07-11-android-15-p8-talkback-lapencaazul-firefox_-firefox_04234.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_04234" href="../filmstrip/2025-07-11-android-15-p8-talkback-lapencaazul-firefox_04234.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
 
- <image  id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-p8-talkback-lapencaazul-chrome_-chrome_00000.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ <image  id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-p8-talkback-lapencaazul-chrome_00000.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_01908" href="../filmstrip/2025-07-11-android-15-p8-talkback-lapencaazul-chrome_-chrome_01908.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_01908" href="../filmstrip/2025-07-11-android-15-p8-talkback-lapencaazul-chrome_01908.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_02705" href="../filmstrip/2025-07-11-android-15-p8-talkback-lapencaazul-chrome_-chrome_02705.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_02705" href="../filmstrip/2025-07-11-android-15-p8-talkback-lapencaazul-chrome_02705.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_02868" href="../filmstrip/2025-07-11-android-15-p8-talkback-lapencaazul-chrome_-chrome_02868.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_02868" href="../filmstrip/2025-07-11-android-15-p8-talkback-lapencaazul-chrome_02868.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_03370" href="../filmstrip/2025-07-11-android-15-p8-talkback-lapencaazul-chrome_-chrome_03370.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_03370" href="../filmstrip/2025-07-11-android-15-p8-talkback-lapencaazul-chrome_03370.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_03552" href="../filmstrip/2025-07-11-android-15-p8-talkback-lapencaazul-chrome_-chrome_03552.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_03552" href="../filmstrip/2025-07-11-android-15-p8-talkback-lapencaazul-chrome_03552.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_03668" href="../filmstrip/2025-07-11-android-15-p8-talkback-lapencaazul-chrome_-chrome_03668.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_03668" href="../filmstrip/2025-07-11-android-15-p8-talkback-lapencaazul-chrome_03668.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
 
 <script type="text/javascript" crossorigin="anonymous" id="tooltip-js"  >

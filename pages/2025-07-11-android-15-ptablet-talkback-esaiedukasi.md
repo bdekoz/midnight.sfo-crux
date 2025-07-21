@@ -590,108 +590,108 @@ chrome
  </g></svg>
 
 {:/}
- <image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-firefox_-firefox_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ <image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-firefox_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_02078" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-firefox_-firefox_02078.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_02078" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-firefox_02078.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_02491" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-firefox_-firefox_02491.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_02491" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-firefox_02491.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_02508" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-firefox_-firefox_02508.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_02508" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-firefox_02508.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_02558" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-firefox_-firefox_02558.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_02558" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-firefox_02558.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_02691" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-firefox_-firefox_02691.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_02691" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-firefox_02691.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_02724" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-firefox_-firefox_02724.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_02724" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-firefox_02724.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_03373" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-firefox_-firefox_03373.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_03373" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-firefox_03373.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_03406" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-firefox_-firefox_03406.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_03406" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-firefox_03406.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_03655" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-firefox_-firefox_03655.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_03655" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-firefox_03655.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_03789" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-firefox_-firefox_03789.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_03789" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-firefox_03789.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_03871" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-firefox_-firefox_03871.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_03871" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-firefox_03871.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_04820" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-firefox_-firefox_04820.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_04820" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-firefox_04820.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_04853" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-firefox_-firefox_04853.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_04853" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-firefox_04853.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_04903" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-firefox_-firefox_04903.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_04903" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-firefox_04903.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_04920" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-firefox_-firefox_04920.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_04920" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-firefox_04920.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_05836" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-firefox_-firefox_05836.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_05836" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-firefox_05836.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_06018" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-firefox_-firefox_06018.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_06018" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-firefox_06018.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_06618" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-firefox_-firefox_06618.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="firefox_scrn_06618" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-firefox_06618.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
 
- <image  id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-chrome_-chrome_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ <image  id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-chrome_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_01942" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-chrome_-chrome_01942.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_01942" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-chrome_01942.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_02408" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-chrome_-chrome_02408.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_02408" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-chrome_02408.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_02459" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-chrome_-chrome_02459.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_02459" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-chrome_02459.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_02493" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-chrome_-chrome_02493.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_02493" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-chrome_02493.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_02508" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-chrome_-chrome_02508.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_02508" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-chrome_02508.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_02524" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-chrome_-chrome_02524.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_02524" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-chrome_02524.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_02858" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-chrome_-chrome_02858.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_02858" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-chrome_02858.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_03141" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-chrome_-chrome_03141.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_03141" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-chrome_03141.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_03391" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-chrome_-chrome_03391.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_03391" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-chrome_03391.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_03439" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-chrome_-chrome_03439.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_03439" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-chrome_03439.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_03505" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-chrome_-chrome_03505.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_03505" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-chrome_03505.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_03572" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-chrome_-chrome_03572.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_03572" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-chrome_03572.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_03605" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-chrome_-chrome_03605.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_03605" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-chrome_03605.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_03772" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-chrome_-chrome_03772.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_03772" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-chrome_03772.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_03905" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-chrome_-chrome_03905.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_03905" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-chrome_03905.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_04021" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-chrome_-chrome_04021.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_04021" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-chrome_04021.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_04037" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-chrome_-chrome_04037.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_04037" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-chrome_04037.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_04055" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-chrome_-chrome_04055.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_04055" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-chrome_04055.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_04072" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-chrome_-chrome_04072.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_04072" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-chrome_04072.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_06017" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-chrome_-chrome_06017.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_06017" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-chrome_06017.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_06034" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-chrome_-chrome_06034.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_06034" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-chrome_06034.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_06050" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-chrome_-chrome_06050.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_06050" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-chrome_06050.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_06068" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-chrome_-chrome_06068.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_06068" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-chrome_06068.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_06100" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-chrome_-chrome_06100.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_06100" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-chrome_06100.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_06134" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-chrome_-chrome_06134.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_06134" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-chrome_06134.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_06150" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-chrome_-chrome_06150.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_06150" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-chrome_06150.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_06167" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-chrome_-chrome_06167.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_06167" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-chrome_06167.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_13207" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-chrome_-chrome_13207.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_13207" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-chrome_13207.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_13509" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-chrome_-chrome_13509.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_13509" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-chrome_13509.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_13525" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-chrome_-chrome_13525.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_13525" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-chrome_13525.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_13656" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-chrome_-chrome_13656.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<image  id="chrome_scrn_13656" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-esaiedukasi-chrome_13656.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
 
 <script type="text/javascript" crossorigin="anonymous" id="tooltip-js"  >

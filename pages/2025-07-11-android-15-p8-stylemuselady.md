@@ -316,28 +316,28 @@ chrome
  </g></svg>
 
 {:/}
- <image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-p8-stylemuselady-firefox_-firefox_00000.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ <image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-p8-stylemuselady-firefox_00000.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_00401" href="../filmstrip/2025-07-11-android-15-p8-stylemuselady-firefox_-firefox_00401.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_00401" href="../filmstrip/2025-07-11-android-15-p8-stylemuselady-firefox_00401.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_00417" href="../filmstrip/2025-07-11-android-15-p8-stylemuselady-firefox_-firefox_00417.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_00417" href="../filmstrip/2025-07-11-android-15-p8-stylemuselady-firefox_00417.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_03280" href="../filmstrip/2025-07-11-android-15-p8-stylemuselady-firefox_-firefox_03280.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_03280" href="../filmstrip/2025-07-11-android-15-p8-stylemuselady-firefox_03280.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_03413" href="../filmstrip/2025-07-11-android-15-p8-stylemuselady-firefox_-firefox_03413.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_03413" href="../filmstrip/2025-07-11-android-15-p8-stylemuselady-firefox_03413.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_03531" href="../filmstrip/2025-07-11-android-15-p8-stylemuselady-firefox_-firefox_03531.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_03531" href="../filmstrip/2025-07-11-android-15-p8-stylemuselady-firefox_03531.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_11194" href="../filmstrip/2025-07-11-android-15-p8-stylemuselady-firefox_-firefox_11194.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_11194" href="../filmstrip/2025-07-11-android-15-p8-stylemuselady-firefox_11194.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
 
- <image  id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-p8-stylemuselady-chrome_-chrome_00000.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ <image  id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-p8-stylemuselady-chrome_00000.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_01862" href="../filmstrip/2025-07-11-android-15-p8-stylemuselady-chrome_-chrome_01862.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_01862" href="../filmstrip/2025-07-11-android-15-p8-stylemuselady-chrome_01862.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_03386" href="../filmstrip/2025-07-11-android-15-p8-stylemuselady-chrome_-chrome_03386.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_03386" href="../filmstrip/2025-07-11-android-15-p8-stylemuselady-chrome_03386.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_03518" href="../filmstrip/2025-07-11-android-15-p8-stylemuselady-chrome_-chrome_03518.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_03518" href="../filmstrip/2025-07-11-android-15-p8-stylemuselady-chrome_03518.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
 
 <script type="text/javascript" crossorigin="anonymous" id="tooltip-js"  >

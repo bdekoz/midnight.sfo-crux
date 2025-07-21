@@ -747,164 +747,164 @@ chrome
  </g></svg>
 
 {:/}
- <image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_-firefox_00000.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ <image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_00000.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_00131" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_-firefox_00131.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_00131" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_00131.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_00146" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_-firefox_00146.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_00146" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_00146.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_03357" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_-firefox_03357.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_03357" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_03357.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_05689" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_-firefox_05689.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_05689" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_05689.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_05705" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_-firefox_05705.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_05705" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_05705.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_05769" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_-firefox_05769.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_05769" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_05769.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_05935" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_-firefox_05935.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_05935" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_05935.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_06034" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_-firefox_06034.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_06034" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_06034.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_06118" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_-firefox_06118.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_06118" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_06118.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_06184" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_-firefox_06184.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_06184" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_06184.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_06217" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_-firefox_06217.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_06217" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_06217.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_06235" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_-firefox_06235.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_06235" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_06235.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_06250" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_-firefox_06250.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_06250" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_06250.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_06267" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_-firefox_06267.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_06267" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_06267.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_06284" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_-firefox_06284.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_06284" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_06284.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_06303" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_-firefox_06303.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_06303" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_06303.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_06317" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_-firefox_06317.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_06317" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_06317.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_06350" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_-firefox_06350.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_06350" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_06350.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_07883" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_-firefox_07883.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_07883" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_07883.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_07949" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_-firefox_07949.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_07949" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_07949.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_08031" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_-firefox_08031.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_08031" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_08031.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_08482" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_-firefox_08482.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_08482" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_08482.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_08662" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_-firefox_08662.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_08662" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_08662.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_08795" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_-firefox_08795.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_08795" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_08795.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_08863" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_-firefox_08863.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_08863" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_08863.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_08880" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_-firefox_08880.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_08880" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_08880.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_08896" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_-firefox_08896.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_08896" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_08896.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_08912" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_-firefox_08912.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_08912" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_08912.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_08929" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_-firefox_08929.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_08929" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_08929.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_10025" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_-firefox_10025.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_10025" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_10025.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_10556" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_-firefox_10556.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_10556" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_10556.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_10642" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_-firefox_10642.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_10642" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_10642.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_10691" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_-firefox_10691.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_10691" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_10691.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_11905" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_-firefox_11905.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_11905" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_11905.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_11922" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_-firefox_11922.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_11922" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_11922.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_11972" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_-firefox_11972.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_11972" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_11972.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_12137" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_-firefox_12137.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="firefox_scrn_12137" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_12137.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
 
- <image  id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_-chrome_00000.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ <image  id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_00000.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_01873" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_-chrome_01873.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_01873" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_01873.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_03551" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_-chrome_03551.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_03551" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_03551.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_05963" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_-chrome_05963.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_05963" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_05963.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_05997" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_-chrome_05997.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_05997" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_05997.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_06062" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_-chrome_06062.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_06062" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_06062.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_06178" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_-chrome_06178.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_06178" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_06178.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_06328" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_-chrome_06328.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_06328" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_06328.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_06395" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_-chrome_06395.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_06395" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_06395.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_06427" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_-chrome_06427.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_06427" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_06427.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_06444" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_-chrome_06444.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_06444" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_06444.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_06461" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_-chrome_06461.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_06461" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_06461.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_06479" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_-chrome_06479.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_06479" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_06479.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_06495" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_-chrome_06495.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_06495" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_06495.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_06511" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_-chrome_06511.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_06511" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_06511.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_06528" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_-chrome_06528.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_06528" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_06528.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_06545" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_-chrome_06545.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_06545" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_06545.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_06594" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_-chrome_06594.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_06594" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_06594.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_06793" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_-chrome_06793.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_06793" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_06793.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_06811" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_-chrome_06811.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_06811" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_06811.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_07676" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_-chrome_07676.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_07676" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_07676.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_08095" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_-chrome_08095.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_08095" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_08095.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_08142" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_-chrome_08142.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_08142" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_08142.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_08208" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_-chrome_08208.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_08208" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_08208.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_08243" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_-chrome_08243.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_08243" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_08243.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_08290" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_-chrome_08290.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_08290" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_08290.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_08323" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_-chrome_08323.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_08323" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_08323.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_08442" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_-chrome_08442.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_08442" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_08442.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_08490" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_-chrome_08490.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_08490" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_08490.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_08524" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_-chrome_08524.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_08524" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_08524.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_08557" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_-chrome_08557.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_08557" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_08557.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_08574" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_-chrome_08574.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_08574" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_08574.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_08590" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_-chrome_08590.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_08590" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_08590.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_08607" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_-chrome_08607.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_08607" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_08607.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_08624" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_-chrome_08624.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_08624" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_08624.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_08644" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_-chrome_08644.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_08644" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_08644.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_10339" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_-chrome_10339.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_10339" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_10339.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_10802" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_-chrome_10802.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_10802" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_10802.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_13097" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_-chrome_13097.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_13097" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_13097.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_13131" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_-chrome_13131.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_13131" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_13131.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_13146" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_-chrome_13146.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+<image  id="chrome_scrn_13146" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_13146.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
 
 <script type="text/javascript" crossorigin="anonymous" id="tooltip-js"  >
