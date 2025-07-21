@@ -444,7 +444,8 @@ chrome
 
 {:/}
 {::nomarkdown}
- <image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-phongluyen_hocmai_vn-firefox_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<g id="firefox-tooltip-images">
+<image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-phongluyen_hocmai_vn-firefox_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
 <image  id="firefox_scrn_01997" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-phongluyen_hocmai_vn-firefox_01997.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
@@ -454,11 +455,13 @@ chrome
  visibility="hidden" crossorigin="anonymous"  />
 <image  id="firefox_scrn_05089" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-phongluyen_hocmai_vn-firefox_05089.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
+</g>
 
 {:/}
 
 {::nomarkdown}
- <image  id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-phongluyen_hocmai_vn-chrome_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<g id="chrome-tooltip-images">
+<image  id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-phongluyen_hocmai_vn-chrome_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
 <image  id="chrome_scrn_02009" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-phongluyen_hocmai_vn-chrome_02009.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
@@ -474,6 +477,7 @@ chrome
  visibility="hidden" crossorigin="anonymous"  />
 <image  id="chrome_scrn_08648" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-phongluyen_hocmai_vn-chrome_08648.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
+</g>
 
 {:/}
 

@@ -339,7 +339,8 @@ chrome
 
 {:/}
 {::nomarkdown}
- <image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-phongluyen_hocmai_vn-firefox_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<g id="firefox-tooltip-images">
+<image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-phongluyen_hocmai_vn-firefox_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
 <image  id="firefox_scrn_02026" href="../filmstrip/2025-07-11-android-15-ptablet-phongluyen_hocmai_vn-firefox_02026.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
@@ -353,11 +354,13 @@ chrome
  visibility="hidden" crossorigin="anonymous"  />
 <image  id="firefox_scrn_05121" href="../filmstrip/2025-07-11-android-15-ptablet-phongluyen_hocmai_vn-firefox_05121.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
+</g>
 
 {:/}
 
 {::nomarkdown}
- <image  id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-phongluyen_hocmai_vn-chrome_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<g id="chrome-tooltip-images">
+<image  id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-phongluyen_hocmai_vn-chrome_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
 <image  id="chrome_scrn_01940" href="../filmstrip/2025-07-11-android-15-ptablet-phongluyen_hocmai_vn-chrome_01940.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
@@ -367,6 +370,7 @@ chrome
  visibility="hidden" crossorigin="anonymous"  />
 <image  id="chrome_scrn_05104" href="../filmstrip/2025-07-11-android-15-ptablet-phongluyen_hocmai_vn-chrome_05104.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
+</g>
 
 {:/}
 

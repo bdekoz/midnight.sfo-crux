@@ -384,7 +384,8 @@ chrome
 
 {:/}
 {::nomarkdown}
- <image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-firefox_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<g id="firefox-tooltip-images">
+<image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-firefox_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
 <image  id="firefox_scrn_02016" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-firefox_02016.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
@@ -406,11 +407,13 @@ chrome
  visibility="hidden" crossorigin="anonymous"  />
 <image  id="firefox_scrn_08349" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-firefox_08349.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
+</g>
 
 {:/}
 
 {::nomarkdown}
- <image  id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-chrome_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<g id="chrome-tooltip-images">
+<image  id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-chrome_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
 <image  id="chrome_scrn_01961" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-chrome_01961.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
@@ -420,6 +423,7 @@ chrome
  visibility="hidden" crossorigin="anonymous"  />
 <image  id="chrome_scrn_02843" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-chrome_02843.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
+</g>
 
 {:/}
 

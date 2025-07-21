@@ -429,7 +429,8 @@ chrome
 
 {:/}
 {::nomarkdown}
- <image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-firefox_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<g id="firefox-tooltip-images">
+<image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-firefox_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
 <image  id="firefox_scrn_01991" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-firefox_01991.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
@@ -447,11 +448,13 @@ chrome
  visibility="hidden" crossorigin="anonymous"  />
 <image  id="firefox_scrn_05318" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-firefox_05318.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
+</g>
 
 {:/}
 
 {::nomarkdown}
- <image  id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-chrome_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<g id="chrome-tooltip-images">
+<image  id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-chrome_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
 <image  id="chrome_scrn_01958" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-chrome_01958.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
@@ -469,6 +472,7 @@ chrome
  visibility="hidden" crossorigin="anonymous"  />
 <image  id="chrome_scrn_06487" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-chrome_06487.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
+</g>
 
 {:/}
 

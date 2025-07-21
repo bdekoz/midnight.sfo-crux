@@ -655,7 +655,8 @@ chrome
 
 {:/}
 {::nomarkdown}
- <image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-greenmovil_clapuser-firefox_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<g id="firefox-tooltip-images">
+<image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-greenmovil_clapuser-firefox_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
 <image  id="firefox_scrn_02021" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-greenmovil_clapuser-firefox_02021.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
@@ -701,11 +702,13 @@ chrome
  visibility="hidden" crossorigin="anonymous"  />
 <image  id="firefox_scrn_09273" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-greenmovil_clapuser-firefox_09273.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
+</g>
 
 {:/}
 
 {::nomarkdown}
- <image  id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-greenmovil_clapuser-chrome_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+<g id="chrome-tooltip-images">
+<image  id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-greenmovil_clapuser-chrome_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
 <image  id="chrome_scrn_01961" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-greenmovil_clapuser-chrome_01961.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
@@ -759,6 +762,7 @@ chrome
  visibility="hidden" crossorigin="anonymous"  />
 <image  id="chrome_scrn_09066" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-greenmovil_clapuser-chrome_09066.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
+</g>
 
 {:/}
 

@@ -91,11 +91,15 @@ annotation line graph for SpeedIndexProgress
 
 {:/}
 {::nomarkdown}
- 
+<g id="firefox-tooltip-images">
+</g>
+
 {:/}
 
 {::nomarkdown}
- 
+<g id="chrome-tooltip-images">
+</g>
+
 {:/}
 
 <script type="text/javascript" crossorigin="anonymous" id="tooltip-js"  >
