@@ -425,83 +425,52 @@ chrome
 99%, 6487ms
 </title>
  </circle>
- </g></svg>
+ </g> <g id="firefox-tooltip-images">
+<image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-firefox_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ crossorigin="anonymous" visibility="hidden"  />
+<image  id="firefox_scrn_01991" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-firefox_01991.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ crossorigin="anonymous" visibility="hidden"  />
+<image  id="firefox_scrn_03138" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-firefox_03138.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ crossorigin="anonymous" visibility="hidden"  />
+<image  id="firefox_scrn_03255" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-firefox_03255.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ crossorigin="anonymous" visibility="hidden"  />
+<image  id="firefox_scrn_03307" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-firefox_03307.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ crossorigin="anonymous" visibility="hidden"  />
+<image  id="firefox_scrn_03388" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-firefox_03388.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ crossorigin="anonymous" visibility="hidden"  />
+<image  id="firefox_scrn_03788" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-firefox_03788.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ crossorigin="anonymous" visibility="hidden"  />
+<image  id="firefox_scrn_04070" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-firefox_04070.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ crossorigin="anonymous" visibility="hidden"  />
+<image  id="firefox_scrn_05318" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-firefox_05318.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ crossorigin="anonymous" visibility="hidden"  />
+</g>
+ <g id="chrome-tooltip-images">
+<image  id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-chrome_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ crossorigin="anonymous" visibility="hidden"  />
+<image  id="chrome_scrn_01958" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-chrome_01958.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ crossorigin="anonymous" visibility="hidden"  />
+<image  id="chrome_scrn_02673" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-chrome_02673.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ crossorigin="anonymous" visibility="hidden"  />
+<image  id="chrome_scrn_03155" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-chrome_03155.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ crossorigin="anonymous" visibility="hidden"  />
+<image  id="chrome_scrn_03239" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-chrome_03239.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ crossorigin="anonymous" visibility="hidden"  />
+<image  id="chrome_scrn_03588" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-chrome_03588.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ crossorigin="anonymous" visibility="hidden"  />
+<image  id="chrome_scrn_03756" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-chrome_03756.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ crossorigin="anonymous" visibility="hidden"  />
+<image  id="chrome_scrn_06436" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-chrome_06436.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ crossorigin="anonymous" visibility="hidden"  />
+<image  id="chrome_scrn_06487" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-chrome_06487.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ crossorigin="anonymous" visibility="hidden"  />
+</g>
+</svg>
 
 {:/}
-<g id="firefox-tooltip-images">
-<image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-firefox_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" display="none"  />
-<image  id="firefox_scrn_01991" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-firefox_01991.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" display="none"  />
-<image  id="firefox_scrn_03138" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-firefox_03138.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" display="none"  />
-<image  id="firefox_scrn_03255" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-firefox_03255.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" display="none"  />
-<image  id="firefox_scrn_03307" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-firefox_03307.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" display="none"  />
-<image  id="firefox_scrn_03388" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-firefox_03388.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" display="none"  />
-<image  id="firefox_scrn_03788" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-firefox_03788.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" display="none"  />
-<image  id="firefox_scrn_04070" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-firefox_04070.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" display="none"  />
-<image  id="firefox_scrn_05318" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-firefox_05318.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" display="none"  />
-</g>
-
-<g id="chrome-tooltip-images">
-<image  id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-chrome_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" display="none"  />
-<image  id="chrome_scrn_01958" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-chrome_01958.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" display="none"  />
-<image  id="chrome_scrn_02673" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-chrome_02673.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" display="none"  />
-<image  id="chrome_scrn_03155" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-chrome_03155.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" display="none"  />
-<image  id="chrome_scrn_03239" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-chrome_03239.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" display="none"  />
-<image  id="chrome_scrn_03588" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-chrome_03588.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" display="none"  />
-<image  id="chrome_scrn_03756" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-chrome_03756.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" display="none"  />
-<image  id="chrome_scrn_06436" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-chrome_06436.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" display="none"  />
-<image  id="chrome_scrn_06487" href="../filmstrip/2025-07-11-android-15-ptablet-librepensador_uexternado_edu_co-chrome_06487.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" display="none"  />
-</g>
-
 <script type="text/javascript" crossorigin="anonymous" id="tooltip-js"  >
 
-    function showTooltip(event, tooltipId) {
-      const tooltipimg = document.getElementById(tooltipId);
-      if (tooltipimg) {
-	//tooltipimg.onload = function() {
-	const ge = tooltipimg.parentElement;
-	const svge = ge.parentElement;
-	const brect = ge.getBoundingClientRect();
-	const bx = brect.left;
-	const by = brect.top;
-
-	//const iheight = tooltipimg.offsetHeight; //!isNaN(iheight)
-	const iheight = 150;
-	tooltipimg.setAttribute('x', event.pageX - bx);
-	tooltipimg.setAttribute('y', event.pageY - by - iheight);
-	//tooltipimg.setAttribute('visibility', 'visible');
-	tooltipimg.setAttribute('display', 'inline');
-      } else {
-	console.error(`Element with ID "${tooltipId}" not found.`);
-      }
-    }
-    
-
-    function hideTooltip(tooltipId) {
-      const tooltipimg = document.getElementById(tooltipId);
-      //tooltipimg.setAttribute('visibility', 'hidden');
-      tooltipimg.setAttribute('display', 'none');
-    }
-    
 </script>
-
 
 <div style="height: 50px;"></div>
 
