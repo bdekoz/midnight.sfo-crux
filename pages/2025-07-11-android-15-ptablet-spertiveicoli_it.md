@@ -113,7 +113,7 @@ annotation line graph for SpeedIndexProgress
 	tooltipimg.setAttribute('x', event.pageX - bx);
 	tooltipimg.setAttribute('y', event.pageY - by - iheight);
 	//tooltipimg.setAttribute('visibility', 'visible');
-	tooltipimg.setAttribute('display', 'unset');
+	tooltipimg.setAttribute('display', 'inline');
       } else {
 	console.error(`Element with ID "${tooltipId}" not found.`);
       }
