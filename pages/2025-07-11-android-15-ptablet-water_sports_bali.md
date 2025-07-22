@@ -1,4 +1,3 @@
-
 ## metadata
 {::nomarkdown}
 <?xml version="1.0" encoding="utf-8"?>
@@ -424,31 +423,27 @@ chrome
     function showTooltip(event, tooltipId) {
       const tooltipimg = document.getElementById(tooltipId);
       if (tooltipimg) {
-	//tooltipimg.onload = function() {
 	const ge = tooltipimg.parentElement;
 	const svge = ge.parentElement;
 	const brect = ge.getBoundingClientRect();
 	const bx = brect.left;
 	const by = brect.top;
 
-	//const iheight = tooltipimg.offsetHeight; //!isNaN(iheight)
 	const iheight = 150;
 	tooltipimg.setAttribute('x', event.pageX - bx);
 	tooltipimg.setAttribute('y', event.pageY - by - iheight);
 	tooltipimg.setAttribute('visibility', 'visible');
-	//tooltipimg.setAttribute('display', 'inline');
       } else {
 	console.error(`Element with ID "${tooltipId}" not found.`);
       }
     }
-    
+
 
     function hideTooltip(tooltipId) {
       const tooltipimg = document.getElementById(tooltipId);
       tooltipimg.setAttribute('visibility', 'hidden');
-      //tooltipimg.setAttribute('display', 'none');
     }
-    
+
 </script>
 
 <div style="height: 50px;"></div>
@@ -463,8 +458,8 @@ chrome
 </head>
 <body>
     <div class="table-container">
-        <table>
-  
+	<table>
+
 	<thead>
 	  <tr>
 	    <th rowspan="2" width="25%">metric</th>
@@ -479,7 +474,7 @@ chrome
 	    <th>rsd</th>
 	   </tr>
 	</thead>
-      
+
   <tbody>
     <tr>
       <td>domainLookupStart</td>
@@ -566,4 +561,3 @@ chrome
     </div>
 </body>
 </html>
-        
