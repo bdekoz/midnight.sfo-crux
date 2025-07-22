@@ -433,7 +433,7 @@ chrome
       const tooltipimg = document.getElementById(tooltipId);
       if (tooltipimg) {
       	 // Add an event listener to ensure the image is fully loaded
-    	 imgElement.onload = function() {
+    	 tooltipimg.onload = function() {
 	const ge = tooltipimg.parentElement;
 	const svge = ge.parentElement;
 	const brect = ge.getBoundingClientRect();
