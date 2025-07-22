@@ -96,8 +96,7 @@ annotation line graph for SpeedIndexProgress
 <text x="676.470588" y="512.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">7.0s</text>
 <text x="717.647059" y="512.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">7.5s</text>
 <text x="758.823529" y="512.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">8.0s</text>
- </g>
- <g id="tic-y-annotation">
+ </g> <g id="tic-y-annotation">
 <text x="76.000000" y="460.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">10%</text>
 <text x="824.000000" y="460.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">10%</text>
 <text x="76.000000" y="420.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">20%</text>
@@ -118,8 +117,7 @@ annotation line graph for SpeedIndexProgress
 <text x="824.000000" y="140.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">90%</text>
 <text x="76.000000" y="100.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">100%</text>
 <text x="824.000000" y="100.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">100%</text>
- </g>
- <g id="tic-y-lines-annotation">
+ </g> <g id="tic-y-lines-annotation">
 <line x1="112.000000" y1="460.000000" x2="788.000000" y2="460.000000" style="fill:rgb(118,118,118); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:1" />
 <text x="141.176471" y="460.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">10%</text>
 <text x="182.352941" y="460.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">10%</text>
@@ -280,11 +278,9 @@ annotation line graph for SpeedIndexProgress
 <text x="635.294118" y="100.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">100%</text>
 <text x="676.470588" y="100.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">100%</text>
 <text x="717.647059" y="100.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">100%</text>
- </g>
- <g id="polyline-firefox">
+ </g> <g id="polyline-firefox">
 <polyline points="100,500 147.847,500 266.024,248 326.882,248 329.847,164 331,120 333.8,120 339.153,108 399.682,108 406.518,104 407.835,100 410.635,104 411.953,100 413.353,100 414.835,104 786.494,104 787.565,100 " stroke-dasharray="1 2" stroke-linecap="triangle"  style="fill:rgb(46,46,46); fill-opacity:0; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1" />
- </g>
- <g id="markers-firefox">
+ </g> <g id="markers-firefox">
  <path d="M 103.377 501.95 L 100 496.1 L 96.6225 501.95 L 103.377 501.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_00000')"  onmouseout="hideTooltip('firefox_scrn_00000')"   >
 <title>
 firefox
@@ -351,11 +347,33 @@ firefox
 100%, 8349ms
 </title>
  </path>
- </g>
+ </g><g id="firefox-tooltip-images">
+<image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-firefox_00000.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_02016" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-firefox_02016.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_02791" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-firefox_02791.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_02805" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-firefox_02805.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_02904" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-firefox_02904.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_03722" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-firefox_03722.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_03738" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-firefox_03738.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_03772" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-firefox_03772.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_03788" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-firefox_03788.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_03823" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-firefox_03823.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_08349" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-firefox_08349.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+</g>
  <g id="polyline-chrome">
 <polyline points="100,500 261.494,264 313.541,264 316.259,136 317.741,136 319.141,120 332.647,120 334.129,104 778.012,104 780.894,100 782.047,104 783.612,100 784.929,100 786.247,104 787.647,100 794.482,100 795.882,104 797.282,100 " stroke-dasharray="3" stroke-linecap="round"  style="fill:rgb(148,148,148); fill-opacity:0; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1" />
- </g>
- <g id="markers-chrome">
+ </g> <g id="markers-chrome">
  <circle cx="100.000000" cy="500.000000" r="3.000000" style="fill:rgb(255,255,255); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'chrome_scrn_00000')"  onmouseout="hideTooltip('chrome_scrn_00000')"   >
 <title>
 chrome
@@ -386,31 +404,25 @@ chrome
 99%, 2843ms
 </title>
  </circle>
- </g>
- <g id="firefox-tooltip-images">
-<image id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-firefox_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_02016" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-firefox_02016.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_02791" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-firefox_02791.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_02805" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-firefox_02805.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_02904" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-firefox_02904.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_03722" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-firefox_03722.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_03738" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-firefox_03738.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_03772" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-firefox_03772.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_03788" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-firefox_03788.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_03823" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-firefox_03823.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_08349" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-firefox_08349.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
-</g>
- <g id="chrome-tooltip-images">
-<image id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-chrome_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="chrome_scrn_01961" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-chrome_01961.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="chrome_scrn_02626" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-chrome_02626.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="chrome_scrn_02661" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-chrome_02661.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="chrome_scrn_02843" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-chrome_02843.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+ </g><g id="chrome-tooltip-images">
+<image  id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-chrome_00000.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="chrome_scrn_01961" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-chrome_01961.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="chrome_scrn_02626" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-chrome_02626.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="chrome_scrn_02661" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-chrome_02661.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="chrome_scrn_02843" href="../filmstrip/2025-07-11-android-15-ptablet-water_sports_bali-chrome_02843.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
 </g>
 </svg>
 
 {:/}
+
+
 <script type="text/javascript" crossorigin="anonymous" id="tooltip-js"  >
+
     function showTooltip(event, tooltipId) {
       const tooltipimg = document.getElementById(tooltipId);
       if (tooltipimg) {
@@ -420,9 +432,8 @@ chrome
 	const bx = brect.left;
 	const by = brect.top;
 
-	const iheight = tooltipimg.offsetHeight;
 	tooltipimg.setAttribute('x', event.pageX - bx);
-	tooltipimg.setAttribute('y', event.pageY - by - iheight);
+	tooltipimg.setAttribute('y', event.pageY - by - tooltipimg.offsetHeight);
 	tooltipimg.setAttribute('visibility', 'visible');
       } else {
 	console.error(`Element with ID "${tooltipId}" not found.`);
@@ -434,7 +445,7 @@ chrome
       const tooltipimg = document.getElementById(tooltipId);
       tooltipimg.setAttribute('visibility', 'hidden');
     }
-
+    
 </script>
 
 

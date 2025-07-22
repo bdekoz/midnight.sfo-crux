@@ -106,8 +106,7 @@ annotation line graph for SpeedIndexProgress
 <text x="738.888889" y="512.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">11.5s</text>
 <text x="766.666667" y="512.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">12.0s</text>
 <text x="794.444444" y="512.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">12.5s</text>
- </g>
- <g id="tic-y-annotation">
+ </g> <g id="tic-y-annotation">
 <text x="76.000000" y="460.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">10%</text>
 <text x="824.000000" y="460.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">10%</text>
 <text x="76.000000" y="420.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">20%</text>
@@ -128,8 +127,7 @@ annotation line graph for SpeedIndexProgress
 <text x="824.000000" y="140.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">90%</text>
 <text x="76.000000" y="100.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">100%</text>
 <text x="824.000000" y="100.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">100%</text>
- </g>
- <g id="tic-y-lines-annotation">
+ </g> <g id="tic-y-lines-annotation">
 <line x1="112.000000" y1="460.000000" x2="788.000000" y2="460.000000" style="fill:rgb(118,118,118); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:1" />
 <text x="127.777778" y="460.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">10%</text>
 <text x="155.555556" y="460.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">10%</text>
@@ -380,11 +378,9 @@ annotation line graph for SpeedIndexProgress
 <text x="711.111111" y="100.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">100%</text>
 <text x="738.888889" y="100.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">100%</text>
 <text x="766.666667" y="100.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">100%</text>
- </g>
- <g id="polyline-firefox">
+ </g> <g id="polyline-firefox">
 <polyline points="100,500 132.222,500 133.111,364 211.5,300 267,300 268.889,296 297.5,296 298.5,292 306.944,292 319.722,288 457.333,288 458.5,292 459.333,288 460.222,288 461.222,284 462.056,280 463.111,280 464,272 464.889,104 466.722,104 467.667,100 473.333,100 568.611,104 798.667,104 799.556,100 " stroke-dasharray="1 2" stroke-linecap="triangle"  style="fill:rgb(46,46,46); fill-opacity:0; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1" />
- </g>
- <g id="markers-firefox">
+ </g> <g id="markers-firefox">
  <path d="M 103.377 501.95 L 100 496.1 L 96.6225 501.95 L 103.377 501.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_00000')"  onmouseout="hideTooltip('firefox_scrn_00000')"   >
 <title>
 firefox
@@ -469,11 +465,39 @@ firefox
 99%, 8435ms
 </title>
  </path>
- </g>
+ </g><g id="firefox-tooltip-images">
+<image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-warehouse13_higherincomejobs-firefox_00000.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_00596" href="../filmstrip/2025-07-11-android-15-ptablet-warehouse13_higherincomejobs-firefox_00596.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_02007" href="../filmstrip/2025-07-11-android-15-ptablet-warehouse13_higherincomejobs-firefox_02007.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_03040" href="../filmstrip/2025-07-11-android-15-ptablet-warehouse13_higherincomejobs-firefox_03040.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_03573" href="../filmstrip/2025-07-11-android-15-ptablet-warehouse13_higherincomejobs-firefox_03573.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_03955" href="../filmstrip/2025-07-11-android-15-ptablet-warehouse13_higherincomejobs-firefox_03955.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_06453" href="../filmstrip/2025-07-11-android-15-ptablet-warehouse13_higherincomejobs-firefox_06453.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_06468" href="../filmstrip/2025-07-11-android-15-ptablet-warehouse13_higherincomejobs-firefox_06468.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_06502" href="../filmstrip/2025-07-11-android-15-ptablet-warehouse13_higherincomejobs-firefox_06502.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_06517" href="../filmstrip/2025-07-11-android-15-ptablet-warehouse13_higherincomejobs-firefox_06517.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_06552" href="../filmstrip/2025-07-11-android-15-ptablet-warehouse13_higherincomejobs-firefox_06552.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_06568" href="../filmstrip/2025-07-11-android-15-ptablet-warehouse13_higherincomejobs-firefox_06568.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_06618" href="../filmstrip/2025-07-11-android-15-ptablet-warehouse13_higherincomejobs-firefox_06618.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_08435" href="../filmstrip/2025-07-11-android-15-ptablet-warehouse13_higherincomejobs-firefox_08435.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+</g>
  <g id="polyline-chrome">
 <polyline points="100,500 207.167,300 273.667,300 281.944,296 284.889,288 293.056,288 295.833,284 342.056,284 345.056,292 440.111,292 440.944,296 443.667,296 444.778,292 445.667,292 446.611,288 447.556,284 448.5,276 449.444,268 450.389,264 451.222,260 452.111,252 453.222,200 454,104 458.556,104 481.778,100 " stroke-dasharray="3" stroke-linecap="round"  style="fill:rgb(148,148,148); fill-opacity:0; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1" />
- </g>
- <g id="markers-chrome">
+ </g> <g id="markers-chrome">
  <circle cx="100.000000" cy="500.000000" r="3.000000" style="fill:rgb(255,255,255); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'chrome_scrn_00000')"  onmouseout="hideTooltip('chrome_scrn_00000')"   >
 <title>
 chrome
@@ -510,62 +534,50 @@ chrome
 52%, 4411ms
 </title>
  </circle>
- </g>
- <g id="firefox-tooltip-images">
-<image id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-warehouse13_higherincomejobs-firefox_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_00596" href="../filmstrip/2025-07-11-android-15-ptablet-warehouse13_higherincomejobs-firefox_00596.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_02007" href="../filmstrip/2025-07-11-android-15-ptablet-warehouse13_higherincomejobs-firefox_02007.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_03040" href="../filmstrip/2025-07-11-android-15-ptablet-warehouse13_higherincomejobs-firefox_03040.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_03573" href="../filmstrip/2025-07-11-android-15-ptablet-warehouse13_higherincomejobs-firefox_03573.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_03955" href="../filmstrip/2025-07-11-android-15-ptablet-warehouse13_higherincomejobs-firefox_03955.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_06453" href="../filmstrip/2025-07-11-android-15-ptablet-warehouse13_higherincomejobs-firefox_06453.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_06468" href="../filmstrip/2025-07-11-android-15-ptablet-warehouse13_higherincomejobs-firefox_06468.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_06502" href="../filmstrip/2025-07-11-android-15-ptablet-warehouse13_higherincomejobs-firefox_06502.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_06517" href="../filmstrip/2025-07-11-android-15-ptablet-warehouse13_higherincomejobs-firefox_06517.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_06552" href="../filmstrip/2025-07-11-android-15-ptablet-warehouse13_higherincomejobs-firefox_06552.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_06568" href="../filmstrip/2025-07-11-android-15-ptablet-warehouse13_higherincomejobs-firefox_06568.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_06618" href="../filmstrip/2025-07-11-android-15-ptablet-warehouse13_higherincomejobs-firefox_06618.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_08435" href="../filmstrip/2025-07-11-android-15-ptablet-warehouse13_higherincomejobs-firefox_08435.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
-</g>
- <g id="chrome-tooltip-images">
-<image id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-warehouse13_higherincomejobs-chrome_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="chrome_scrn_01929" href="../filmstrip/2025-07-11-android-15-ptablet-warehouse13_higherincomejobs-chrome_01929.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="chrome_scrn_03275" href="../filmstrip/2025-07-11-android-15-ptablet-warehouse13_higherincomejobs-chrome_03275.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="chrome_scrn_03328" href="../filmstrip/2025-07-11-android-15-ptablet-warehouse13_higherincomejobs-chrome_03328.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="chrome_scrn_03525" href="../filmstrip/2025-07-11-android-15-ptablet-warehouse13_higherincomejobs-chrome_03525.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="chrome_scrn_04411" href="../filmstrip/2025-07-11-android-15-ptablet-warehouse13_higherincomejobs-chrome_04411.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+ </g><g id="chrome-tooltip-images">
+<image  id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-warehouse13_higherincomejobs-chrome_00000.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="chrome_scrn_01929" href="../filmstrip/2025-07-11-android-15-ptablet-warehouse13_higherincomejobs-chrome_01929.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="chrome_scrn_03275" href="../filmstrip/2025-07-11-android-15-ptablet-warehouse13_higherincomejobs-chrome_03275.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="chrome_scrn_03328" href="../filmstrip/2025-07-11-android-15-ptablet-warehouse13_higherincomejobs-chrome_03328.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="chrome_scrn_03525" href="../filmstrip/2025-07-11-android-15-ptablet-warehouse13_higherincomejobs-chrome_03525.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="chrome_scrn_04411" href="../filmstrip/2025-07-11-android-15-ptablet-warehouse13_higherincomejobs-chrome_04411.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
 </g>
 </svg>
 
 {:/}
+
+
 <script type="text/javascript" crossorigin="anonymous" id="tooltip-js"  >
 
     function showTooltip(event, tooltipId) {
       const tooltipimg = document.getElementById(tooltipId);
       if (tooltipimg) {
-	//tooltipimg.onload = function() {
 	const ge = tooltipimg.parentElement;
 	const svge = ge.parentElement;
 	const brect = ge.getBoundingClientRect();
 	const bx = brect.left;
 	const by = brect.top;
 
-	//const iheight = tooltipimg.offsetHeight; //!isNaN(iheight)
-	const iheight = 150;
 	tooltipimg.setAttribute('x', event.pageX - bx);
-	tooltipimg.setAttribute('y', event.pageY - by - iheight);
+	tooltipimg.setAttribute('y', event.pageY - by - tooltipimg.offsetHeight);
 	tooltipimg.setAttribute('visibility', 'visible');
-	//tooltipimg.setAttribute('display', 'inline');
       } else {
 	console.error(`Element with ID "${tooltipId}" not found.`);
       }
     }
+    
 
     function hideTooltip(tooltipId) {
       const tooltipimg = document.getElementById(tooltipId);
       tooltipimg.setAttribute('visibility', 'hidden');
-      //tooltipimg.setAttribute('display', 'none');
     }
+    
 </script>
 
 
