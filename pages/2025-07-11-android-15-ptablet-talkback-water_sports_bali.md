@@ -451,7 +451,7 @@ chrome
 {:/}
 
 <script type="text/javascript" crossorigin="anonymous" id="tooltip-js"  >
-
+// this is a comment
     function showTooltip(event, tooltipId) {
       const tooltipimg = document.getElementById(tooltipId);
       if (tooltipimg) {
@@ -461,8 +461,9 @@ chrome
 	const bx = brect.left;
 	const by = brect.top;
 
+	const iheight = tooltipimg.offsetHeight;
 	tooltipimg.setAttribute('x', event.pageX - bx);
-	tooltipimg.setAttribute('y', event.pageY - by - tooltipimg.offsetHeight);
+	tooltipimg.setAttribute('y', event.pageY - by - iheight);
 	tooltipimg.setAttribute('visibility', 'visible');
       } else {
 	console.error(`Element with ID "${tooltipId}" not found.`);
