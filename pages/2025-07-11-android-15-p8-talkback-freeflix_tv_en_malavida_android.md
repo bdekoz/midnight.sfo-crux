@@ -27,7 +27,9 @@ viewBox="0 0 540.000000 150.000000" enable-background="new 0 0 540.000000 150.00
 </svg>
 
 {:/}
+
 <div style="height: 50px;"></div>
+
 ## side by side video
 {::nomarkdown}
 <?xml version="1.0" encoding="utf-8"?>
@@ -55,7 +57,9 @@ viewBox="0 0 540.000000 585.000000" enable-background="new 0 0 540.000000 585.00
 </svg>
 
 {:/}
+
 <div style="height: 50px;"></div>
+
 ## % visually complete by ms (SpeedIndexProgress)
 {::nomarkdown}
 <?xml version="1.0" encoding="utf-8"?>
@@ -81,14 +85,24 @@ annotation line graph for SpeedIndexProgress
  </g> <g id="polyline-firefox">
 <polyline  style="fill:rgb(46,46,46); fill-opacity:0; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1" />
  </g> <g id="markers-firefox">
-  </g> <g id="polyline-chrome">
+  </g><g id="firefox-tooltip-images">
+</g>
+ <g id="polyline-chrome">
 <polyline  style="fill:rgb(148,148,148); fill-opacity:0; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1" />
  </g> <g id="markers-chrome">
-  </g></svg>
+  </g><g id="chrome-tooltip-images">
+</g>
+</svg>
 
 {:/}
- 
- 
+{::nomarkdown}
+
+{:/}
+
+{::nomarkdown}
+
+{:/}
+
 <script type="text/javascript" crossorigin="anonymous" id="tooltip-js"  >
 
     function showTooltip(event, tooltipId) {
@@ -116,5 +130,7 @@ annotation line graph for SpeedIndexProgress
     
 </script>
 
+
 <div style="height: 50px;"></div>
+
 ## navigation, paint, visual metrics

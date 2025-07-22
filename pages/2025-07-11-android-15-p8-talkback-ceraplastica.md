@@ -27,7 +27,9 @@ viewBox="0 0 540.000000 150.000000" enable-background="new 0 0 540.000000 150.00
 </svg>
 
 {:/}
+
 <div style="height: 50px;"></div>
+
 ## side by side video
 {::nomarkdown}
 <?xml version="1.0" encoding="utf-8"?>
@@ -55,7 +57,9 @@ viewBox="0 0 540.000000 585.000000" enable-background="new 0 0 540.000000 585.00
 </svg>
 
 {:/}
+
 <div style="height: 50px;"></div>
+
 ## % visually complete by ms (SpeedIndexProgress)
 {::nomarkdown}
 <?xml version="1.0" encoding="utf-8"?>
@@ -267,235 +271,313 @@ annotation line graph for SpeedIndexProgress
  </g> <g id="polyline-firefox">
 <polyline points="100,500 106.073,496 106.768,300 252.609,300 255.623,296 354.411,296 363.728,292 364.47,288 366.649,288 367.437,284 374.298,284 375.132,280 378.98,280 379.722,276 382.828,276 383.616,272 385.934,272 386.675,268 387.464,268 388.205,264 389.04,260 389.735,256 390.523,252 391.311,248 392.192,244 392.841,240 393.629,240 394.371,236 464.51,236 465.437,240 467.616,240 468.497,152 470.768,152 472.298,148 492.371,148 493.205,144 500.808,144 501.55,140 505.444,140 507.715,136 508.503,136 510.868,132 511.656,120 512.397,116 513.139,112 513.927,104 564.086,104 564.735,108 588.841,108 589.351,104 592.596,104 593.338,108 594.868,108 595.609,104 651.146,104 651.887,100 652.675,104 654.205,104 654.993,100 661.901,100 662.642,104 697.364,104 698.94,108 717.437,108 718.225,104 719.013,104 719.709,108 727.404,108 728.192,104 762.126,104 762.868,100 763.656,100 764.444,104 766.715,104 767.503,100 772.881,100 773.715,104 787.576,104 788.364,100 " stroke-dasharray="1 2" stroke-linecap="triangle"  style="fill:rgb(46,46,46); fill-opacity:0; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1" />
  </g> <g id="markers-firefox">
- <path id="triangle-3.900000-120.000000" d="M 103.377 501.95 L 100 496.1 L 96.6225 501.95 L 103.377 501.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_00000')"  onmouseout="hideTooltip('firefox_scrn_00000')"   >
+ <path d="M 103.377 501.95 L 100 496.1 L 96.6225 501.95 L 103.377 501.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_00000')"  onmouseout="hideTooltip('firefox_scrn_00000')"   >
 <title>
 firefox
 0%, 0ms
 </title>
  </path>
-<path id="triangle-3.900000-120.000000" d="M 109.45 497.95 L 106.073 492.1 L 102.695 497.95 L 109.45 497.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_00131')"  onmouseout="hideTooltip('firefox_scrn_00131')"   >
+<path d="M 109.45 497.95 L 106.073 492.1 L 102.695 497.95 L 109.45 497.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_00131')"  onmouseout="hideTooltip('firefox_scrn_00131')"   >
 <title>
 firefox
 1%, 131ms
 </title>
  </path>
-<path id="triangle-3.900000-120.000000" d="M 110.146 301.95 L 106.768 296.1 L 103.391 301.95 L 110.146 301.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_00146')"  onmouseout="hideTooltip('firefox_scrn_00146')"   >
+<path d="M 110.146 301.95 L 106.768 296.1 L 103.391 301.95 L 110.146 301.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_00146')"  onmouseout="hideTooltip('firefox_scrn_00146')"   >
 <title>
 firefox
 50%, 146ms
 </title>
  </path>
-<path id="triangle-3.900000-120.000000" d="M 259 297.95 L 255.623 292.1 L 252.245 297.95 L 259 297.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_03357')"  onmouseout="hideTooltip('firefox_scrn_03357')"   >
+<path d="M 259 297.95 L 255.623 292.1 L 252.245 297.95 L 259 297.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_03357')"  onmouseout="hideTooltip('firefox_scrn_03357')"   >
 <title>
 firefox
 51%, 3357ms
 </title>
  </path>
-<path id="triangle-3.900000-120.000000" d="M 367.106 293.95 L 363.728 288.1 L 360.351 293.95 L 367.106 293.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_05689')"  onmouseout="hideTooltip('firefox_scrn_05689')"   >
+<path d="M 367.106 293.95 L 363.728 288.1 L 360.351 293.95 L 367.106 293.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_05689')"  onmouseout="hideTooltip('firefox_scrn_05689')"   >
 <title>
 firefox
 52%, 5689ms
 </title>
  </path>
-<path id="triangle-3.900000-120.000000" d="M 367.848 289.95 L 364.47 284.1 L 361.093 289.95 L 367.848 289.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_05705')"  onmouseout="hideTooltip('firefox_scrn_05705')"   >
+<path d="M 367.848 289.95 L 364.47 284.1 L 361.093 289.95 L 367.848 289.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_05705')"  onmouseout="hideTooltip('firefox_scrn_05705')"   >
 <title>
 firefox
 53%, 5705ms
 </title>
  </path>
-<path id="triangle-3.900000-120.000000" d="M 370.815 285.95 L 367.437 280.1 L 364.06 285.95 L 370.815 285.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_05769')"  onmouseout="hideTooltip('firefox_scrn_05769')"   >
+<path d="M 370.815 285.95 L 367.437 280.1 L 364.06 285.95 L 370.815 285.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_05769')"  onmouseout="hideTooltip('firefox_scrn_05769')"   >
 <title>
 firefox
 54%, 5769ms
 </title>
  </path>
-<path id="triangle-3.900000-120.000000" d="M 378.51 281.95 L 375.132 276.1 L 371.755 281.95 L 378.51 281.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_05935')"  onmouseout="hideTooltip('firefox_scrn_05935')"   >
+<path d="M 378.51 281.95 L 375.132 276.1 L 371.755 281.95 L 378.51 281.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_05935')"  onmouseout="hideTooltip('firefox_scrn_05935')"   >
 <title>
 firefox
 55%, 5935ms
 </title>
  </path>
-<path id="triangle-3.900000-120.000000" d="M 383.099 277.95 L 379.722 272.1 L 376.344 277.95 L 383.099 277.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_06034')"  onmouseout="hideTooltip('firefox_scrn_06034')"   >
+<path d="M 383.099 277.95 L 379.722 272.1 L 376.344 277.95 L 383.099 277.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_06034')"  onmouseout="hideTooltip('firefox_scrn_06034')"   >
 <title>
 firefox
 56%, 6034ms
 </title>
  </path>
-<path id="triangle-3.900000-120.000000" d="M 386.993 273.95 L 383.616 268.1 L 380.238 273.95 L 386.993 273.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_06118')"  onmouseout="hideTooltip('firefox_scrn_06118')"   >
+<path d="M 386.993 273.95 L 383.616 268.1 L 380.238 273.95 L 386.993 273.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_06118')"  onmouseout="hideTooltip('firefox_scrn_06118')"   >
 <title>
 firefox
 57%, 6118ms
 </title>
  </path>
-<path id="triangle-3.900000-120.000000" d="M 390.053 269.95 L 386.675 264.1 L 383.298 269.95 L 390.053 269.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_06184')"  onmouseout="hideTooltip('firefox_scrn_06184')"   >
+<path d="M 390.053 269.95 L 386.675 264.1 L 383.298 269.95 L 390.053 269.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_06184')"  onmouseout="hideTooltip('firefox_scrn_06184')"   >
 <title>
 firefox
 58%, 6184ms
 </title>
  </path>
-<path id="triangle-3.900000-120.000000" d="M 391.583 265.95 L 388.205 260.1 L 384.828 265.95 L 391.583 265.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_06217')"  onmouseout="hideTooltip('firefox_scrn_06217')"   >
+<path d="M 391.583 265.95 L 388.205 260.1 L 384.828 265.95 L 391.583 265.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_06217')"  onmouseout="hideTooltip('firefox_scrn_06217')"   >
 <title>
 firefox
 59%, 6217ms
 </title>
  </path>
-<path id="triangle-3.900000-120.000000" d="M 392.417 261.95 L 389.04 256.1 L 385.662 261.95 L 392.417 261.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_06235')"  onmouseout="hideTooltip('firefox_scrn_06235')"   >
+<path d="M 392.417 261.95 L 389.04 256.1 L 385.662 261.95 L 392.417 261.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_06235')"  onmouseout="hideTooltip('firefox_scrn_06235')"   >
 <title>
 firefox
 60%, 6235ms
 </title>
  </path>
-<path id="triangle-3.900000-120.000000" d="M 393.113 257.95 L 389.735 252.1 L 386.358 257.95 L 393.113 257.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_06250')"  onmouseout="hideTooltip('firefox_scrn_06250')"   >
+<path d="M 393.113 257.95 L 389.735 252.1 L 386.358 257.95 L 393.113 257.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_06250')"  onmouseout="hideTooltip('firefox_scrn_06250')"   >
 <title>
 firefox
 61%, 6250ms
 </title>
  </path>
-<path id="triangle-3.900000-120.000000" d="M 393.901 253.95 L 390.523 248.1 L 387.146 253.95 L 393.901 253.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_06267')"  onmouseout="hideTooltip('firefox_scrn_06267')"   >
+<path d="M 393.901 253.95 L 390.523 248.1 L 387.146 253.95 L 393.901 253.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_06267')"  onmouseout="hideTooltip('firefox_scrn_06267')"   >
 <title>
 firefox
 62%, 6267ms
 </title>
  </path>
-<path id="triangle-3.900000-120.000000" d="M 394.689 249.95 L 391.311 244.1 L 387.934 249.95 L 394.689 249.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_06284')"  onmouseout="hideTooltip('firefox_scrn_06284')"   >
+<path d="M 394.689 249.95 L 391.311 244.1 L 387.934 249.95 L 394.689 249.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_06284')"  onmouseout="hideTooltip('firefox_scrn_06284')"   >
 <title>
 firefox
 63%, 6284ms
 </title>
  </path>
-<path id="triangle-3.900000-120.000000" d="M 395.57 245.95 L 392.192 240.1 L 388.815 245.95 L 395.57 245.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_06303')"  onmouseout="hideTooltip('firefox_scrn_06303')"   >
+<path d="M 395.57 245.95 L 392.192 240.1 L 388.815 245.95 L 395.57 245.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_06303')"  onmouseout="hideTooltip('firefox_scrn_06303')"   >
 <title>
 firefox
 64%, 6303ms
 </title>
  </path>
-<path id="triangle-3.900000-120.000000" d="M 396.219 241.95 L 392.841 236.1 L 389.464 241.95 L 396.219 241.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_06317')"  onmouseout="hideTooltip('firefox_scrn_06317')"   >
+<path d="M 396.219 241.95 L 392.841 236.1 L 389.464 241.95 L 396.219 241.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_06317')"  onmouseout="hideTooltip('firefox_scrn_06317')"   >
 <title>
 firefox
 65%, 6317ms
 </title>
  </path>
-<path id="triangle-3.900000-120.000000" d="M 397.748 237.95 L 394.371 232.1 L 390.993 237.95 L 397.748 237.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_06350')"  onmouseout="hideTooltip('firefox_scrn_06350')"   >
+<path d="M 397.748 237.95 L 394.371 232.1 L 390.993 237.95 L 397.748 237.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_06350')"  onmouseout="hideTooltip('firefox_scrn_06350')"   >
 <title>
 firefox
 66%, 6350ms
 </title>
  </path>
-<path id="triangle-3.900000-120.000000" d="M 468.815 241.95 L 465.437 236.1 L 462.06 241.95 L 468.815 241.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_07883')"  onmouseout="hideTooltip('firefox_scrn_07883')"   >
+<path d="M 468.815 241.95 L 465.437 236.1 L 462.06 241.95 L 468.815 241.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_07883')"  onmouseout="hideTooltip('firefox_scrn_07883')"   >
 <title>
 firefox
 65%, 7883ms
 </title>
  </path>
-<path id="triangle-3.900000-120.000000" d="M 471.874 153.95 L 468.497 148.1 L 465.119 153.95 L 471.874 153.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_07949')"  onmouseout="hideTooltip('firefox_scrn_07949')"   >
+<path d="M 471.874 153.95 L 468.497 148.1 L 465.119 153.95 L 471.874 153.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_07949')"  onmouseout="hideTooltip('firefox_scrn_07949')"   >
 <title>
 firefox
 87%, 7949ms
 </title>
  </path>
-<path id="triangle-3.900000-120.000000" d="M 475.676 149.95 L 472.298 144.1 L 468.921 149.95 L 475.676 149.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_08031')"  onmouseout="hideTooltip('firefox_scrn_08031')"   >
+<path d="M 475.676 149.95 L 472.298 144.1 L 468.921 149.95 L 475.676 149.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_08031')"  onmouseout="hideTooltip('firefox_scrn_08031')"   >
 <title>
 firefox
 88%, 8031ms
 </title>
  </path>
-<path id="triangle-3.900000-120.000000" d="M 496.583 145.95 L 493.205 140.1 L 489.828 145.95 L 496.583 145.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_08482')"  onmouseout="hideTooltip('firefox_scrn_08482')"   >
+<path d="M 496.583 145.95 L 493.205 140.1 L 489.828 145.95 L 496.583 145.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_08482')"  onmouseout="hideTooltip('firefox_scrn_08482')"   >
 <title>
 firefox
 89%, 8482ms
 </title>
  </path>
-<path id="triangle-3.900000-120.000000" d="M 504.927 141.95 L 501.55 136.1 L 498.172 141.95 L 504.927 141.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_08662')"  onmouseout="hideTooltip('firefox_scrn_08662')"   >
+<path d="M 504.927 141.95 L 501.55 136.1 L 498.172 141.95 L 504.927 141.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_08662')"  onmouseout="hideTooltip('firefox_scrn_08662')"   >
 <title>
 firefox
 90%, 8662ms
 </title>
  </path>
-<path id="triangle-3.900000-120.000000" d="M 511.093 137.95 L 507.715 132.1 L 504.338 137.95 L 511.093 137.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_08795')"  onmouseout="hideTooltip('firefox_scrn_08795')"   >
+<path d="M 511.093 137.95 L 507.715 132.1 L 504.338 137.95 L 511.093 137.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_08795')"  onmouseout="hideTooltip('firefox_scrn_08795')"   >
 <title>
 firefox
 91%, 8795ms
 </title>
  </path>
-<path id="triangle-3.900000-120.000000" d="M 514.245 133.95 L 510.868 128.1 L 507.49 133.95 L 514.245 133.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_08863')"  onmouseout="hideTooltip('firefox_scrn_08863')"   >
+<path d="M 514.245 133.95 L 510.868 128.1 L 507.49 133.95 L 514.245 133.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_08863')"  onmouseout="hideTooltip('firefox_scrn_08863')"   >
 <title>
 firefox
 92%, 8863ms
 </title>
  </path>
-<path id="triangle-3.900000-120.000000" d="M 515.033 121.95 L 511.656 116.1 L 508.278 121.95 L 515.033 121.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_08880')"  onmouseout="hideTooltip('firefox_scrn_08880')"   >
+<path d="M 515.033 121.95 L 511.656 116.1 L 508.278 121.95 L 515.033 121.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_08880')"  onmouseout="hideTooltip('firefox_scrn_08880')"   >
 <title>
 firefox
 95%, 8880ms
 </title>
  </path>
-<path id="triangle-3.900000-120.000000" d="M 515.775 117.95 L 512.397 112.1 L 509.02 117.95 L 515.775 117.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_08896')"  onmouseout="hideTooltip('firefox_scrn_08896')"   >
+<path d="M 515.775 117.95 L 512.397 112.1 L 509.02 117.95 L 515.775 117.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_08896')"  onmouseout="hideTooltip('firefox_scrn_08896')"   >
 <title>
 firefox
 96%, 8896ms
 </title>
  </path>
-<path id="triangle-3.900000-120.000000" d="M 516.517 113.95 L 513.139 108.1 L 509.762 113.95 L 516.517 113.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_08912')"  onmouseout="hideTooltip('firefox_scrn_08912')"   >
+<path d="M 516.517 113.95 L 513.139 108.1 L 509.762 113.95 L 516.517 113.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_08912')"  onmouseout="hideTooltip('firefox_scrn_08912')"   >
 <title>
 firefox
 97%, 8912ms
 </title>
  </path>
-<path id="triangle-3.900000-120.000000" d="M 517.305 105.95 L 513.927 100.1 L 510.55 105.95 L 517.305 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_08929')"  onmouseout="hideTooltip('firefox_scrn_08929')"   >
+<path d="M 517.305 105.95 L 513.927 100.1 L 510.55 105.95 L 517.305 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_08929')"  onmouseout="hideTooltip('firefox_scrn_08929')"   >
 <title>
 firefox
 99%, 8929ms
 </title>
  </path>
-<path id="triangle-3.900000-120.000000" d="M 568.113 109.95 L 564.735 104.1 L 561.358 109.95 L 568.113 109.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_10025')"  onmouseout="hideTooltip('firefox_scrn_10025')"   >
+<path d="M 568.113 109.95 L 564.735 104.1 L 561.358 109.95 L 568.113 109.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_10025')"  onmouseout="hideTooltip('firefox_scrn_10025')"   >
 <title>
 firefox
 98%, 10025ms
 </title>
  </path>
-<path id="triangle-3.900000-120.000000" d="M 592.728 105.95 L 589.351 100.1 L 585.973 105.95 L 592.728 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_10556')"  onmouseout="hideTooltip('firefox_scrn_10556')"   >
+<path d="M 592.728 105.95 L 589.351 100.1 L 585.973 105.95 L 592.728 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_10556')"  onmouseout="hideTooltip('firefox_scrn_10556')"   >
 <title>
 firefox
 99%, 10556ms
 </title>
  </path>
-<path id="triangle-3.900000-120.000000" d="M 596.715 109.95 L 593.338 104.1 L 589.96 109.95 L 596.715 109.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_10642')"  onmouseout="hideTooltip('firefox_scrn_10642')"   >
+<path d="M 596.715 109.95 L 593.338 104.1 L 589.96 109.95 L 596.715 109.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_10642')"  onmouseout="hideTooltip('firefox_scrn_10642')"   >
 <title>
 firefox
 98%, 10642ms
 </title>
  </path>
-<path id="triangle-3.900000-120.000000" d="M 598.987 105.95 L 595.609 100.1 L 592.232 105.95 L 598.987 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_10691')"  onmouseout="hideTooltip('firefox_scrn_10691')"   >
+<path d="M 598.987 105.95 L 595.609 100.1 L 592.232 105.95 L 598.987 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_10691')"  onmouseout="hideTooltip('firefox_scrn_10691')"   >
 <title>
 firefox
 99%, 10691ms
 </title>
  </path>
-<path id="triangle-3.900000-120.000000" d="M 655.265 101.95 L 651.887 96.1 L 648.51 101.95 L 655.265 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_11905')"  onmouseout="hideTooltip('firefox_scrn_11905')"   >
+<path d="M 655.265 101.95 L 651.887 96.1 L 648.51 101.95 L 655.265 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_11905')"  onmouseout="hideTooltip('firefox_scrn_11905')"   >
 <title>
 firefox
 100%, 11905ms
 </title>
  </path>
-<path id="triangle-3.900000-120.000000" d="M 656.053 105.95 L 652.675 100.1 L 649.298 105.95 L 656.053 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_11922')"  onmouseout="hideTooltip('firefox_scrn_11922')"   >
+<path d="M 656.053 105.95 L 652.675 100.1 L 649.298 105.95 L 656.053 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_11922')"  onmouseout="hideTooltip('firefox_scrn_11922')"   >
 <title>
 firefox
 99%, 11922ms
 </title>
  </path>
-<path id="triangle-3.900000-120.000000" d="M 658.371 101.95 L 654.993 96.1 L 651.616 101.95 L 658.371 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_11972')"  onmouseout="hideTooltip('firefox_scrn_11972')"   >
+<path d="M 658.371 101.95 L 654.993 96.1 L 651.616 101.95 L 658.371 101.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_11972')"  onmouseout="hideTooltip('firefox_scrn_11972')"   >
 <title>
 firefox
 100%, 11972ms
 </title>
  </path>
-<path id="triangle-3.900000-120.000000" d="M 666.02 105.95 L 662.642 100.1 L 659.265 105.95 L 666.02 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_12137')"  onmouseout="hideTooltip('firefox_scrn_12137')"   >
+<path d="M 666.02 105.95 L 662.642 100.1 L 659.265 105.95 L 666.02 105.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_12137')"  onmouseout="hideTooltip('firefox_scrn_12137')"   >
 <title>
 firefox
 99%, 12137ms
 </title>
  </path>
- </g> <g id="polyline-chrome">
+ </g><g id="firefox-tooltip-images">
+<image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_00000.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_00131" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_00131.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_00146" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_00146.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_03357" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_03357.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_05689" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_05689.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_05705" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_05705.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_05769" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_05769.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_05935" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_05935.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_06034" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_06034.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_06118" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_06118.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_06184" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_06184.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_06217" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_06217.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_06235" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_06235.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_06250" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_06250.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_06267" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_06267.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_06284" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_06284.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_06303" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_06303.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_06317" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_06317.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_06350" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_06350.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_07883" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_07883.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_07949" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_07949.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_08031" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_08031.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_08482" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_08482.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_08662" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_08662.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_08795" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_08795.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_08863" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_08863.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_08880" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_08880.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_08896" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_08896.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_08912" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_08912.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_08929" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_08929.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_10025" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_10025.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_10556" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_10556.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_10642" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_10642.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_10691" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_10691.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_11905" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_11905.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_11922" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_11922.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_11972" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_11972.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_12137" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_12137.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+</g>
+ <g id="polyline-chrome">
 <polyline points="100,500 186.828,300 258.497,300 264.616,296 372.629,296 376.43,292 378.007,288 380.232,288 381.02,284 385.656,284 386.397,280 392.609,280 393.351,276 395.762,276 396.457,272 397.199,272 397.94,268 398.728,264 399.517,260 400.351,256 401.093,252 401.834,248 402.623,244 403.411,240 404.94,240 405.682,236 414.166,236 414.907,232 415.742,236 454.311,236 455.841,152 474.43,152 475.265,148 476.656,148 477.444,152 479.715,152 480.503,156 481.291,156 482.126,148 483.656,148 484.305,144 485.093,144 485.834,140 490.517,140 491.351,136 492.834,136 493.576,132 494.55,132 495.152,128 495.94,128 496.682,124 497.47,120 498.212,116 499,112 499.788,108 500.715,104 575.444,104 579.291,108 600.06,108 600.755,104 706.543,104 707.146,108 708.026,108 708.722,104 709.417,108 736.444,108 737.232,104 737.974,108 739.55,108 740.291,104 780.391,104 781.179,100 782.106,104 782.709,100 783.497,104 798.887,104 799.675,100 " stroke-dasharray="3" stroke-linecap="round"  style="fill:rgb(148,148,148); fill-opacity:0; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1" />
  </g> <g id="markers-chrome">
  <circle cx="100.000000" cy="500.000000" r="3.000000" style="fill:rgb(255,255,255); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'chrome_scrn_00000')"  onmouseout="hideTooltip('chrome_scrn_00000')"   >
@@ -744,87 +826,8 @@ chrome
 98%, 13146ms
 </title>
  </circle>
- </g></svg>
-
-{:/}
- <image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_00000.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_00131" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_00131.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_00146" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_00146.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_03357" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_03357.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_05689" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_05689.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_05705" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_05705.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_05769" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_05769.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_05935" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_05935.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_06034" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_06034.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_06118" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_06118.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_06184" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_06184.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_06217" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_06217.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_06235" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_06235.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_06250" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_06250.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_06267" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_06267.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_06284" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_06284.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_06303" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_06303.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_06317" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_06317.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_06350" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_06350.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_07883" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_07883.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_07949" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_07949.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_08031" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_08031.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_08482" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_08482.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_08662" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_08662.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_08795" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_08795.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_08863" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_08863.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_08880" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_08880.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_08896" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_08896.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_08912" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_08912.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_08929" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_08929.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_10025" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_10025.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_10556" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_10556.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_10642" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_10642.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_10691" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_10691.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_11905" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_11905.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_11922" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_11922.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_11972" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_11972.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_12137" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-firefox_12137.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
- visibility="hidden" crossorigin="anonymous"  />
-
- <image  id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_00000.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
+ </g><g id="chrome-tooltip-images">
+<image  id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_00000.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
 <image  id="chrome_scrn_01873" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_01873.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
@@ -906,6 +909,17 @@ chrome
  visibility="hidden" crossorigin="anonymous"  />
 <image  id="chrome_scrn_13146" href="../filmstrip/2025-07-11-android-15-p8-talkback-ceraplastica-chrome_13146.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000"
  visibility="hidden" crossorigin="anonymous"  />
+</g>
+</svg>
+
+{:/}
+{::nomarkdown}
+
+{:/}
+
+{::nomarkdown}
+
+{:/}
 
 <script type="text/javascript" crossorigin="anonymous" id="tooltip-js"  >
 
@@ -934,7 +948,9 @@ chrome
     
 </script>
 
+
 <div style="height: 50px;"></div>
+
 ## navigation, paint, visual metrics
 
 <html lang="en">
