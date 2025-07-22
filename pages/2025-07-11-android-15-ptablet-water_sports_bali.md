@@ -433,19 +433,20 @@ chrome
       const tooltipimg = document.getElementById(tooltipId);
       if (tooltipimg) {
       	 // Add an event listener to ensure the image is fully loaded
-    	 tooltipimg.onload = function() {
+    	tooltipimg.onload = function() {
 	const ge = tooltipimg.parentElement;
 	const svge = ge.parentElement;
 	const brect = ge.getBoundingClientRect();
 	const bx = brect.left;
 	const by = brect.top;
 
-	const iheight = tooltipimg.offsetHeight;
+	//const iheight = tooltipimg.offsetHeight;
+	const iheight = 150;
 	if (typeof iheight === 'number' && !isNaN(iheight)) {
 	  tooltipimg.setAttribute('y', event.pageY - by - iheight);
 	}
 	else {
-	  tooltipimg.setAttribute('y', event.pageY - by - 100);
+	  tooltipimg.setAttribute('y', event.pageY - by - 150);
 	  console.log("image ${tooltipId} height unknown, guessing 100")
 	}
 	
