@@ -303,27 +303,7 @@ firefox
 100%, 10990ms
 </title>
  </path>
- </g><g id="firefox-tooltip-images">
-<image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-unicat_es-firefox_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_02006" href="../filmstrip/2025-07-11-android-15-ptablet-unicat_es-firefox_02006.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_03535" href="../filmstrip/2025-07-11-android-15-ptablet-unicat_es-firefox_03535.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_03586" href="../filmstrip/2025-07-11-android-15-ptablet-unicat_es-firefox_03586.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_04020" href="../filmstrip/2025-07-11-android-15-ptablet-unicat_es-firefox_04020.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_04035" href="../filmstrip/2025-07-11-android-15-ptablet-unicat_es-firefox_04035.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_08413" href="../filmstrip/2025-07-11-android-15-ptablet-unicat_es-firefox_08413.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_08427" href="../filmstrip/2025-07-11-android-15-ptablet-unicat_es-firefox_08427.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_10990" href="../filmstrip/2025-07-11-android-15-ptablet-unicat_es-firefox_10990.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-</g>
- <g id="polyline-chrome">
+ </g> <g id="polyline-chrome">
 <polyline points="100,500 199.191,296 274.605,296 277.972,104 522.633,104 523.5,100 524.317,104 526.102,104 526.97,100 534.675,100 535.44,104 536.256,100 537.124,104 539.726,104 540.491,100 541.359,104 543.145,104 543.91,100 544.777,104 546.461,104 547.277,100 548.145,100 548.961,104 550.033,100 " stroke-dasharray="3" stroke-linecap="round"  style="fill:rgb(148,148,148); fill-opacity:0; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1" />
  </g> <g id="markers-chrome">
  <circle cx="100.000000" cy="500.000000" r="3.000000" style="fill:rgb(255,255,255); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'chrome_scrn_00000')"  onmouseout="hideTooltip('chrome_scrn_00000')"   >
@@ -344,39 +324,57 @@ chrome
 99%, 3488ms
 </title>
  </circle>
- </g><g id="chrome-tooltip-images">
-<image  id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-unicat_es-chrome_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_01944" href="../filmstrip/2025-07-11-android-15-ptablet-unicat_es-chrome_01944.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_03488" href="../filmstrip/2025-07-11-android-15-ptablet-unicat_es-chrome_03488.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
+ </g></svg>
+
+{:/}
+<g id="firefox-tooltip-images">
+<image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-unicat_es-firefox_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ crossorigin="anonymous" display="none"  />
+<image  id="firefox_scrn_02006" href="../filmstrip/2025-07-11-android-15-ptablet-unicat_es-firefox_02006.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ crossorigin="anonymous" display="none"  />
+<image  id="firefox_scrn_03535" href="../filmstrip/2025-07-11-android-15-ptablet-unicat_es-firefox_03535.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ crossorigin="anonymous" display="none"  />
+<image  id="firefox_scrn_03586" href="../filmstrip/2025-07-11-android-15-ptablet-unicat_es-firefox_03586.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ crossorigin="anonymous" display="none"  />
+<image  id="firefox_scrn_04020" href="../filmstrip/2025-07-11-android-15-ptablet-unicat_es-firefox_04020.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ crossorigin="anonymous" display="none"  />
+<image  id="firefox_scrn_04035" href="../filmstrip/2025-07-11-android-15-ptablet-unicat_es-firefox_04035.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ crossorigin="anonymous" display="none"  />
+<image  id="firefox_scrn_08413" href="../filmstrip/2025-07-11-android-15-ptablet-unicat_es-firefox_08413.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ crossorigin="anonymous" display="none"  />
+<image  id="firefox_scrn_08427" href="../filmstrip/2025-07-11-android-15-ptablet-unicat_es-firefox_08427.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ crossorigin="anonymous" display="none"  />
+<image  id="firefox_scrn_10990" href="../filmstrip/2025-07-11-android-15-ptablet-unicat_es-firefox_10990.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ crossorigin="anonymous" display="none"  />
 </g>
-</svg>
 
-{:/}
-{::nomarkdown}
-
-{:/}
-
-{::nomarkdown}
-
-{:/}
+<g id="chrome-tooltip-images">
+<image  id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-unicat_es-chrome_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ crossorigin="anonymous" display="none"  />
+<image  id="chrome_scrn_01944" href="../filmstrip/2025-07-11-android-15-ptablet-unicat_es-chrome_01944.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ crossorigin="anonymous" display="none"  />
+<image  id="chrome_scrn_03488" href="../filmstrip/2025-07-11-android-15-ptablet-unicat_es-chrome_03488.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ crossorigin="anonymous" display="none"  />
+</g>
 
 <script type="text/javascript" crossorigin="anonymous" id="tooltip-js"  >
 
     function showTooltip(event, tooltipId) {
       const tooltipimg = document.getElementById(tooltipId);
       if (tooltipimg) {
+	//tooltipimg.onload = function() {
 	const ge = tooltipimg.parentElement;
 	const svge = ge.parentElement;
 	const brect = ge.getBoundingClientRect();
 	const bx = brect.left;
 	const by = brect.top;
 
+	//const iheight = tooltipimg.offsetHeight; //!isNaN(iheight)
+	const iheight = 150;
 	tooltipimg.setAttribute('x', event.pageX - bx);
-	tooltipimg.setAttribute('y', event.pageY - by - tooltipimg.offsetHeight);
-	tooltipimg.setAttribute('visibility', 'visible');
+	tooltipimg.setAttribute('y', event.pageY - by - iheight);
+	//tooltipimg.setAttribute('visibility', 'visible');
+	tooltipimg.setAttribute('display', 'unset');
       } else {
 	console.error(`Element with ID "${tooltipId}" not found.`);
       }
@@ -385,7 +383,8 @@ chrome
 
     function hideTooltip(tooltipId) {
       const tooltipimg = document.getElementById(tooltipId);
-      tooltipimg.setAttribute('visibility', 'hidden');
+      //tooltipimg.setAttribute('visibility', 'hidden');
+      tooltipimg.setAttribute('display', 'none');
     }
     
 </script>

@@ -85,38 +85,36 @@ annotation line graph for SpeedIndexProgress
  </g> <g id="polyline-firefox">
 <polyline  style="fill:rgb(46,46,46); fill-opacity:0; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1" />
  </g> <g id="markers-firefox">
-  </g><g id="firefox-tooltip-images">
-</g>
- <g id="polyline-chrome">
+  </g> <g id="polyline-chrome">
 <polyline  style="fill:rgb(148,148,148); fill-opacity:0; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1" />
  </g> <g id="markers-chrome">
-  </g><g id="chrome-tooltip-images">
+  </g></svg>
+
+{:/}
+<g id="firefox-tooltip-images">
 </g>
-</svg>
 
-{:/}
-{::nomarkdown}
-
-{:/}
-
-{::nomarkdown}
-
-{:/}
+<g id="chrome-tooltip-images">
+</g>
 
 <script type="text/javascript" crossorigin="anonymous" id="tooltip-js"  >
 
     function showTooltip(event, tooltipId) {
       const tooltipimg = document.getElementById(tooltipId);
       if (tooltipimg) {
+	//tooltipimg.onload = function() {
 	const ge = tooltipimg.parentElement;
 	const svge = ge.parentElement;
 	const brect = ge.getBoundingClientRect();
 	const bx = brect.left;
 	const by = brect.top;
 
+	//const iheight = tooltipimg.offsetHeight; //!isNaN(iheight)
+	const iheight = 150;
 	tooltipimg.setAttribute('x', event.pageX - bx);
-	tooltipimg.setAttribute('y', event.pageY - by - tooltipimg.offsetHeight);
-	tooltipimg.setAttribute('visibility', 'visible');
+	tooltipimg.setAttribute('y', event.pageY - by - iheight);
+	//tooltipimg.setAttribute('visibility', 'visible');
+	tooltipimg.setAttribute('display', 'unset');
       } else {
 	console.error(`Element with ID "${tooltipId}" not found.`);
       }
@@ -125,7 +123,8 @@ annotation line graph for SpeedIndexProgress
 
     function hideTooltip(tooltipId) {
       const tooltipimg = document.getElementById(tooltipId);
-      tooltipimg.setAttribute('visibility', 'hidden');
+      //tooltipimg.setAttribute('visibility', 'hidden');
+      tooltipimg.setAttribute('display', 'none');
     }
     
 </script>

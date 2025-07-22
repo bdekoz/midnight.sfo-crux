@@ -403,35 +403,7 @@ firefox
 100%, 10179ms
 </title>
  </path>
- </g><g id="firefox-tooltip-images">
-<image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-bameethainoodle-firefox_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_02026" href="../filmstrip/2025-07-11-android-15-ptablet-bameethainoodle-firefox_02026.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_02396" href="../filmstrip/2025-07-11-android-15-ptablet-bameethainoodle-firefox_02396.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_02542" href="../filmstrip/2025-07-11-android-15-ptablet-bameethainoodle-firefox_02542.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_02607" href="../filmstrip/2025-07-11-android-15-ptablet-bameethainoodle-firefox_02607.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_02674" href="../filmstrip/2025-07-11-android-15-ptablet-bameethainoodle-firefox_02674.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_02691" href="../filmstrip/2025-07-11-android-15-ptablet-bameethainoodle-firefox_02691.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_02725" href="../filmstrip/2025-07-11-android-15-ptablet-bameethainoodle-firefox_02725.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_02773" href="../filmstrip/2025-07-11-android-15-ptablet-bameethainoodle-firefox_02773.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_02874" href="../filmstrip/2025-07-11-android-15-ptablet-bameethainoodle-firefox_02874.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_05419" href="../filmstrip/2025-07-11-android-15-ptablet-bameethainoodle-firefox_05419.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_05636" href="../filmstrip/2025-07-11-android-15-ptablet-bameethainoodle-firefox_05636.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_10179" href="../filmstrip/2025-07-11-android-15-ptablet-bameethainoodle-firefox_10179.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-</g>
- <g id="polyline-chrome">
+ </g> <g id="polyline-chrome">
 <polyline points="100,500 232.108,280 266.216,280 268.618,228 271.843,228 273.01,232 276.441,232 281.039,140 282.137,140 283.373,132 284.471,124 285.569,120 286.735,116 287.833,112 289.137,112 290.167,108 292.431,108 293.667,104 297.029,104 298.196,100 299.294,104 300.461,100 304.99,100 306.225,104 308.422,104 309.588,100 313.02,104 319.814,100 668.167,100 669.471,104 672.833,104 675.167,100 676.471,104 683.265,104 684.363,100 685.529,104 686.696,100 688.961,100 689.99,104 691.363,104 692.461,100 " stroke-dasharray="3" stroke-linecap="round"  style="fill:rgb(148,148,148); fill-opacity:0; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1" />
  </g> <g id="markers-chrome">
  <circle cx="100.000000" cy="500.000000" r="3.000000" style="fill:rgb(255,255,255); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'chrome_scrn_00000')"  onmouseout="hideTooltip('chrome_scrn_00000')"   >
@@ -548,71 +520,97 @@ chrome
 100%, 3203ms
 </title>
  </circle>
- </g><g id="chrome-tooltip-images">
-<image  id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-bameethainoodle-chrome_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_01925" href="../filmstrip/2025-07-11-android-15-ptablet-bameethainoodle-chrome_01925.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_02457" href="../filmstrip/2025-07-11-android-15-ptablet-bameethainoodle-chrome_02457.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_02521" href="../filmstrip/2025-07-11-android-15-ptablet-bameethainoodle-chrome_02521.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_02638" href="../filmstrip/2025-07-11-android-15-ptablet-bameethainoodle-chrome_02638.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_02672" href="../filmstrip/2025-07-11-android-15-ptablet-bameethainoodle-chrome_02672.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_02688" href="../filmstrip/2025-07-11-android-15-ptablet-bameethainoodle-chrome_02688.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_02704" href="../filmstrip/2025-07-11-android-15-ptablet-bameethainoodle-chrome_02704.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_02721" href="../filmstrip/2025-07-11-android-15-ptablet-bameethainoodle-chrome_02721.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_02737" href="../filmstrip/2025-07-11-android-15-ptablet-bameethainoodle-chrome_02737.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_02771" href="../filmstrip/2025-07-11-android-15-ptablet-bameethainoodle-chrome_02771.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_02822" href="../filmstrip/2025-07-11-android-15-ptablet-bameethainoodle-chrome_02822.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_02888" href="../filmstrip/2025-07-11-android-15-ptablet-bameethainoodle-chrome_02888.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_02904" href="../filmstrip/2025-07-11-android-15-ptablet-bameethainoodle-chrome_02904.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_02921" href="../filmstrip/2025-07-11-android-15-ptablet-bameethainoodle-chrome_02921.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_03005" href="../filmstrip/2025-07-11-android-15-ptablet-bameethainoodle-chrome_03005.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_03054" href="../filmstrip/2025-07-11-android-15-ptablet-bameethainoodle-chrome_03054.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_03104" href="../filmstrip/2025-07-11-android-15-ptablet-bameethainoodle-chrome_03104.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="chrome_scrn_03203" href="../filmstrip/2025-07-11-android-15-ptablet-bameethainoodle-chrome_03203.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
+ </g></svg>
+
+{:/}
+<g id="firefox-tooltip-images">
+<image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-bameethainoodle-firefox_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ crossorigin="anonymous" display="none"  />
+<image  id="firefox_scrn_02026" href="../filmstrip/2025-07-11-android-15-ptablet-bameethainoodle-firefox_02026.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ crossorigin="anonymous" display="none"  />
+<image  id="firefox_scrn_02396" href="../filmstrip/2025-07-11-android-15-ptablet-bameethainoodle-firefox_02396.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ crossorigin="anonymous" display="none"  />
+<image  id="firefox_scrn_02542" href="../filmstrip/2025-07-11-android-15-ptablet-bameethainoodle-firefox_02542.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ crossorigin="anonymous" display="none"  />
+<image  id="firefox_scrn_02607" href="../filmstrip/2025-07-11-android-15-ptablet-bameethainoodle-firefox_02607.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ crossorigin="anonymous" display="none"  />
+<image  id="firefox_scrn_02674" href="../filmstrip/2025-07-11-android-15-ptablet-bameethainoodle-firefox_02674.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ crossorigin="anonymous" display="none"  />
+<image  id="firefox_scrn_02691" href="../filmstrip/2025-07-11-android-15-ptablet-bameethainoodle-firefox_02691.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ crossorigin="anonymous" display="none"  />
+<image  id="firefox_scrn_02725" href="../filmstrip/2025-07-11-android-15-ptablet-bameethainoodle-firefox_02725.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ crossorigin="anonymous" display="none"  />
+<image  id="firefox_scrn_02773" href="../filmstrip/2025-07-11-android-15-ptablet-bameethainoodle-firefox_02773.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ crossorigin="anonymous" display="none"  />
+<image  id="firefox_scrn_02874" href="../filmstrip/2025-07-11-android-15-ptablet-bameethainoodle-firefox_02874.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ crossorigin="anonymous" display="none"  />
+<image  id="firefox_scrn_05419" href="../filmstrip/2025-07-11-android-15-ptablet-bameethainoodle-firefox_05419.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ crossorigin="anonymous" display="none"  />
+<image  id="firefox_scrn_05636" href="../filmstrip/2025-07-11-android-15-ptablet-bameethainoodle-firefox_05636.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ crossorigin="anonymous" display="none"  />
+<image  id="firefox_scrn_10179" href="../filmstrip/2025-07-11-android-15-ptablet-bameethainoodle-firefox_10179.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ crossorigin="anonymous" display="none"  />
 </g>
-</svg>
 
-{:/}
-{::nomarkdown}
-
-{:/}
-
-{::nomarkdown}
-
-{:/}
+<g id="chrome-tooltip-images">
+<image  id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-bameethainoodle-chrome_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ crossorigin="anonymous" display="none"  />
+<image  id="chrome_scrn_01925" href="../filmstrip/2025-07-11-android-15-ptablet-bameethainoodle-chrome_01925.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ crossorigin="anonymous" display="none"  />
+<image  id="chrome_scrn_02457" href="../filmstrip/2025-07-11-android-15-ptablet-bameethainoodle-chrome_02457.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ crossorigin="anonymous" display="none"  />
+<image  id="chrome_scrn_02521" href="../filmstrip/2025-07-11-android-15-ptablet-bameethainoodle-chrome_02521.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ crossorigin="anonymous" display="none"  />
+<image  id="chrome_scrn_02638" href="../filmstrip/2025-07-11-android-15-ptablet-bameethainoodle-chrome_02638.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ crossorigin="anonymous" display="none"  />
+<image  id="chrome_scrn_02672" href="../filmstrip/2025-07-11-android-15-ptablet-bameethainoodle-chrome_02672.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ crossorigin="anonymous" display="none"  />
+<image  id="chrome_scrn_02688" href="../filmstrip/2025-07-11-android-15-ptablet-bameethainoodle-chrome_02688.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ crossorigin="anonymous" display="none"  />
+<image  id="chrome_scrn_02704" href="../filmstrip/2025-07-11-android-15-ptablet-bameethainoodle-chrome_02704.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ crossorigin="anonymous" display="none"  />
+<image  id="chrome_scrn_02721" href="../filmstrip/2025-07-11-android-15-ptablet-bameethainoodle-chrome_02721.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ crossorigin="anonymous" display="none"  />
+<image  id="chrome_scrn_02737" href="../filmstrip/2025-07-11-android-15-ptablet-bameethainoodle-chrome_02737.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ crossorigin="anonymous" display="none"  />
+<image  id="chrome_scrn_02771" href="../filmstrip/2025-07-11-android-15-ptablet-bameethainoodle-chrome_02771.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ crossorigin="anonymous" display="none"  />
+<image  id="chrome_scrn_02822" href="../filmstrip/2025-07-11-android-15-ptablet-bameethainoodle-chrome_02822.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ crossorigin="anonymous" display="none"  />
+<image  id="chrome_scrn_02888" href="../filmstrip/2025-07-11-android-15-ptablet-bameethainoodle-chrome_02888.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ crossorigin="anonymous" display="none"  />
+<image  id="chrome_scrn_02904" href="../filmstrip/2025-07-11-android-15-ptablet-bameethainoodle-chrome_02904.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ crossorigin="anonymous" display="none"  />
+<image  id="chrome_scrn_02921" href="../filmstrip/2025-07-11-android-15-ptablet-bameethainoodle-chrome_02921.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ crossorigin="anonymous" display="none"  />
+<image  id="chrome_scrn_03005" href="../filmstrip/2025-07-11-android-15-ptablet-bameethainoodle-chrome_03005.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ crossorigin="anonymous" display="none"  />
+<image  id="chrome_scrn_03054" href="../filmstrip/2025-07-11-android-15-ptablet-bameethainoodle-chrome_03054.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ crossorigin="anonymous" display="none"  />
+<image  id="chrome_scrn_03104" href="../filmstrip/2025-07-11-android-15-ptablet-bameethainoodle-chrome_03104.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ crossorigin="anonymous" display="none"  />
+<image  id="chrome_scrn_03203" href="../filmstrip/2025-07-11-android-15-ptablet-bameethainoodle-chrome_03203.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ crossorigin="anonymous" display="none"  />
+</g>
 
 <script type="text/javascript" crossorigin="anonymous" id="tooltip-js"  >
 
     function showTooltip(event, tooltipId) {
       const tooltipimg = document.getElementById(tooltipId);
       if (tooltipimg) {
+	//tooltipimg.onload = function() {
 	const ge = tooltipimg.parentElement;
 	const svge = ge.parentElement;
 	const brect = ge.getBoundingClientRect();
 	const bx = brect.left;
 	const by = brect.top;
 
+	//const iheight = tooltipimg.offsetHeight; //!isNaN(iheight)
+	const iheight = 150;
 	tooltipimg.setAttribute('x', event.pageX - bx);
-	tooltipimg.setAttribute('y', event.pageY - by - tooltipimg.offsetHeight);
-	tooltipimg.setAttribute('visibility', 'visible');
+	tooltipimg.setAttribute('y', event.pageY - by - iheight);
+	//tooltipimg.setAttribute('visibility', 'visible');
+	tooltipimg.setAttribute('display', 'unset');
       } else {
 	console.error(`Element with ID "${tooltipId}" not found.`);
       }
@@ -621,7 +619,8 @@ chrome
 
     function hideTooltip(tooltipId) {
       const tooltipimg = document.getElementById(tooltipId);
-      tooltipimg.setAttribute('visibility', 'hidden');
+      //tooltipimg.setAttribute('visibility', 'hidden');
+      tooltipimg.setAttribute('display', 'none');
     }
     
 </script>
