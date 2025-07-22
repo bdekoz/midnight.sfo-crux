@@ -432,16 +432,29 @@ chrome
     function showTooltip(event, tooltipId) {
       const tooltipimg = document.getElementById(tooltipId);
       if (tooltipimg) {
+      	 // Add an event listener to ensure the image is fully loaded
+    	 imgElement.onload = function() {
 	const ge = tooltipimg.parentElement;
 	const svge = ge.parentElement;
 	const brect = ge.getBoundingClientRect();
 	const bx = brect.left;
 	const by = brect.top;
 
+	const iheight = tooltipimg.offsetHeight;
+	if (typeof iheight === 'number' && !isNaN(iheight)) {
+	  tooltipimg.setAttribute('y', event.pageY - by - iheight);
+	}
+	else {
+	  tooltipimg.setAttribute('y', event.pageY - by - 100);
+	  console.log("image ${tooltipId} height unknown, guessing 100")
+	}
+	
 	tooltipimg.setAttribute('x', event.pageX - bx);
-	tooltipimg.setAttribute('y', event.pageY - by - tooltipimg.offsetHeight);
+	tooltipimg.setAttribute('y', event.pageY - by - iheight);
 	tooltipimg.setAttribute('visibility', 'visible');
-      } else {
+	}
+      }
+      else {
 	console.error(`Element with ID "${tooltipId}" not found.`);
       }
     }
