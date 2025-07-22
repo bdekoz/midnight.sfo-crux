@@ -363,7 +363,47 @@ firefox
 100%, 13306ms
 </title>
  </path>
- </g> <g id="polyline-chrome">
+ </g><g id="firefox-tooltip-images">
+<image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-unitedreggae-firefox_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_02025" href="../filmstrip/2025-07-11-android-15-ptablet-unitedreggae-firefox_02025.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_03223" href="../filmstrip/2025-07-11-android-15-ptablet-unitedreggae-firefox_03223.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_03322" href="../filmstrip/2025-07-11-android-15-ptablet-unitedreggae-firefox_03322.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_03588" href="../filmstrip/2025-07-11-android-15-ptablet-unitedreggae-firefox_03588.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_03870" href="../filmstrip/2025-07-11-android-15-ptablet-unitedreggae-firefox_03870.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_04021" href="../filmstrip/2025-07-11-android-15-ptablet-unitedreggae-firefox_04021.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_04154" href="../filmstrip/2025-07-11-android-15-ptablet-unitedreggae-firefox_04154.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_04242" href="../filmstrip/2025-07-11-android-15-ptablet-unitedreggae-firefox_04242.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_04258" href="../filmstrip/2025-07-11-android-15-ptablet-unitedreggae-firefox_04258.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_04322" href="../filmstrip/2025-07-11-android-15-ptablet-unitedreggae-firefox_04322.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_04386" href="../filmstrip/2025-07-11-android-15-ptablet-unitedreggae-firefox_04386.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_04436" href="../filmstrip/2025-07-11-android-15-ptablet-unitedreggae-firefox_04436.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_04452" href="../filmstrip/2025-07-11-android-15-ptablet-unitedreggae-firefox_04452.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_04569" href="../filmstrip/2025-07-11-android-15-ptablet-unitedreggae-firefox_04569.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_04585" href="../filmstrip/2025-07-11-android-15-ptablet-unitedreggae-firefox_04585.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_04619" href="../filmstrip/2025-07-11-android-15-ptablet-unitedreggae-firefox_04619.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_08256" href="../filmstrip/2025-07-11-android-15-ptablet-unitedreggae-firefox_08256.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_13306" href="../filmstrip/2025-07-11-android-15-ptablet-unitedreggae-firefox_13306.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+</g>
+ <g id="polyline-chrome">
 <polyline points="100,500 201.165,276 257.14,276 257.981,244 261.453,244 266.714,160 267.766,164 268.713,164 269.345,156 277.236,156 278.078,152 286.021,152 286.968,156 292.176,156 293.071,152 298.226,152 299.226,140 308.011,140 308.853,128 314.114,128 315.008,124 315.85,124 316.797,104 322.899,104 325.372,100 537.276,100 538.118,104 553.848,104 717.037,100 " stroke-dasharray="3" stroke-linecap="round"  style="fill:rgb(148,148,148); fill-opacity:0; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1" />
  </g> <g id="markers-chrome">
  <circle cx="100.000000" cy="500.000000" r="3.000000" style="fill:rgb(255,255,255); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'chrome_scrn_00000')"  onmouseout="hideTooltip('chrome_scrn_00000')"   >
@@ -462,55 +502,7 @@ chrome
 100%, 11729ms
 </title>
  </circle>
- </g></svg>
-
-{:/}
-{::nomarkdown}
-<g id="firefox-tooltip-images">
-<image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-unitedreggae-firefox_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_02025" href="../filmstrip/2025-07-11-android-15-ptablet-unitedreggae-firefox_02025.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_03223" href="../filmstrip/2025-07-11-android-15-ptablet-unitedreggae-firefox_03223.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_03322" href="../filmstrip/2025-07-11-android-15-ptablet-unitedreggae-firefox_03322.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_03588" href="../filmstrip/2025-07-11-android-15-ptablet-unitedreggae-firefox_03588.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_03870" href="../filmstrip/2025-07-11-android-15-ptablet-unitedreggae-firefox_03870.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_04021" href="../filmstrip/2025-07-11-android-15-ptablet-unitedreggae-firefox_04021.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_04154" href="../filmstrip/2025-07-11-android-15-ptablet-unitedreggae-firefox_04154.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_04242" href="../filmstrip/2025-07-11-android-15-ptablet-unitedreggae-firefox_04242.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_04258" href="../filmstrip/2025-07-11-android-15-ptablet-unitedreggae-firefox_04258.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_04322" href="../filmstrip/2025-07-11-android-15-ptablet-unitedreggae-firefox_04322.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_04386" href="../filmstrip/2025-07-11-android-15-ptablet-unitedreggae-firefox_04386.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_04436" href="../filmstrip/2025-07-11-android-15-ptablet-unitedreggae-firefox_04436.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_04452" href="../filmstrip/2025-07-11-android-15-ptablet-unitedreggae-firefox_04452.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_04569" href="../filmstrip/2025-07-11-android-15-ptablet-unitedreggae-firefox_04569.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_04585" href="../filmstrip/2025-07-11-android-15-ptablet-unitedreggae-firefox_04585.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_04619" href="../filmstrip/2025-07-11-android-15-ptablet-unitedreggae-firefox_04619.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_08256" href="../filmstrip/2025-07-11-android-15-ptablet-unitedreggae-firefox_08256.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_13306" href="../filmstrip/2025-07-11-android-15-ptablet-unitedreggae-firefox_13306.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-</g>
-
-{:/}
-
-{::nomarkdown}
-<g id="chrome-tooltip-images">
+ </g><g id="chrome-tooltip-images">
 <image  id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-unitedreggae-chrome_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
 <image  id="chrome_scrn_01923" href="../filmstrip/2025-07-11-android-15-ptablet-unitedreggae-chrome_01923.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
@@ -544,6 +536,14 @@ chrome
 <image  id="chrome_scrn_11729" href="../filmstrip/2025-07-11-android-15-ptablet-unitedreggae-chrome_11729.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
 </g>
+</svg>
+
+{:/}
+{::nomarkdown}
+
+{:/}
+
+{::nomarkdown}
 
 {:/}
 

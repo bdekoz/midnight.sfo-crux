@@ -482,62 +482,7 @@ firefox
 100%, 18547ms
 </title>
  </path>
- </g> <g id="polyline-chrome">
-<polyline points="100,500 165.132,268 324.093,268 358.745,172 362.681,172 363.791,100 379.468,100 380.04,104 402.446,104 403.086,100 425.962,100 426.467,104 465.627,104 466.3,100 " stroke-dasharray="3" stroke-linecap="round"  style="fill:rgb(148,148,148); fill-opacity:0; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1" />
- </g> <g id="markers-chrome">
- <circle cx="100.000000" cy="500.000000" r="3.000000" style="fill:rgb(255,255,255); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'chrome_scrn_00000')"  onmouseout="hideTooltip('chrome_scrn_00000')"   >
-<title>
-chrome
-0%, 0ms
-</title>
- </circle>
-<circle cx="165.131927" cy="268.000000" r="3.000000" style="fill:rgb(255,255,255); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'chrome_scrn_01936')"  onmouseout="hideTooltip('chrome_scrn_01936')"   >
-<title>
-chrome
-58%, 1936ms
-</title>
- </circle>
-<circle cx="358.744653" cy="172.000000" r="3.000000" style="fill:rgb(255,255,255); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'chrome_scrn_07691')"  onmouseout="hideTooltip('chrome_scrn_07691')"   >
-<title>
-chrome
-82%, 7691ms
-</title>
- </circle>
-<circle cx="363.791032" cy="100.000000" r="3.000000" style="fill:rgb(255,255,255); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'chrome_scrn_07841')"  onmouseout="hideTooltip('chrome_scrn_07841')"   >
-<title>
-chrome
-100%, 7841ms
-</title>
- </circle>
-<circle cx="380.040371" cy="104.000000" r="3.000000" style="fill:rgb(255,255,255); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'chrome_scrn_08324')"  onmouseout="hideTooltip('chrome_scrn_08324')"   >
-<title>
-chrome
-99%, 8324ms
-</title>
- </circle>
-<circle cx="403.085500" cy="100.000000" r="3.000000" style="fill:rgb(255,255,255); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'chrome_scrn_09009')"  onmouseout="hideTooltip('chrome_scrn_09009')"   >
-<title>
-chrome
-100%, 9009ms
-</title>
- </circle>
-<circle cx="426.467054" cy="104.000000" r="3.000000" style="fill:rgb(255,255,255); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'chrome_scrn_09704')"  onmouseout="hideTooltip('chrome_scrn_09704')"   >
-<title>
-chrome
-99%, 9704ms
-</title>
- </circle>
-<circle cx="466.299803" cy="100.000000" r="3.000000" style="fill:rgb(255,255,255); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'chrome_scrn_10888')"  onmouseout="hideTooltip('chrome_scrn_10888')"   >
-<title>
-chrome
-100%, 10888ms
-</title>
- </circle>
- </g></svg>
-
-{:/}
-{::nomarkdown}
-<g id="firefox-tooltip-images">
+ </g><g id="firefox-tooltip-images">
 <image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-artesp-firefox_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
 <image  id="firefox_scrn_02036" href="../filmstrip/2025-07-11-android-15-ptablet-artesp-firefox_02036.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
@@ -591,11 +536,58 @@ chrome
 <image  id="firefox_scrn_18547" href="../filmstrip/2025-07-11-android-15-ptablet-artesp-firefox_18547.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
 </g>
-
-{:/}
-
-{::nomarkdown}
-<g id="chrome-tooltip-images">
+ <g id="polyline-chrome">
+<polyline points="100,500 165.132,268 324.093,268 358.745,172 362.681,172 363.791,100 379.468,100 380.04,104 402.446,104 403.086,100 425.962,100 426.467,104 465.627,104 466.3,100 " stroke-dasharray="3" stroke-linecap="round"  style="fill:rgb(148,148,148); fill-opacity:0; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1" />
+ </g> <g id="markers-chrome">
+ <circle cx="100.000000" cy="500.000000" r="3.000000" style="fill:rgb(255,255,255); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'chrome_scrn_00000')"  onmouseout="hideTooltip('chrome_scrn_00000')"   >
+<title>
+chrome
+0%, 0ms
+</title>
+ </circle>
+<circle cx="165.131927" cy="268.000000" r="3.000000" style="fill:rgb(255,255,255); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'chrome_scrn_01936')"  onmouseout="hideTooltip('chrome_scrn_01936')"   >
+<title>
+chrome
+58%, 1936ms
+</title>
+ </circle>
+<circle cx="358.744653" cy="172.000000" r="3.000000" style="fill:rgb(255,255,255); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'chrome_scrn_07691')"  onmouseout="hideTooltip('chrome_scrn_07691')"   >
+<title>
+chrome
+82%, 7691ms
+</title>
+ </circle>
+<circle cx="363.791032" cy="100.000000" r="3.000000" style="fill:rgb(255,255,255); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'chrome_scrn_07841')"  onmouseout="hideTooltip('chrome_scrn_07841')"   >
+<title>
+chrome
+100%, 7841ms
+</title>
+ </circle>
+<circle cx="380.040371" cy="104.000000" r="3.000000" style="fill:rgb(255,255,255); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'chrome_scrn_08324')"  onmouseout="hideTooltip('chrome_scrn_08324')"   >
+<title>
+chrome
+99%, 8324ms
+</title>
+ </circle>
+<circle cx="403.085500" cy="100.000000" r="3.000000" style="fill:rgb(255,255,255); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'chrome_scrn_09009')"  onmouseout="hideTooltip('chrome_scrn_09009')"   >
+<title>
+chrome
+100%, 9009ms
+</title>
+ </circle>
+<circle cx="426.467054" cy="104.000000" r="3.000000" style="fill:rgb(255,255,255); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'chrome_scrn_09704')"  onmouseout="hideTooltip('chrome_scrn_09704')"   >
+<title>
+chrome
+99%, 9704ms
+</title>
+ </circle>
+<circle cx="466.299803" cy="100.000000" r="3.000000" style="fill:rgb(255,255,255); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'chrome_scrn_10888')"  onmouseout="hideTooltip('chrome_scrn_10888')"   >
+<title>
+chrome
+100%, 10888ms
+</title>
+ </circle>
+ </g><g id="chrome-tooltip-images">
 <image  id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-artesp-chrome_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
 <image  id="chrome_scrn_01936" href="../filmstrip/2025-07-11-android-15-ptablet-artesp-chrome_01936.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
@@ -613,6 +605,14 @@ chrome
 <image  id="chrome_scrn_10888" href="../filmstrip/2025-07-11-android-15-ptablet-artesp-chrome_10888.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
 </g>
+</svg>
+
+{:/}
+{::nomarkdown}
+
+{:/}
+
+{::nomarkdown}
 
 {:/}
 

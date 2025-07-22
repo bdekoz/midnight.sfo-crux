@@ -459,7 +459,57 @@ firefox
 99%, 17432ms
 </title>
  </path>
- </g> <g id="polyline-chrome">
+ </g><g id="firefox-tooltip-images">
+<image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vazhnoznat-firefox_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_02043" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vazhnoznat-firefox_02043.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_07231" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vazhnoznat-firefox_07231.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_07332" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vazhnoznat-firefox_07332.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_07383" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vazhnoznat-firefox_07383.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_07565" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vazhnoznat-firefox_07565.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_07730" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vazhnoznat-firefox_07730.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_07778" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vazhnoznat-firefox_07778.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_07813" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vazhnoznat-firefox_07813.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_07946" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vazhnoznat-firefox_07946.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_07963" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vazhnoznat-firefox_07963.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_08115" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vazhnoznat-firefox_08115.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_08179" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vazhnoznat-firefox_08179.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_08431" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vazhnoznat-firefox_08431.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_09847" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vazhnoznat-firefox_09847.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_09861" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vazhnoznat-firefox_09861.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_11975" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vazhnoznat-firefox_11975.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_14838" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vazhnoznat-firefox_14838.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_16417" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vazhnoznat-firefox_16417.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_16450" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vazhnoznat-firefox_16450.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_17365" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vazhnoznat-firefox_17365.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_17399" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vazhnoznat-firefox_17399.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_17417" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vazhnoznat-firefox_17417.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_17432" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vazhnoznat-firefox_17432.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+</g>
+ <g id="polyline-chrome">
 <polyline points="100,500 169.821,272 305.333,272 308.313,224 308.959,224 309.533,212 322.708,212 323.282,196 328.703,196 329.349,176 329.851,176 330.462,148 333.441,148 334.015,140 337.031,140 337.605,136 339.974,136 341.267,124 342.487,124 344.21,120 356.738,120 391.451,104 398.595,104 402.795,100 403.441,104 404.015,100 404.554,104 405.164,100 405.774,104 406.385,100 406.959,104 407.533,100 408.144,104 408.682,100 409.364,104 409.974,100 410.513,104 411.123,100 411.769,104 412.344,100 412.846,104 413.6,100 414.103,104 414.713,100 415.287,104 416.005,100 " stroke-dasharray="3" stroke-linecap="round"  style="fill:rgb(148,148,148); fill-opacity:0; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1" />
  </g> <g id="markers-chrome">
  <circle cx="100.000000" cy="500.000000" r="3.000000" style="fill:rgb(255,255,255); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'chrome_scrn_00000')"  onmouseout="hideTooltip('chrome_scrn_00000')"   >
@@ -528,65 +578,7 @@ chrome
 95%, 6803ms
 </title>
  </circle>
- </g></svg>
-
-{:/}
-{::nomarkdown}
-<g id="firefox-tooltip-images">
-<image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vazhnoznat-firefox_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_02043" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vazhnoznat-firefox_02043.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_07231" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vazhnoznat-firefox_07231.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_07332" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vazhnoznat-firefox_07332.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_07383" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vazhnoznat-firefox_07383.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_07565" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vazhnoznat-firefox_07565.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_07730" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vazhnoznat-firefox_07730.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_07778" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vazhnoznat-firefox_07778.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_07813" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vazhnoznat-firefox_07813.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_07946" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vazhnoznat-firefox_07946.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_07963" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vazhnoznat-firefox_07963.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_08115" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vazhnoznat-firefox_08115.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_08179" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vazhnoznat-firefox_08179.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_08431" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vazhnoznat-firefox_08431.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_09847" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vazhnoznat-firefox_09847.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_09861" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vazhnoznat-firefox_09861.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_11975" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vazhnoznat-firefox_11975.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_14838" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vazhnoznat-firefox_14838.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_16417" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vazhnoznat-firefox_16417.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_16450" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vazhnoznat-firefox_16450.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_17365" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vazhnoznat-firefox_17365.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_17399" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vazhnoznat-firefox_17399.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_17417" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vazhnoznat-firefox_17417.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_17432" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vazhnoznat-firefox_17432.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-</g>
-
-{:/}
-
-{::nomarkdown}
-<g id="chrome-tooltip-images">
+ </g><g id="chrome-tooltip-images">
 <image  id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vazhnoznat-chrome_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
 <image  id="chrome_scrn_01945" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vazhnoznat-chrome_01945.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
@@ -610,6 +602,14 @@ chrome
 <image  id="chrome_scrn_06803" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-vazhnoznat-chrome_06803.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
 </g>
+</svg>
+
+{:/}
+{::nomarkdown}
+
+{:/}
+
+{::nomarkdown}
 
 {:/}
 

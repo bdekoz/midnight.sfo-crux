@@ -464,7 +464,37 @@ firefox
 99%, 5360ms
 </title>
  </path>
- </g> <g id="polyline-chrome">
+ </g><g id="firefox-tooltip-images">
+<image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-panske_tricka_heureka_sk-firefox_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_00436" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-panske_tricka_heureka_sk-firefox_00436.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_01903" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-panske_tricka_heureka_sk-firefox_01903.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_02931" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-panske_tricka_heureka_sk-firefox_02931.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_03147" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-panske_tricka_heureka_sk-firefox_03147.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_03613" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-panske_tricka_heureka_sk-firefox_03613.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_04229" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-panske_tricka_heureka_sk-firefox_04229.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_04578" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-panske_tricka_heureka_sk-firefox_04578.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_04827" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-panske_tricka_heureka_sk-firefox_04827.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_04844" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-panske_tricka_heureka_sk-firefox_04844.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_05077" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-panske_tricka_heureka_sk-firefox_05077.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_05094" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-panske_tricka_heureka_sk-firefox_05094.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_05210" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-panske_tricka_heureka_sk-firefox_05210.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_05360" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-panske_tricka_heureka_sk-firefox_05360.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+</g>
+ <g id="polyline-chrome">
 <polyline points="100,500 206.272,236 275.568,236 289.969,208 290.998,208 292.784,204 324.184,204 325.104,100 328.677,100 332.305,104 333.333,100 336.906,100 337.827,104 345.027,104 345.893,100 346.651,100 350.278,104 356.613,104 358.399,100 359.319,100 362.892,104 366.628,100 370.093,104 375.507,100 380.974,104 387.254,100 388.283,104 391.748,100 394.563,104 396.241,100 397.27,104 398.19,100 546.636,100 548.585,104 549.505,100 550.48,104 551.346,100 552.266,104 553.186,100 553.998,104 555.027,100 555.947,104 556.814,100 557.734,104 558.546,100 559.575,104 560.441,100 561.307,104 562.227,100 563.094,104 563.96,100 564.88,104 565.8,100 566.883,104 567.533,100 568.507,104 569.374,100 570.24,104 571.16,100 572.08,104 572.892,100 574.029,104 574.679,100 575.708,104 576.52,100 577.494,104 682.034,100 " stroke-dasharray="3" stroke-linecap="round"  style="fill:rgb(148,148,148); fill-opacity:0; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1" />
  </g> <g id="markers-chrome">
  <circle cx="100.000000" cy="500.000000" r="3.000000" style="fill:rgb(255,255,255); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'chrome_scrn_00000')"  onmouseout="hideTooltip('chrome_scrn_00000')"   >
@@ -803,45 +833,7 @@ chrome
 99%, 8820ms
 </title>
  </circle>
- </g></svg>
-
-{:/}
-{::nomarkdown}
-<g id="firefox-tooltip-images">
-<image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-panske_tricka_heureka_sk-firefox_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_00436" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-panske_tricka_heureka_sk-firefox_00436.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_01903" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-panske_tricka_heureka_sk-firefox_01903.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_02931" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-panske_tricka_heureka_sk-firefox_02931.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_03147" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-panske_tricka_heureka_sk-firefox_03147.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_03613" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-panske_tricka_heureka_sk-firefox_03613.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_04229" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-panske_tricka_heureka_sk-firefox_04229.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_04578" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-panske_tricka_heureka_sk-firefox_04578.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_04827" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-panske_tricka_heureka_sk-firefox_04827.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_04844" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-panske_tricka_heureka_sk-firefox_04844.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_05077" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-panske_tricka_heureka_sk-firefox_05077.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_05094" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-panske_tricka_heureka_sk-firefox_05094.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_05210" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-panske_tricka_heureka_sk-firefox_05210.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_05360" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-panske_tricka_heureka_sk-firefox_05360.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-</g>
-
-{:/}
-
-{::nomarkdown}
-<g id="chrome-tooltip-images">
+ </g><g id="chrome-tooltip-images">
 <image  id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-panske_tricka_heureka_sk-chrome_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
 <image  id="chrome_scrn_01963" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-panske_tricka_heureka_sk-chrome_01963.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
@@ -955,6 +947,14 @@ chrome
 <image  id="chrome_scrn_08820" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-panske_tricka_heureka_sk-chrome_08820.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
 </g>
+</svg>
+
+{:/}
+{::nomarkdown}
+
+{:/}
+
+{::nomarkdown}
 
 {:/}
 

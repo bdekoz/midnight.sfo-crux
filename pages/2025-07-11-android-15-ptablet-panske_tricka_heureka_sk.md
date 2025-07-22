@@ -84,21 +84,21 @@ annotation line graph for SpeedIndexProgress
  </g> <g id="polyline-firefox">
 <polyline  style="fill:rgb(46,46,46); fill-opacity:0; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1" />
  </g> <g id="markers-firefox">
-  </g> <g id="polyline-chrome">
+  </g><g id="firefox-tooltip-images">
+</g>
+ <g id="polyline-chrome">
 <polyline  style="fill:rgb(148,148,148); fill-opacity:0; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1" />
  </g> <g id="markers-chrome">
-  </g></svg>
+  </g><g id="chrome-tooltip-images">
+</g>
+</svg>
 
 {:/}
 {::nomarkdown}
-<g id="firefox-tooltip-images">
-</g>
 
 {:/}
 
 {::nomarkdown}
-<g id="chrome-tooltip-images">
-</g>
 
 {:/}
 

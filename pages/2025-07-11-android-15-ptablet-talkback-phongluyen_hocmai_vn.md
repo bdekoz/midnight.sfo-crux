@@ -389,7 +389,19 @@ firefox
 99%, 5089ms
 </title>
  </path>
- </g> <g id="polyline-chrome">
+ </g><g id="firefox-tooltip-images">
+<image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-phongluyen_hocmai_vn-firefox_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_01997" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-phongluyen_hocmai_vn-firefox_01997.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_04158" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-phongluyen_hocmai_vn-firefox_04158.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_04989" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-phongluyen_hocmai_vn-firefox_04989.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_05089" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-phongluyen_hocmai_vn-firefox_05089.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+</g>
+ <g id="polyline-chrome">
 <polyline points="100,500 137.53,500 219.869,300 339.081,300 339.916,296 340.931,296 341.885,292 360.919,292 410.501,104 597.017,104 597.971,100 606.921,100 607.995,104 614.021,104 615.99,100 " stroke-dasharray="3" stroke-linecap="round"  style="fill:rgb(148,148,148); fill-opacity:0; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1" />
  </g> <g id="markers-chrome">
  <circle cx="100.000000" cy="500.000000" r="3.000000" style="fill:rgb(255,255,255); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'chrome_scrn_00000')"  onmouseout="hideTooltip('chrome_scrn_00000')"   >
@@ -440,27 +452,7 @@ chrome
 100%, 8648ms
 </title>
  </circle>
- </g></svg>
-
-{:/}
-{::nomarkdown}
-<g id="firefox-tooltip-images">
-<image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-phongluyen_hocmai_vn-firefox_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_01997" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-phongluyen_hocmai_vn-firefox_01997.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_04158" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-phongluyen_hocmai_vn-firefox_04158.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_04989" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-phongluyen_hocmai_vn-firefox_04989.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_05089" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-phongluyen_hocmai_vn-firefox_05089.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-</g>
-
-{:/}
-
-{::nomarkdown}
-<g id="chrome-tooltip-images">
+ </g><g id="chrome-tooltip-images">
 <image  id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-phongluyen_hocmai_vn-chrome_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
 <image  id="chrome_scrn_02009" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-phongluyen_hocmai_vn-chrome_02009.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
@@ -478,6 +470,14 @@ chrome
 <image  id="chrome_scrn_08648" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-phongluyen_hocmai_vn-chrome_08648.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
 </g>
+</svg>
+
+{:/}
+{::nomarkdown}
+
+{:/}
+
+{::nomarkdown}
 
 {:/}
 

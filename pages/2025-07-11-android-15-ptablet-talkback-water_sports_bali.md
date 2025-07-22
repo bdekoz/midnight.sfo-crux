@@ -372,7 +372,21 @@ firefox
 100%, 10909ms
 </title>
  </path>
- </g> <g id="polyline-chrome">
+ </g><g id="firefox-tooltip-images">
+<image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-water_sports_bali-firefox_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_02008" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-water_sports_bali-firefox_02008.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_02639" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-water_sports_bali-firefox_02639.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_02755" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-water_sports_bali-firefox_02755.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_02906" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-water_sports_bali-firefox_02906.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_10909" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-water_sports_bali-firefox_10909.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+</g>
+ <g id="polyline-chrome">
 <polyline points="100,500 225.832,264 268.503,264 273.765,136 274.856,136 275.946,120 284.481,120 285.572,104 309.057,104 415.959,100 " stroke-dasharray="3" stroke-linecap="round"  style="fill:rgb(148,148,148); fill-opacity:0; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1" />
  </g> <g id="markers-chrome">
  <circle cx="100.000000" cy="500.000000" r="3.000000" style="fill:rgb(255,255,255); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'chrome_scrn_00000')"  onmouseout="hideTooltip('chrome_scrn_00000')"   >
@@ -411,29 +425,7 @@ chrome
 100%, 4924ms
 </title>
  </circle>
- </g></svg>
-
-{:/}
-{::nomarkdown}
-<g id="firefox-tooltip-images">
-<image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-water_sports_bali-firefox_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_02008" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-water_sports_bali-firefox_02008.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_02639" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-water_sports_bali-firefox_02639.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_02755" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-water_sports_bali-firefox_02755.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_02906" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-water_sports_bali-firefox_02906.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_10909" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-water_sports_bali-firefox_10909.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-</g>
-
-{:/}
-
-{::nomarkdown}
-<g id="chrome-tooltip-images">
+ </g><g id="chrome-tooltip-images">
 <image  id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-water_sports_bali-chrome_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
 <image  id="chrome_scrn_01961" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-water_sports_bali-chrome_01961.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
@@ -447,6 +439,14 @@ chrome
 <image  id="chrome_scrn_04924" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-water_sports_bali-chrome_04924.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
 </g>
+</svg>
+
+{:/}
+{::nomarkdown}
+
+{:/}
+
+{::nomarkdown}
 
 {:/}
 

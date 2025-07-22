@@ -459,7 +459,35 @@ firefox
 100%, 6637ms
 </title>
  </path>
- </g> <g id="polyline-chrome">
+ </g><g id="firefox-tooltip-images">
+<image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-warehouse13_higherincomejobs-firefox_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_02063" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-warehouse13_higherincomejobs-firefox_02063.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_03143" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-warehouse13_higherincomejobs-firefox_03143.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_03161" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-warehouse13_higherincomejobs-firefox_03161.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_03225" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-warehouse13_higherincomejobs-firefox_03225.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_03607" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-warehouse13_higherincomejobs-firefox_03607.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_04108" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-warehouse13_higherincomejobs-firefox_04108.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_04441" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-warehouse13_higherincomejobs-firefox_04441.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_04523" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-warehouse13_higherincomejobs-firefox_04523.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_04589" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-warehouse13_higherincomejobs-firefox_04589.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_04640" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-warehouse13_higherincomejobs-firefox_04640.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_06621" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-warehouse13_higherincomejobs-firefox_06621.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+<image  id="firefox_scrn_06637" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-warehouse13_higherincomejobs-firefox_06637.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
+ visibility="hidden" crossorigin="anonymous"  />
+</g>
+ <g id="polyline-chrome">
 <polyline points="100,500 206.323,300 275.937,300 276.984,296 280.512,288 286.961,288 289.717,284 319.094,284 320.913,292 427.236,292 428.283,296 431.039,296 432.031,292 432.858,292 433.795,288 434.732,284 435.559,272 436.606,268 437.488,264 438.48,260 439.362,252 440.409,204 441.126,112 442.063,104 445.701,104 474.142,100 " stroke-dasharray="3" stroke-linecap="round"  style="fill:rgb(148,148,148); fill-opacity:0; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1" />
  </g> <g id="markers-chrome">
  <circle cx="100.000000" cy="500.000000" r="3.000000" style="fill:rgb(255,255,255); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'chrome_scrn_00000')"  onmouseout="hideTooltip('chrome_scrn_00000')"   >
@@ -498,43 +526,7 @@ chrome
 52%, 4008ms
 </title>
  </circle>
- </g></svg>
-
-{:/}
-{::nomarkdown}
-<g id="firefox-tooltip-images">
-<image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-warehouse13_higherincomejobs-firefox_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_02063" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-warehouse13_higherincomejobs-firefox_02063.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_03143" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-warehouse13_higherincomejobs-firefox_03143.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_03161" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-warehouse13_higherincomejobs-firefox_03161.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_03225" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-warehouse13_higherincomejobs-firefox_03225.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_03607" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-warehouse13_higherincomejobs-firefox_03607.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_04108" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-warehouse13_higherincomejobs-firefox_04108.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_04441" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-warehouse13_higherincomejobs-firefox_04441.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_04523" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-warehouse13_higherincomejobs-firefox_04523.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_04589" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-warehouse13_higherincomejobs-firefox_04589.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_04640" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-warehouse13_higherincomejobs-firefox_04640.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_06621" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-warehouse13_higherincomejobs-firefox_06621.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-<image  id="firefox_scrn_06637" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-warehouse13_higherincomejobs-firefox_06637.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- visibility="hidden" crossorigin="anonymous"  />
-</g>
-
-{:/}
-
-{::nomarkdown}
-<g id="chrome-tooltip-images">
+ </g><g id="chrome-tooltip-images">
 <image  id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-warehouse13_higherincomejobs-chrome_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
 <image  id="chrome_scrn_01929" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-warehouse13_higherincomejobs-chrome_01929.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
@@ -548,6 +540,14 @@ chrome
 <image  id="chrome_scrn_04008" href="../filmstrip/2025-07-11-android-15-ptablet-talkback-warehouse13_higherincomejobs-chrome_04008.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
  visibility="hidden" crossorigin="anonymous"  />
 </g>
+</svg>
+
+{:/}
+{::nomarkdown}
+
+{:/}
+
+{::nomarkdown}
 
 {:/}
 
