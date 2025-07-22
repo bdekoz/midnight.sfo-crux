@@ -451,7 +451,7 @@ chrome
 {:/}
 
 <script type="text/javascript" crossorigin="anonymous" id="tooltip-js"  >
-
+// this is a comment
     function showTooltip(event, tooltipId) {
       const tooltipimg = document.getElementById(tooltipId);
       if (tooltipimg) {
