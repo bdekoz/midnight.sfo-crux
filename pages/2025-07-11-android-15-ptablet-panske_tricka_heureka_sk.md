@@ -89,20 +89,18 @@ annotation line graph for SpeedIndexProgress
  </g>
  <g id="markers-firefox">
   </g>
-<g id="firefox-tooltip-images">
-</g>
  <g id="polyline-chrome">
 <polyline  style="fill:rgb(148,148,148); fill-opacity:0; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1" />
  </g>
  <g id="markers-chrome">
   </g>
-<g id="chrome-tooltip-images">
+ <g id="firefox-tooltip-images">
+</g>
+ <g id="chrome-tooltip-images">
 </g>
 </svg>
 
 {:/}
-
-
 <script type="text/javascript" crossorigin="anonymous" id="tooltip-js"  >
 
     function showTooltip(event, tooltipId) {

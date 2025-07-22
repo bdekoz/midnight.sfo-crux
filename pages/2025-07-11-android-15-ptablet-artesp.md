@@ -487,34 +487,6 @@ firefox
 </title>
  </path>
  </g>
-<g id="firefox-tooltip-images">
-<image id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-artesp-firefox_00000.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_02036" href="../filmstrip/2025-07-11-android-15-ptablet-artesp-firefox_02036.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_08311" href="../filmstrip/2025-07-11-android-15-ptablet-artesp-firefox_08311.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_08329" href="../filmstrip/2025-07-11-android-15-ptablet-artesp-firefox_08329.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_08361" href="../filmstrip/2025-07-11-android-15-ptablet-artesp-firefox_08361.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_08412" href="../filmstrip/2025-07-11-android-15-ptablet-artesp-firefox_08412.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_09127" href="../filmstrip/2025-07-11-android-15-ptablet-artesp-firefox_09127.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_09243" href="../filmstrip/2025-07-11-android-15-ptablet-artesp-firefox_09243.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_09276" href="../filmstrip/2025-07-11-android-15-ptablet-artesp-firefox_09276.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_09293" href="../filmstrip/2025-07-11-android-15-ptablet-artesp-firefox_09293.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_09360" href="../filmstrip/2025-07-11-android-15-ptablet-artesp-firefox_09360.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_09377" href="../filmstrip/2025-07-11-android-15-ptablet-artesp-firefox_09377.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_09443" href="../filmstrip/2025-07-11-android-15-ptablet-artesp-firefox_09443.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_17515" href="../filmstrip/2025-07-11-android-15-ptablet-artesp-firefox_17515.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_17581" href="../filmstrip/2025-07-11-android-15-ptablet-artesp-firefox_17581.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_17597" href="../filmstrip/2025-07-11-android-15-ptablet-artesp-firefox_17597.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_17613" href="../filmstrip/2025-07-11-android-15-ptablet-artesp-firefox_17613.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_17646" href="../filmstrip/2025-07-11-android-15-ptablet-artesp-firefox_17646.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_17965" href="../filmstrip/2025-07-11-android-15-ptablet-artesp-firefox_17965.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_17980" href="../filmstrip/2025-07-11-android-15-ptablet-artesp-firefox_17980.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_18098" href="../filmstrip/2025-07-11-android-15-ptablet-artesp-firefox_18098.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_18130" href="../filmstrip/2025-07-11-android-15-ptablet-artesp-firefox_18130.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_18431" href="../filmstrip/2025-07-11-android-15-ptablet-artesp-firefox_18431.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_18447" href="../filmstrip/2025-07-11-android-15-ptablet-artesp-firefox_18447.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_18531" href="../filmstrip/2025-07-11-android-15-ptablet-artesp-firefox_18531.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_18547" href="../filmstrip/2025-07-11-android-15-ptablet-artesp-firefox_18547.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
-</g>
  <g id="polyline-chrome">
 <polyline points="100,500 165.132,268 324.093,268 358.745,172 362.681,172 363.791,100 379.468,100 380.04,104 402.446,104 403.086,100 425.962,100 426.467,104 465.627,104 466.3,100 " stroke-dasharray="3" stroke-linecap="round"  style="fill:rgb(148,148,148); fill-opacity:0; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1" />
  </g>
@@ -568,7 +540,35 @@ chrome
 </title>
  </circle>
  </g>
-<g id="chrome-tooltip-images">
+ <g id="firefox-tooltip-images">
+<image id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-artesp-firefox_00000.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_02036" href="../filmstrip/2025-07-11-android-15-ptablet-artesp-firefox_02036.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_08311" href="../filmstrip/2025-07-11-android-15-ptablet-artesp-firefox_08311.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_08329" href="../filmstrip/2025-07-11-android-15-ptablet-artesp-firefox_08329.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_08361" href="../filmstrip/2025-07-11-android-15-ptablet-artesp-firefox_08361.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_08412" href="../filmstrip/2025-07-11-android-15-ptablet-artesp-firefox_08412.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_09127" href="../filmstrip/2025-07-11-android-15-ptablet-artesp-firefox_09127.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_09243" href="../filmstrip/2025-07-11-android-15-ptablet-artesp-firefox_09243.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_09276" href="../filmstrip/2025-07-11-android-15-ptablet-artesp-firefox_09276.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_09293" href="../filmstrip/2025-07-11-android-15-ptablet-artesp-firefox_09293.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_09360" href="../filmstrip/2025-07-11-android-15-ptablet-artesp-firefox_09360.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_09377" href="../filmstrip/2025-07-11-android-15-ptablet-artesp-firefox_09377.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_09443" href="../filmstrip/2025-07-11-android-15-ptablet-artesp-firefox_09443.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_17515" href="../filmstrip/2025-07-11-android-15-ptablet-artesp-firefox_17515.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_17581" href="../filmstrip/2025-07-11-android-15-ptablet-artesp-firefox_17581.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_17597" href="../filmstrip/2025-07-11-android-15-ptablet-artesp-firefox_17597.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_17613" href="../filmstrip/2025-07-11-android-15-ptablet-artesp-firefox_17613.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_17646" href="../filmstrip/2025-07-11-android-15-ptablet-artesp-firefox_17646.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_17965" href="../filmstrip/2025-07-11-android-15-ptablet-artesp-firefox_17965.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_17980" href="../filmstrip/2025-07-11-android-15-ptablet-artesp-firefox_17980.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_18098" href="../filmstrip/2025-07-11-android-15-ptablet-artesp-firefox_18098.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_18130" href="../filmstrip/2025-07-11-android-15-ptablet-artesp-firefox_18130.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_18431" href="../filmstrip/2025-07-11-android-15-ptablet-artesp-firefox_18431.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_18447" href="../filmstrip/2025-07-11-android-15-ptablet-artesp-firefox_18447.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_18531" href="../filmstrip/2025-07-11-android-15-ptablet-artesp-firefox_18531.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_18547" href="../filmstrip/2025-07-11-android-15-ptablet-artesp-firefox_18547.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
+</g>
+ <g id="chrome-tooltip-images">
 <image id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-artesp-chrome_00000.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
 <image id="chrome_scrn_01936" href="../filmstrip/2025-07-11-android-15-ptablet-artesp-chrome_01936.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
 <image id="chrome_scrn_07691" href="../filmstrip/2025-07-11-android-15-ptablet-artesp-chrome_07691.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
@@ -581,8 +581,6 @@ chrome
 </svg>
 
 {:/}
-
-
 <script type="text/javascript" crossorigin="anonymous" id="tooltip-js"  >
 
     function showTooltip(event, tooltipId) {

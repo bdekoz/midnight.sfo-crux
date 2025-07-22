@@ -377,23 +377,6 @@ firefox
 </title>
  </path>
  </g>
-<g id="firefox-tooltip-images">
-<image id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-firefox_00000.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_02112" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-firefox_02112.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_02612" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-firefox_02612.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_02809" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-firefox_02809.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_02892" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-firefox_02892.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_03670" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-firefox_03670.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_03674" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-firefox_03674.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_03724" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-firefox_03724.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_03892" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-firefox_03892.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_03907" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-firefox_03907.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_04057" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-firefox_04057.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_04074" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-firefox_04074.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_04359" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-firefox_04359.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_04408" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-firefox_04408.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_04426" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-firefox_04426.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
-</g>
  <g id="polyline-chrome">
 <polyline points="100,500 265.554,208 294.651,208 303.084,204 304.602,180 305.867,160 312.867,160 321.301,136 331.084,136 332.687,116 395.687,116 409.602,112 411.036,112 412.47,104 797.133,104 798.398,100 " stroke-dasharray="3" stroke-linecap="round"  style="fill:rgb(148,148,148); fill-opacity:0; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1" />
  </g>
@@ -453,7 +436,24 @@ chrome
 </title>
  </circle>
  </g>
-<g id="chrome-tooltip-images">
+ <g id="firefox-tooltip-images">
+<image id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-firefox_00000.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_02112" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-firefox_02112.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_02612" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-firefox_02612.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_02809" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-firefox_02809.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_02892" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-firefox_02892.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_03670" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-firefox_03670.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_03674" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-firefox_03674.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_03724" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-firefox_03724.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_03892" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-firefox_03892.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_03907" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-firefox_03907.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_04057" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-firefox_04057.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_04074" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-firefox_04074.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_04359" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-firefox_04359.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_04408" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-firefox_04408.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_04426" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-firefox_04426.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
+</g>
+ <g id="chrome-tooltip-images">
 <image id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-chrome_00000.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
 <image id="chrome_scrn_01963" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-chrome_01963.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
 <image id="chrome_scrn_02408" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-chrome_02408.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
@@ -467,8 +467,6 @@ chrome
 </svg>
 
 {:/}
-
-
 <script type="text/javascript" crossorigin="anonymous" id="tooltip-js"  >
 
     function showTooltip(event, tooltipId) {

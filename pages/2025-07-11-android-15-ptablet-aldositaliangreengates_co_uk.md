@@ -314,18 +314,6 @@ firefox
 </title>
  </path>
  </g>
-<g id="firefox-tooltip-images">
-<image id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-aldositaliangreengates_co_uk-firefox_00000.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_02076" href="../filmstrip/2025-07-11-android-15-ptablet-aldositaliangreengates_co_uk-firefox_02076.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_02357" href="../filmstrip/2025-07-11-android-15-ptablet-aldositaliangreengates_co_uk-firefox_02357.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_02441" href="../filmstrip/2025-07-11-android-15-ptablet-aldositaliangreengates_co_uk-firefox_02441.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_02473" href="../filmstrip/2025-07-11-android-15-ptablet-aldositaliangreengates_co_uk-firefox_02473.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_02523" href="../filmstrip/2025-07-11-android-15-ptablet-aldositaliangreengates_co_uk-firefox_02523.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_02539" href="../filmstrip/2025-07-11-android-15-ptablet-aldositaliangreengates_co_uk-firefox_02539.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_03857" href="../filmstrip/2025-07-11-android-15-ptablet-aldositaliangreengates_co_uk-firefox_03857.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_03889" href="../filmstrip/2025-07-11-android-15-ptablet-aldositaliangreengates_co_uk-firefox_03889.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_04105" href="../filmstrip/2025-07-11-android-15-ptablet-aldositaliangreengates_co_uk-firefox_04105.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
-</g>
  <g id="polyline-chrome">
 <polyline points="100,500 205,300 225.737,300 226.632,164 227.526,148 228.421,148 229.368,116 307.316,116 308.263,112 323.053,112 323.947,108 689,108 689.895,112 691.632,112 692.474,116 696,116 696.842,120 700.421,120 701.263,124 714.421,124 715.368,128 738.105,128 738.947,124 745.947,124 746.789,120 751.158,120 751.947,116 755.579,116 756.474,112 759.895,112 760.789,108 764.421,108 765.158,104 776.579,104 777.474,100 778.421,104 780,104 780.895,100 " stroke-dasharray="3" stroke-linecap="round"  style="fill:rgb(148,148,148); fill-opacity:0; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1" />
  </g>
@@ -373,7 +361,19 @@ chrome
 </title>
  </circle>
  </g>
-<g id="chrome-tooltip-images">
+ <g id="firefox-tooltip-images">
+<image id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-aldositaliangreengates_co_uk-firefox_00000.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_02076" href="../filmstrip/2025-07-11-android-15-ptablet-aldositaliangreengates_co_uk-firefox_02076.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_02357" href="../filmstrip/2025-07-11-android-15-ptablet-aldositaliangreengates_co_uk-firefox_02357.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_02441" href="../filmstrip/2025-07-11-android-15-ptablet-aldositaliangreengates_co_uk-firefox_02441.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_02473" href="../filmstrip/2025-07-11-android-15-ptablet-aldositaliangreengates_co_uk-firefox_02473.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_02523" href="../filmstrip/2025-07-11-android-15-ptablet-aldositaliangreengates_co_uk-firefox_02523.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_02539" href="../filmstrip/2025-07-11-android-15-ptablet-aldositaliangreengates_co_uk-firefox_02539.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_03857" href="../filmstrip/2025-07-11-android-15-ptablet-aldositaliangreengates_co_uk-firefox_03857.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_03889" href="../filmstrip/2025-07-11-android-15-ptablet-aldositaliangreengates_co_uk-firefox_03889.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_04105" href="../filmstrip/2025-07-11-android-15-ptablet-aldositaliangreengates_co_uk-firefox_04105.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
+</g>
+ <g id="chrome-tooltip-images">
 <image id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-aldositaliangreengates_co_uk-chrome_00000.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
 <image id="chrome_scrn_01995" href="../filmstrip/2025-07-11-android-15-ptablet-aldositaliangreengates_co_uk-chrome_01995.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
 <image id="chrome_scrn_02406" href="../filmstrip/2025-07-11-android-15-ptablet-aldositaliangreengates_co_uk-chrome_02406.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
@@ -385,8 +385,6 @@ chrome
 </svg>
 
 {:/}
-
-
 <script type="text/javascript" crossorigin="anonymous" id="tooltip-js"  >
 
     function showTooltip(event, tooltipId) {
