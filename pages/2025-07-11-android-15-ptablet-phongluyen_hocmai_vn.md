@@ -343,20 +343,20 @@ chrome
  </circle>
  </g>
  <g id="firefox-tooltip-images">
-<image id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-phongluyen_hocmai_vn-firefox_00000.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_02026" href="../filmstrip/2025-07-11-android-15-ptablet-phongluyen_hocmai_vn-firefox_02026.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_04038" href="../filmstrip/2025-07-11-android-15-ptablet-phongluyen_hocmai_vn-firefox_04038.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_04919" href="../filmstrip/2025-07-11-android-15-ptablet-phongluyen_hocmai_vn-firefox_04919.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_05021" href="../filmstrip/2025-07-11-android-15-ptablet-phongluyen_hocmai_vn-firefox_05021.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_05102" href="../filmstrip/2025-07-11-android-15-ptablet-phongluyen_hocmai_vn-firefox_05102.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="firefox_scrn_05121" href="../filmstrip/2025-07-11-android-15-ptablet-phongluyen_hocmai_vn-firefox_05121.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-phongluyen_hocmai_vn-firefox_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_02026" href="../filmstrip/2025-07-11-android-15-ptablet-phongluyen_hocmai_vn-firefox_02026.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_04038" href="../filmstrip/2025-07-11-android-15-ptablet-phongluyen_hocmai_vn-firefox_04038.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_04919" href="../filmstrip/2025-07-11-android-15-ptablet-phongluyen_hocmai_vn-firefox_04919.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_05021" href="../filmstrip/2025-07-11-android-15-ptablet-phongluyen_hocmai_vn-firefox_05021.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_05102" href="../filmstrip/2025-07-11-android-15-ptablet-phongluyen_hocmai_vn-firefox_05102.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_05121" href="../filmstrip/2025-07-11-android-15-ptablet-phongluyen_hocmai_vn-firefox_05121.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
 </g>
  <g id="chrome-tooltip-images">
-<image id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-phongluyen_hocmai_vn-chrome_00000.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="chrome_scrn_01940" href="../filmstrip/2025-07-11-android-15-ptablet-phongluyen_hocmai_vn-chrome_01940.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="chrome_scrn_04019" href="../filmstrip/2025-07-11-android-15-ptablet-phongluyen_hocmai_vn-chrome_04019.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="chrome_scrn_04072" href="../filmstrip/2025-07-11-android-15-ptablet-phongluyen_hocmai_vn-chrome_04072.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
-<image id="chrome_scrn_05104" href="../filmstrip/2025-07-11-android-15-ptablet-phongluyen_hocmai_vn-chrome_05104.webp" x="0.000000" y="0.000000" width="135.000000" height="300.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-phongluyen_hocmai_vn-chrome_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="chrome_scrn_01940" href="../filmstrip/2025-07-11-android-15-ptablet-phongluyen_hocmai_vn-chrome_01940.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="chrome_scrn_04019" href="../filmstrip/2025-07-11-android-15-ptablet-phongluyen_hocmai_vn-chrome_04019.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="chrome_scrn_04072" href="../filmstrip/2025-07-11-android-15-ptablet-phongluyen_hocmai_vn-chrome_04072.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="chrome_scrn_05104" href="../filmstrip/2025-07-11-android-15-ptablet-phongluyen_hocmai_vn-chrome_05104.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
 </g>
 </svg>
 
