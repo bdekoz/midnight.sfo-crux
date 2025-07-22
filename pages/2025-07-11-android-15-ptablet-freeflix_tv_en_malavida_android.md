@@ -97,7 +97,8 @@ annotation line graph for SpeedIndexProgress
 <text x="690.361446" y="512.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">7.0s</text>
 <text x="732.530120" y="512.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">7.5s</text>
 <text x="774.698795" y="512.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">8.0s</text>
- </g> <g id="tic-y-annotation">
+ </g>
+ <g id="tic-y-annotation">
 <text x="76.000000" y="460.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">10%</text>
 <text x="824.000000" y="460.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">10%</text>
 <text x="76.000000" y="420.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">20%</text>
@@ -118,7 +119,8 @@ annotation line graph for SpeedIndexProgress
 <text x="824.000000" y="140.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">90%</text>
 <text x="76.000000" y="100.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">100%</text>
 <text x="824.000000" y="100.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">100%</text>
- </g> <g id="tic-y-lines-annotation">
+ </g>
+ <g id="tic-y-lines-annotation">
 <line x1="112.000000" y1="460.000000" x2="788.000000" y2="460.000000" style="fill:rgb(118,118,118); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:1" />
 <text x="142.168675" y="460.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">10%</text>
 <text x="184.337349" y="460.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">10%</text>
@@ -279,9 +281,11 @@ annotation line graph for SpeedIndexProgress
 <text x="648.192771" y="100.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">100%</text>
 <text x="690.361446" y="100.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">100%</text>
 <text x="732.530120" y="100.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">100%</text>
- </g> <g id="polyline-firefox">
+ </g>
+ <g id="polyline-firefox">
 <polyline points="100,500 153.386,500 278.12,220 317.422,220 320.289,148 335.639,148 336.904,156 341.12,156 343.904,124 407.072,124 409.518,108 409.855,104 414.072,112 422.506,112 428.241,100 429.506,104 440.723,104 442.157,100 443.59,104 466.193,104 467.627,100 470.41,100 471.759,104 473.277,100 " stroke-dasharray="1 2" stroke-linecap="triangle"  style="fill:rgb(46,46,46); fill-opacity:0; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1" />
- </g> <g id="markers-firefox">
+ </g>
+ <g id="markers-firefox">
  <path d="M 103.377 501.95 L 100 496.1 L 96.6225 501.95 L 103.377 501.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_00000')"  onmouseout="hideTooltip('firefox_scrn_00000')"   >
 <title>
 firefox
@@ -372,9 +376,11 @@ firefox
 100%, 4426ms
 </title>
  </path>
- </g> <g id="polyline-chrome">
+ </g>
+ <g id="polyline-chrome">
 <polyline points="100,500 265.554,208 294.651,208 303.084,204 304.602,180 305.867,160 312.867,160 321.301,136 331.084,136 332.687,116 395.687,116 409.602,112 411.036,112 412.47,104 797.133,104 798.398,100 " stroke-dasharray="3" stroke-linecap="round"  style="fill:rgb(148,148,148); fill-opacity:0; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1" />
- </g> <g id="markers-chrome">
+ </g>
+ <g id="markers-chrome">
  <circle cx="100.000000" cy="500.000000" r="3.000000" style="fill:rgb(255,255,255); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'chrome_scrn_00000')"  onmouseout="hideTooltip('chrome_scrn_00000')"   >
 <title>
 chrome
@@ -429,57 +435,34 @@ chrome
 99%, 3705ms
 </title>
  </circle>
- </g> <g id="firefox-tooltip-images">
-<image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-firefox_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="firefox_scrn_02112" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-firefox_02112.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="firefox_scrn_02612" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-firefox_02612.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="firefox_scrn_02809" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-firefox_02809.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="firefox_scrn_02892" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-firefox_02892.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="firefox_scrn_03670" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-firefox_03670.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="firefox_scrn_03674" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-firefox_03674.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="firefox_scrn_03724" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-firefox_03724.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="firefox_scrn_03892" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-firefox_03892.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="firefox_scrn_03907" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-firefox_03907.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="firefox_scrn_04057" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-firefox_04057.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="firefox_scrn_04074" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-firefox_04074.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="firefox_scrn_04359" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-firefox_04359.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="firefox_scrn_04408" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-firefox_04408.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="firefox_scrn_04426" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-firefox_04426.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
+ </g>
+ <g id="firefox-tooltip-images">
+<image id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-firefox_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_02112" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-firefox_02112.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_02612" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-firefox_02612.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_02809" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-firefox_02809.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_02892" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-firefox_02892.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_03670" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-firefox_03670.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_03674" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-firefox_03674.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_03724" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-firefox_03724.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_03892" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-firefox_03892.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_03907" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-firefox_03907.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_04057" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-firefox_04057.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_04074" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-firefox_04074.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_04359" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-firefox_04359.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_04408" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-firefox_04408.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_04426" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-firefox_04426.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
 </g>
  <g id="chrome-tooltip-images">
-<image  id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-chrome_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="chrome_scrn_01963" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-chrome_01963.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="chrome_scrn_02408" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-chrome_02408.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="chrome_scrn_02426" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-chrome_02426.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="chrome_scrn_02441" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-chrome_02441.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="chrome_scrn_02624" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-chrome_02624.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="chrome_scrn_02759" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-chrome_02759.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="chrome_scrn_03671" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-chrome_03671.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="chrome_scrn_03705" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-chrome_03705.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
+<image id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-chrome_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="chrome_scrn_01963" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-chrome_01963.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="chrome_scrn_02408" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-chrome_02408.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="chrome_scrn_02426" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-chrome_02426.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="chrome_scrn_02441" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-chrome_02441.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="chrome_scrn_02624" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-chrome_02624.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="chrome_scrn_02759" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-chrome_02759.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="chrome_scrn_03671" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-chrome_03671.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="chrome_scrn_03705" href="../filmstrip/2025-07-11-android-15-ptablet-freeflix_tv_en_malavida_android-chrome_03705.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
 </g>
 </svg>
 
@@ -506,15 +489,14 @@ chrome
 	console.error(`Element with ID "${tooltipId}" not found.`);
       }
     }
-    
 
     function hideTooltip(tooltipId) {
       const tooltipimg = document.getElementById(tooltipId);
       tooltipimg.setAttribute('visibility', 'hidden');
       //tooltipimg.setAttribute('display', 'none');
     }
-    
 </script>
+
 
 <div style="height: 50px;"></div>
 

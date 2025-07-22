@@ -80,15 +80,22 @@ viewBox="0 0 900.000000 600.000000" enable-background="new 0 0 900.000000 600.00
 annotation line graph for SpeedIndexProgress
 </desc>
  <g id="tic-x-annotation">
- </g> <g id="tic-y-annotation">
- </g> <g id="tic-y-lines-annotation">
- </g> <g id="polyline-firefox">
+ </g>
+ <g id="tic-y-annotation">
+ </g>
+ <g id="tic-y-lines-annotation">
+ </g>
+ <g id="polyline-firefox">
 <polyline  style="fill:rgb(46,46,46); fill-opacity:0; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1" />
- </g> <g id="markers-firefox">
-  </g> <g id="polyline-chrome">
+ </g>
+ <g id="markers-firefox">
+  </g>
+ <g id="polyline-chrome">
 <polyline  style="fill:rgb(148,148,148); fill-opacity:0; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1" />
- </g> <g id="markers-chrome">
-  </g> <g id="firefox-tooltip-images">
+ </g>
+ <g id="markers-chrome">
+  </g>
+ <g id="firefox-tooltip-images">
 </g>
  <g id="chrome-tooltip-images">
 </g>
@@ -117,15 +124,14 @@ annotation line graph for SpeedIndexProgress
 	console.error(`Element with ID "${tooltipId}" not found.`);
       }
     }
-    
 
     function hideTooltip(tooltipId) {
       const tooltipimg = document.getElementById(tooltipId);
       tooltipimg.setAttribute('visibility', 'hidden');
       //tooltipimg.setAttribute('display', 'none');
     }
-    
 </script>
+
 
 <div style="height: 50px;"></div>
 

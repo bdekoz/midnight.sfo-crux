@@ -102,7 +102,8 @@ annotation line graph for SpeedIndexProgress
 <text x="732.399791" y="512.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">19.0s</text>
 <text x="765.683990" y="512.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">20.0s</text>
 <text x="798.968190" y="512.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">21.0s</text>
- </g> <g id="tic-y-annotation">
+ </g>
+ <g id="tic-y-annotation">
 <text x="76.000000" y="460.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">10%</text>
 <text x="824.000000" y="460.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">10%</text>
 <text x="76.000000" y="420.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">20%</text>
@@ -123,7 +124,8 @@ annotation line graph for SpeedIndexProgress
 <text x="824.000000" y="140.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">90%</text>
 <text x="76.000000" y="100.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">100%</text>
 <text x="824.000000" y="100.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">100%</text>
- </g> <g id="tic-y-lines-annotation">
+ </g>
+ <g id="tic-y-lines-annotation">
 <line x1="112.000000" y1="460.000000" x2="788.000000" y2="460.000000" style="fill:rgb(118,118,118); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:1" />
 <text x="133.284200" y="460.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">10%</text>
 <text x="166.568399" y="460.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">10%</text>
@@ -334,9 +336,11 @@ annotation line graph for SpeedIndexProgress
 <text x="699.115591" y="100.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">100%</text>
 <text x="732.399791" y="100.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">100%</text>
 <text x="765.683990" y="100.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">100%</text>
- </g> <g id="polyline-firefox">
+ </g>
+ <g id="polyline-firefox">
 <polyline points="100,500 119.671,500 167.633,288 544.211,288 546.907,280 571.903,280 572.403,276 576.33,276 576.829,272 577.395,272 577.961,268 578.494,264 579.026,260 579.592,256 580.158,236 580.724,224 581.323,188 581.855,140 582.488,132 582.954,116 584.052,116 584.618,112 599.03,112 599.563,104 635.01,104 641.634,100 778.399,100 785.588,104 792.777,104 800,100 " stroke-dasharray="1 2" stroke-linecap="triangle"  style="fill:rgb(46,46,46); fill-opacity:0; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1" />
- </g> <g id="markers-firefox">
+ </g>
+ <g id="markers-firefox">
  <path d="M 103.377 501.95 L 100 496.1 L 96.6225 501.95 L 103.377 501.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_00000')"  onmouseout="hideTooltip('firefox_scrn_00000')"   >
 <title>
 firefox
@@ -445,9 +449,11 @@ firefox
 100%, 16273ms
 </title>
  </path>
- </g> <g id="polyline-chrome">
+ </g>
+ <g id="polyline-chrome">
 <polyline points="100,500 164.571,284 520.08,284 521.112,276 542.147,276 544.344,272 549.47,272 550.036,268 551.667,268 552.199,264 552.832,256 553.331,248 553.963,240 554.429,172 554.995,140 555.561,136 560.52,136 560.986,124 588.113,124 588.679,104 605.853,100 " stroke-dasharray="3" stroke-linecap="round"  style="fill:rgb(148,148,148); fill-opacity:0; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1" />
- </g> <g id="markers-chrome">
+ </g>
+ <g id="markers-chrome">
  <circle cx="100.000000" cy="500.000000" r="3.000000" style="fill:rgb(255,255,255); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'chrome_scrn_00000')"  onmouseout="hideTooltip('chrome_scrn_00000')"   >
 <title>
 chrome
@@ -520,69 +526,40 @@ chrome
 91%, 13687ms
 </title>
  </circle>
- </g> <g id="firefox-tooltip-images">
-<image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-vehiclelifetimesolutions_schaeffler_ro-firefox_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="firefox_scrn_02032" href="../filmstrip/2025-07-11-android-15-ptablet-vehiclelifetimesolutions_schaeffler_ro-firefox_02032.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="firefox_scrn_13427" href="../filmstrip/2025-07-11-android-15-ptablet-vehiclelifetimesolutions_schaeffler_ro-firefox_13427.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="firefox_scrn_14193" href="../filmstrip/2025-07-11-android-15-ptablet-vehiclelifetimesolutions_schaeffler_ro-firefox_14193.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="firefox_scrn_14326" href="../filmstrip/2025-07-11-android-15-ptablet-vehiclelifetimesolutions_schaeffler_ro-firefox_14326.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="firefox_scrn_14360" href="../filmstrip/2025-07-11-android-15-ptablet-vehiclelifetimesolutions_schaeffler_ro-firefox_14360.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="firefox_scrn_14376" href="../filmstrip/2025-07-11-android-15-ptablet-vehiclelifetimesolutions_schaeffler_ro-firefox_14376.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="firefox_scrn_14392" href="../filmstrip/2025-07-11-android-15-ptablet-vehiclelifetimesolutions_schaeffler_ro-firefox_14392.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="firefox_scrn_14409" href="../filmstrip/2025-07-11-android-15-ptablet-vehiclelifetimesolutions_schaeffler_ro-firefox_14409.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="firefox_scrn_14426" href="../filmstrip/2025-07-11-android-15-ptablet-vehiclelifetimesolutions_schaeffler_ro-firefox_14426.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="firefox_scrn_14443" href="../filmstrip/2025-07-11-android-15-ptablet-vehiclelifetimesolutions_schaeffler_ro-firefox_14443.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="firefox_scrn_14461" href="../filmstrip/2025-07-11-android-15-ptablet-vehiclelifetimesolutions_schaeffler_ro-firefox_14461.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="firefox_scrn_14477" href="../filmstrip/2025-07-11-android-15-ptablet-vehiclelifetimesolutions_schaeffler_ro-firefox_14477.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="firefox_scrn_14496" href="../filmstrip/2025-07-11-android-15-ptablet-vehiclelifetimesolutions_schaeffler_ro-firefox_14496.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="firefox_scrn_14510" href="../filmstrip/2025-07-11-android-15-ptablet-vehiclelifetimesolutions_schaeffler_ro-firefox_14510.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="firefox_scrn_14560" href="../filmstrip/2025-07-11-android-15-ptablet-vehiclelifetimesolutions_schaeffler_ro-firefox_14560.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="firefox_scrn_15009" href="../filmstrip/2025-07-11-android-15-ptablet-vehiclelifetimesolutions_schaeffler_ro-firefox_15009.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="firefox_scrn_16273" href="../filmstrip/2025-07-11-android-15-ptablet-vehiclelifetimesolutions_schaeffler_ro-firefox_16273.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
+ </g>
+ <g id="firefox-tooltip-images">
+<image id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-vehiclelifetimesolutions_schaeffler_ro-firefox_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_02032" href="../filmstrip/2025-07-11-android-15-ptablet-vehiclelifetimesolutions_schaeffler_ro-firefox_02032.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_13427" href="../filmstrip/2025-07-11-android-15-ptablet-vehiclelifetimesolutions_schaeffler_ro-firefox_13427.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_14193" href="../filmstrip/2025-07-11-android-15-ptablet-vehiclelifetimesolutions_schaeffler_ro-firefox_14193.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_14326" href="../filmstrip/2025-07-11-android-15-ptablet-vehiclelifetimesolutions_schaeffler_ro-firefox_14326.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_14360" href="../filmstrip/2025-07-11-android-15-ptablet-vehiclelifetimesolutions_schaeffler_ro-firefox_14360.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_14376" href="../filmstrip/2025-07-11-android-15-ptablet-vehiclelifetimesolutions_schaeffler_ro-firefox_14376.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_14392" href="../filmstrip/2025-07-11-android-15-ptablet-vehiclelifetimesolutions_schaeffler_ro-firefox_14392.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_14409" href="../filmstrip/2025-07-11-android-15-ptablet-vehiclelifetimesolutions_schaeffler_ro-firefox_14409.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_14426" href="../filmstrip/2025-07-11-android-15-ptablet-vehiclelifetimesolutions_schaeffler_ro-firefox_14426.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_14443" href="../filmstrip/2025-07-11-android-15-ptablet-vehiclelifetimesolutions_schaeffler_ro-firefox_14443.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_14461" href="../filmstrip/2025-07-11-android-15-ptablet-vehiclelifetimesolutions_schaeffler_ro-firefox_14461.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_14477" href="../filmstrip/2025-07-11-android-15-ptablet-vehiclelifetimesolutions_schaeffler_ro-firefox_14477.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_14496" href="../filmstrip/2025-07-11-android-15-ptablet-vehiclelifetimesolutions_schaeffler_ro-firefox_14496.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_14510" href="../filmstrip/2025-07-11-android-15-ptablet-vehiclelifetimesolutions_schaeffler_ro-firefox_14510.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_14560" href="../filmstrip/2025-07-11-android-15-ptablet-vehiclelifetimesolutions_schaeffler_ro-firefox_14560.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_15009" href="../filmstrip/2025-07-11-android-15-ptablet-vehiclelifetimesolutions_schaeffler_ro-firefox_15009.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_16273" href="../filmstrip/2025-07-11-android-15-ptablet-vehiclelifetimesolutions_schaeffler_ro-firefox_16273.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
 </g>
  <g id="chrome-tooltip-images">
-<image  id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-vehiclelifetimesolutions_schaeffler_ro-chrome_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="chrome_scrn_01940" href="../filmstrip/2025-07-11-android-15-ptablet-vehiclelifetimesolutions_schaeffler_ro-chrome_01940.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="chrome_scrn_12652" href="../filmstrip/2025-07-11-android-15-ptablet-vehiclelifetimesolutions_schaeffler_ro-chrome_12652.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="chrome_scrn_13350" href="../filmstrip/2025-07-11-android-15-ptablet-vehiclelifetimesolutions_schaeffler_ro-chrome_13350.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="chrome_scrn_13521" href="../filmstrip/2025-07-11-android-15-ptablet-vehiclelifetimesolutions_schaeffler_ro-chrome_13521.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="chrome_scrn_13586" href="../filmstrip/2025-07-11-android-15-ptablet-vehiclelifetimesolutions_schaeffler_ro-chrome_13586.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="chrome_scrn_13605" href="../filmstrip/2025-07-11-android-15-ptablet-vehiclelifetimesolutions_schaeffler_ro-chrome_13605.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="chrome_scrn_13620" href="../filmstrip/2025-07-11-android-15-ptablet-vehiclelifetimesolutions_schaeffler_ro-chrome_13620.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="chrome_scrn_13639" href="../filmstrip/2025-07-11-android-15-ptablet-vehiclelifetimesolutions_schaeffler_ro-chrome_13639.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="chrome_scrn_13653" href="../filmstrip/2025-07-11-android-15-ptablet-vehiclelifetimesolutions_schaeffler_ro-chrome_13653.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="chrome_scrn_13670" href="../filmstrip/2025-07-11-android-15-ptablet-vehiclelifetimesolutions_schaeffler_ro-chrome_13670.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="chrome_scrn_13687" href="../filmstrip/2025-07-11-android-15-ptablet-vehiclelifetimesolutions_schaeffler_ro-chrome_13687.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
+<image id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-vehiclelifetimesolutions_schaeffler_ro-chrome_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="chrome_scrn_01940" href="../filmstrip/2025-07-11-android-15-ptablet-vehiclelifetimesolutions_schaeffler_ro-chrome_01940.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="chrome_scrn_12652" href="../filmstrip/2025-07-11-android-15-ptablet-vehiclelifetimesolutions_schaeffler_ro-chrome_12652.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="chrome_scrn_13350" href="../filmstrip/2025-07-11-android-15-ptablet-vehiclelifetimesolutions_schaeffler_ro-chrome_13350.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="chrome_scrn_13521" href="../filmstrip/2025-07-11-android-15-ptablet-vehiclelifetimesolutions_schaeffler_ro-chrome_13521.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="chrome_scrn_13586" href="../filmstrip/2025-07-11-android-15-ptablet-vehiclelifetimesolutions_schaeffler_ro-chrome_13586.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="chrome_scrn_13605" href="../filmstrip/2025-07-11-android-15-ptablet-vehiclelifetimesolutions_schaeffler_ro-chrome_13605.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="chrome_scrn_13620" href="../filmstrip/2025-07-11-android-15-ptablet-vehiclelifetimesolutions_schaeffler_ro-chrome_13620.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="chrome_scrn_13639" href="../filmstrip/2025-07-11-android-15-ptablet-vehiclelifetimesolutions_schaeffler_ro-chrome_13639.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="chrome_scrn_13653" href="../filmstrip/2025-07-11-android-15-ptablet-vehiclelifetimesolutions_schaeffler_ro-chrome_13653.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="chrome_scrn_13670" href="../filmstrip/2025-07-11-android-15-ptablet-vehiclelifetimesolutions_schaeffler_ro-chrome_13670.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="chrome_scrn_13687" href="../filmstrip/2025-07-11-android-15-ptablet-vehiclelifetimesolutions_schaeffler_ro-chrome_13687.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
 </g>
 </svg>
 
@@ -609,15 +586,14 @@ chrome
 	console.error(`Element with ID "${tooltipId}" not found.`);
       }
     }
-    
 
     function hideTooltip(tooltipId) {
       const tooltipimg = document.getElementById(tooltipId);
       tooltipimg.setAttribute('visibility', 'hidden');
       //tooltipimg.setAttribute('display', 'none');
     }
-    
 </script>
+
 
 <div style="height: 50px;"></div>
 

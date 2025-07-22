@@ -95,7 +95,8 @@ annotation line graph for SpeedIndexProgress
 <text x="694.521905" y="512.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">12.0s</text>
 <text x="744.065397" y="512.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">13.0s</text>
 <text x="793.608890" y="512.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">14.0s</text>
- </g> <g id="tic-y-annotation">
+ </g>
+ <g id="tic-y-annotation">
 <text x="76.000000" y="460.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">10%</text>
 <text x="824.000000" y="460.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">10%</text>
 <text x="76.000000" y="420.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">20%</text>
@@ -116,7 +117,8 @@ annotation line graph for SpeedIndexProgress
 <text x="824.000000" y="140.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">90%</text>
 <text x="76.000000" y="100.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">100%</text>
 <text x="824.000000" y="100.000000" font-family="Apercu" font-size="7.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">100%</text>
- </g> <g id="tic-y-lines-annotation">
+ </g>
+ <g id="tic-y-lines-annotation">
 <line x1="112.000000" y1="460.000000" x2="788.000000" y2="460.000000" style="fill:rgb(118,118,118); fill-opacity:0; stroke:rgb(230,230,230); stroke-opacity:1; stroke-width:1" />
 <text x="149.543492" y="460.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">10%</text>
 <text x="199.086984" y="460.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">10%</text>
@@ -257,9 +259,11 @@ annotation line graph for SpeedIndexProgress
 <text x="644.978413" y="100.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">100%</text>
 <text x="694.521905" y="100.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">100%</text>
 <text x="744.065397" y="100.000000" font-family="Apercu" font-size="3.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5">100%</text>
- </g> <g id="polyline-firefox">
+ </g>
+ <g id="polyline-firefox">
 <polyline points="100,500 130.073,500 200.871,252 304.615,252 308.727,108 312.096,108 312.888,112 313.731,112 314.523,108 315.366,112 316.257,108 317.05,112 317.892,108 319.478,108 320.27,100 321.113,104 321.955,100 322.748,104 323.54,100 325.225,100 326.909,104 327.751,100 335.976,100 336.818,104 643.443,104 800,100 " stroke-dasharray="1 2" stroke-linecap="triangle"  style="fill:rgb(46,46,46); fill-opacity:0; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1" />
- </g> <g id="markers-firefox">
+ </g>
+ <g id="markers-firefox">
  <path d="M 103.377 501.95 L 100 496.1 L 96.6225 501.95 L 103.377 501.95 " style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(46,46,46); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'firefox_scrn_00000')"  onmouseout="hideTooltip('firefox_scrn_00000')"   >
 <title>
 firefox
@@ -368,9 +372,11 @@ firefox
 100%, 14129ms
 </title>
  </path>
- </g> <g id="polyline-chrome">
+ </g>
+ <g id="polyline-chrome">
 <polyline points="100,500 195.421,256 316.604,256 319.18,192 320.716,192 323.986,160 324.779,160 326.414,164 327.206,152 328.049,152 328.841,140 334.688,140 335.431,136 354.406,136 355.298,132 356.883,132 360.995,104 374.223,104 377.493,100 " stroke-dasharray="3" stroke-linecap="round"  style="fill:rgb(148,148,148); fill-opacity:0; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1" />
- </g> <g id="markers-chrome">
+ </g>
+ <g id="markers-chrome">
  <circle cx="100.000000" cy="500.000000" r="3.000000" style="fill:rgb(255,255,255); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:1"  onmouseover="showTooltip(event, 'chrome_scrn_00000')"  onmouseout="hideTooltip('chrome_scrn_00000')"   >
 <title>
 chrome
@@ -437,67 +443,39 @@ chrome
 100%, 5601ms
 </title>
  </circle>
- </g> <g id="firefox-tooltip-images">
-<image  id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-rocker_sk-firefox_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="firefox_scrn_02036" href="../filmstrip/2025-07-11-android-15-ptablet-rocker_sk-firefox_02036.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="firefox_scrn_04213" href="../filmstrip/2025-07-11-android-15-ptablet-rocker_sk-firefox_04213.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="firefox_scrn_04297" href="../filmstrip/2025-07-11-android-15-ptablet-rocker_sk-firefox_04297.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="firefox_scrn_04330" href="../filmstrip/2025-07-11-android-15-ptablet-rocker_sk-firefox_04330.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="firefox_scrn_04347" href="../filmstrip/2025-07-11-android-15-ptablet-rocker_sk-firefox_04347.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="firefox_scrn_04365" href="../filmstrip/2025-07-11-android-15-ptablet-rocker_sk-firefox_04365.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="firefox_scrn_04381" href="../filmstrip/2025-07-11-android-15-ptablet-rocker_sk-firefox_04381.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="firefox_scrn_04398" href="../filmstrip/2025-07-11-android-15-ptablet-rocker_sk-firefox_04398.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="firefox_scrn_04446" href="../filmstrip/2025-07-11-android-15-ptablet-rocker_sk-firefox_04446.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="firefox_scrn_04463" href="../filmstrip/2025-07-11-android-15-ptablet-rocker_sk-firefox_04463.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="firefox_scrn_04480" href="../filmstrip/2025-07-11-android-15-ptablet-rocker_sk-firefox_04480.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="firefox_scrn_04496" href="../filmstrip/2025-07-11-android-15-ptablet-rocker_sk-firefox_04496.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="firefox_scrn_04512" href="../filmstrip/2025-07-11-android-15-ptablet-rocker_sk-firefox_04512.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="firefox_scrn_04580" href="../filmstrip/2025-07-11-android-15-ptablet-rocker_sk-firefox_04580.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="firefox_scrn_04597" href="../filmstrip/2025-07-11-android-15-ptablet-rocker_sk-firefox_04597.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="firefox_scrn_04780" href="../filmstrip/2025-07-11-android-15-ptablet-rocker_sk-firefox_04780.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="firefox_scrn_14129" href="../filmstrip/2025-07-11-android-15-ptablet-rocker_sk-firefox_14129.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
+ </g>
+ <g id="firefox-tooltip-images">
+<image id="firefox_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-rocker_sk-firefox_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_02036" href="../filmstrip/2025-07-11-android-15-ptablet-rocker_sk-firefox_02036.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_04213" href="../filmstrip/2025-07-11-android-15-ptablet-rocker_sk-firefox_04213.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_04297" href="../filmstrip/2025-07-11-android-15-ptablet-rocker_sk-firefox_04297.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_04330" href="../filmstrip/2025-07-11-android-15-ptablet-rocker_sk-firefox_04330.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_04347" href="../filmstrip/2025-07-11-android-15-ptablet-rocker_sk-firefox_04347.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_04365" href="../filmstrip/2025-07-11-android-15-ptablet-rocker_sk-firefox_04365.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_04381" href="../filmstrip/2025-07-11-android-15-ptablet-rocker_sk-firefox_04381.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_04398" href="../filmstrip/2025-07-11-android-15-ptablet-rocker_sk-firefox_04398.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_04446" href="../filmstrip/2025-07-11-android-15-ptablet-rocker_sk-firefox_04446.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_04463" href="../filmstrip/2025-07-11-android-15-ptablet-rocker_sk-firefox_04463.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_04480" href="../filmstrip/2025-07-11-android-15-ptablet-rocker_sk-firefox_04480.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_04496" href="../filmstrip/2025-07-11-android-15-ptablet-rocker_sk-firefox_04496.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_04512" href="../filmstrip/2025-07-11-android-15-ptablet-rocker_sk-firefox_04512.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_04580" href="../filmstrip/2025-07-11-android-15-ptablet-rocker_sk-firefox_04580.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_04597" href="../filmstrip/2025-07-11-android-15-ptablet-rocker_sk-firefox_04597.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_04780" href="../filmstrip/2025-07-11-android-15-ptablet-rocker_sk-firefox_04780.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="firefox_scrn_14129" href="../filmstrip/2025-07-11-android-15-ptablet-rocker_sk-firefox_14129.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
 </g>
  <g id="chrome-tooltip-images">
-<image  id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-rocker_sk-chrome_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="chrome_scrn_01926" href="../filmstrip/2025-07-11-android-15-ptablet-rocker_sk-chrome_01926.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="chrome_scrn_04424" href="../filmstrip/2025-07-11-android-15-ptablet-rocker_sk-chrome_04424.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="chrome_scrn_04521" href="../filmstrip/2025-07-11-android-15-ptablet-rocker_sk-chrome_04521.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="chrome_scrn_04570" href="../filmstrip/2025-07-11-android-15-ptablet-rocker_sk-chrome_04570.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="chrome_scrn_04586" href="../filmstrip/2025-07-11-android-15-ptablet-rocker_sk-chrome_04586.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="chrome_scrn_04619" href="../filmstrip/2025-07-11-android-15-ptablet-rocker_sk-chrome_04619.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="chrome_scrn_04752" href="../filmstrip/2025-07-11-android-15-ptablet-rocker_sk-chrome_04752.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="chrome_scrn_05153" href="../filmstrip/2025-07-11-android-15-ptablet-rocker_sk-chrome_05153.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="chrome_scrn_05268" href="../filmstrip/2025-07-11-android-15-ptablet-rocker_sk-chrome_05268.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
-<image  id="chrome_scrn_05601" href="../filmstrip/2025-07-11-android-15-ptablet-rocker_sk-chrome_05601.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000"
- crossorigin="anonymous" visibility="hidden"  />
+<image id="chrome_scrn_00000" href="../filmstrip/2025-07-11-android-15-ptablet-rocker_sk-chrome_00000.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="chrome_scrn_01926" href="../filmstrip/2025-07-11-android-15-ptablet-rocker_sk-chrome_01926.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="chrome_scrn_04424" href="../filmstrip/2025-07-11-android-15-ptablet-rocker_sk-chrome_04424.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="chrome_scrn_04521" href="../filmstrip/2025-07-11-android-15-ptablet-rocker_sk-chrome_04521.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="chrome_scrn_04570" href="../filmstrip/2025-07-11-android-15-ptablet-rocker_sk-chrome_04570.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="chrome_scrn_04586" href="../filmstrip/2025-07-11-android-15-ptablet-rocker_sk-chrome_04586.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="chrome_scrn_04619" href="../filmstrip/2025-07-11-android-15-ptablet-rocker_sk-chrome_04619.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="chrome_scrn_04752" href="../filmstrip/2025-07-11-android-15-ptablet-rocker_sk-chrome_04752.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="chrome_scrn_05153" href="../filmstrip/2025-07-11-android-15-ptablet-rocker_sk-chrome_05153.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="chrome_scrn_05268" href="../filmstrip/2025-07-11-android-15-ptablet-rocker_sk-chrome_05268.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
+<image id="chrome_scrn_05601" href="../filmstrip/2025-07-11-android-15-ptablet-rocker_sk-chrome_05601.webp" x="0.000000" y="0.000000" width="200.000000" height="320.000000" crossorigin="anonymous" visibility="hidden"  />
 </g>
 </svg>
 
@@ -524,15 +502,14 @@ chrome
 	console.error(`Element with ID "${tooltipId}" not found.`);
       }
     }
-    
 
     function hideTooltip(tooltipId) {
       const tooltipimg = document.getElementById(tooltipId);
       tooltipimg.setAttribute('visibility', 'hidden');
       //tooltipimg.setAttribute('display', 'none');
     }
-    
 </script>
+
 
 <div style="height: 50px;"></div>
 

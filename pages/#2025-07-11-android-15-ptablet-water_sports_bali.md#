@@ -432,12 +432,14 @@ chrome
 	console.error(`Element with ID "${tooltipId}" not found.`);
       }
     }
+    
 
     function hideTooltip(tooltipId) {
       const tooltipimg = document.getElementById(tooltipId);
       tooltipimg.setAttribute('visibility', 'hidden');
       //tooltipimg.setAttribute('display', 'none');
     }
+    
 </script>
 
 
